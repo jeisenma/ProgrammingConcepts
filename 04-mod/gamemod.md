@@ -3,7 +3,7 @@
 --------------------------------
 
 ## Discussion
-- Intro to [Processing](http://processing.org/) 
+- Intro to [Processing](http://www.processing.org/) 
 - [Hacking](http://en.wikipedia.org/wiki/Hacker_(hobbyist))/[Mod-ing](http://en.wikipedia.org/wiki/Mod_(video_gaming))
 
 ## Programming Concepts
@@ -32,4 +32,4 @@
 	5. This should create an MOV file which you can upload to the Carmen dropbox.
 	6. Make sure your movie is 30 seconds or less and has a resolution of 400x400
 	
-[GameMod]: https://www.dropbox.com/s/otvqi5pfa5a2wxo/GameMod.zip?dl=1
+[GameMod]: pcad.py?page=04-mod/GameMod.zip

@@ -42,5 +42,5 @@
 [Recorded Motion]: pcad.py?page=06-animation/recordedMotion.py
 [Making Waves]: pcad.py?page=06-animation/waves.py
 [Bouncing ball]: pcad.py?page=06-animation/bouncy.py
-[Springs]: pcad.py?page=06-animation/springs.py
+[Springs]: pcad.py?page=06-animation/springy.py
 [Noisy Worm]: pcad.py?page=06-animation/worm.py

@@ -1,0 +1,63 @@
+--------------------------------
+# Setup
+--------------------------------
+
+Here are the links and instructions you will need to work with the same development tools on your own computer.  Everything below is already set up for you at ACCAD.  
+
+## [Scratch][]
+
+- This one runs in a browser.  No need to install.  
+
+## [Python](http://www.python.org/)
+
+- Currently, I recommend downloading the latest 2.7 version.  There are some major changes in 3.0+ that aren't compatible yet with most modules and APIs.
+
+## [Processing-py][processing-py]
+
+- Download [processing-py][]. Unzip it to location on your hard drive. (Remember where!)
+- Download & Install [jEdit][].
+- Run jEdit and go to Plugins > Plugin Manager.  In the "Install" tab, select and install the following plugins:
+	- BufferTabs
+	- ErrorList
+- Save [this keyboard shortcuts file][] to your <USER>/AppData/Roaming/jEdit/keymaps folder.
+- Save [this XML file][] to your <USER>/AppData/Roaming/jEdit/console/commando folder. 
+- (You may need to change the default values for "path to java" and "path to processing-py.jar" to reflect the locations of java and processing-py on your computer.)
+- Restart jEdit.
+- Go to Utilities > Options > Editing and set Tab Width and Indent Width equal to 4
+- Go to Utilities > Options > Shortcuts and select "p5py" from the "Choose keymap" drop down menu.  Hit "Apply" at the bottom of the window.
+- Go to Plugins > Plugin Options, then select Console > Error Patterns.  Hit the "+" button and type "python", hit "OK" twice.
+- To test that everything is working
+	1. copy this code: "ellipse(50,50,50,50)" without the quotes to a new file
+	2. save it as "test.py" 
+	3. hit Ctrl+r and hit "OK"
+	4. you should see a white circle on a grey background
+
+<!--
+
+- In jEdit, go to Plugins > Plugin Options.  Create a new error pattern by hitting the plus-sign button and edit to look like [this screenshot](https://www.dropbox.com/s/o37bi4v9wsec40s/jEditErrorPatterns.png?dl=1)
+- Download [processing-py][]
+- Unzip it to your Desktop
+- Find the p5py.exe file inside the folder, right-click on it and choose "Pin to Taskbar"
+-->
+
+<!--
+- In [Notepad++][] go to Run > Run...
+- Copy and paste this command: 
+	- java -jar Z:\processing.py-0021\processing-py.jar "$(FULL_CURRENT_PATH)"
+- Then hit the "Save" button and name it: "processing-py"
+- Assign the keystroke ctrl+R and hit "OK"
+-->
+
+## [Processing](http://processing.org/download/)
+
+- Download and unzip it
+
+
+[Scratch]: http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
+[processing-py]: http://s.xr.io/processing.py/latest.zip
+<!--http://accad.osu.edu/~jeisenma/teaching/pcad_p5/Python_p5py.zip-->
+<!--https://github.com/jdf/processing.py#quick-start-->
+[this XML file]: https://www.dropbox.com/s/4olkzrub6537yjb/PYP5.xml?dl=1
+[this keyboard shortcuts file]: https://www.dropbox.com/s/1xy2okuixci9cey/p5py_keys.props?dl=1
+[jEdit]: http://sourceforge.net/projects/jedit/files/jedit/5.0.0/jedit5.0.0install.jar/download
+[Notepad++]: http://notepad-plus-plus.org/download/v6.3.3.html

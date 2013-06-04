@@ -6,7 +6,7 @@
 - [Scratch][] basics
 - Basic geometry review
 
-## Programming Basics
+## Programming Concepts
 - Sequencing
 - Loops
 - Variables

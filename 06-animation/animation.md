@@ -11,6 +11,10 @@
 	- ease-in/ease-out
 	- overlapping 
 
+## Programming Concepts
+- Functions and parameters
+- Loops and arrays (again!)
+
 ## Examples
  - [Animated Sprite][] ([data](pcad.py?page=06-animation/animatedSprite/data.zip))
  - [Recorded Motion][]

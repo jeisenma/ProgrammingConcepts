@@ -3,11 +3,14 @@
 --------------------------------
 
 ## Discussion
-- 
-- 
+- properties and actions
+- constructors
+- what is "self"?
+- generating lots of stuff
 
 ## Programming Concepts
-- 
+- Encapsulation (aka Object-Oriented Programming)
+- Lists!
 
 ## Lab
 - 

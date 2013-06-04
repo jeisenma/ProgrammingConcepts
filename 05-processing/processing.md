@@ -8,7 +8,7 @@
 - Drawing shapes
 - Collision tests
 
-## Programming Basics
+## Programming Concepts
 - Loops
 - Arrays
 - Documenting your code

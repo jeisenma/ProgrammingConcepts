@@ -16,7 +16,7 @@
 - Mouse and keyboard events and callbacks
  
 ## Examples
-- [Sprite][] ([image file](https://www.dropbox.com/s/lnprdqr2ce1x77y/sprite.png?dl=1))
+- [Sprite][] ([image file](sprite.png))
 - [Lines][]
 - [Blotchy pen][]
 - [Circles][]
@@ -43,14 +43,14 @@
 - You can receive up to 3 extra credit points for adding an extra creative feature based on loops, arrays or the constrain function.
 
 [Processing]: http://www.processing.org/
-[Sprite]: https://www.dropbox.com/s/5wmsftbvn27rwxw/sprite.py?dl=1
-[Lines]: https://www.dropbox.com/s/gc97ye8s8xucl5h/lines.py?dl=1
-[Blotchy pen]: https://www.dropbox.com/s/h181u7bthyar0a5/blotchyPen.py?dl=1
-[Circles]: https://www.dropbox.com/s/i7mkf9vjoa4i7wx/circles.py?dl=1
-[Spiral]: https://www.dropbox.com/s/hun5bf8qbkdq0vh/spiral.py?dl=1
-[More circles]: https://www.dropbox.com/s/6mvt8ppovxx4vb5/moreCircles.py?dl=1
-[Circle test]: https://www.dropbox.com/s/ts9j9nndy9whpqu/circleTest.py?dl=1
-[Rectangle test]: https://www.dropbox.com/s/6e6o9i69nicmpwp/rectTest.py?dl=1
-[Constrain]: https://www.dropbox.com/s/o20d0x0fup7str8/constrain.py?dl=1
-[Logical operators]: https://www.dropbox.com/s/a16dtn9ixlbxsh1/logicalOps.py?dl=1
-[Clicky stripes]: https://www.dropbox.com/s/d7ry8u2svj7da4r/clickyStripes.py?dl=1
+[Sprite]: pcad.py?page=05-processing/sprite.py
+[Lines]: pcad.py?page=05-processing/lines.py
+[Blotchy pen]: pcad.py?page=05-processing/blotchyPen.py
+[Circles]: pcad.py?page=05-processing/circles.py
+[Spiral]: pcad.py?page=05-processing/spiral.py
+[More circles]: pcad.py?page=05-processing/moreCircles.py
+[Circle test]: pcad.py?page=05-processing/circleTest.py
+[Rectangle test]: pcad.py?page=05-processing/rectTest.py
+[Constrain]: pcad.py?page=05-processing/constrain.py
+[Logical operators]: pcad.py?page=05-processing/logicalOps.py
+[Clicky stripes]: pcad.py?page=05-processing/clickyStripes.py

@@ -12,7 +12,7 @@
 	- overlapping 
 
 ## Examples
- - [Animated Sprite][] ([images](https://www.dropbox.com/s/jtpmd2znxyqhq99/data.zip?dl=1))
+ - [Animated Sprite][] 
  - [Recorded Motion][]
  - [Making Waves][]
  - [Bouncing ball][]
@@ -34,9 +34,9 @@
 	- you are encouraged to make this a building block for your data visualization project (we'll encapsulate this and make multiples of it next time)
 - Save it to a file called animation.py and submit it on Carmen. (10 points)
 
-[Animated Sprite]: https://www.dropbox.com/s/4d03dhvjhjxgegs/animatedSprite.py?dl=1
-[Recorded Motion]: https://www.dropbox.com/s/4zw48mie8y5lfxk/recordedMotion.py?dl=1
-[Making Waves]: https://www.dropbox.com/s/zfgq7dj9mv7pdwv/waves.py
-[Bouncing ball]: 
-[Springs]: 
-[Noisy Worm]: 
+[Animated Sprite]: pcad.py?page=06-animation/animatedSprite/
+[Recorded Motion]: pcad.py?page=06-animation/recordedMotion.py
+[Making Waves]: pcad.py?page=06-animation/waves.py
+[Bouncing ball]: pcad.py?page=06-animation/bouncy.py
+[Springs]: pcad.py?page=06-animation/springs.py
+[Noisy Worm]: pcad.py?page=06-animation/worm.py

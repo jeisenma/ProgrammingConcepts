@@ -37,8 +37,8 @@
 [python]: pcad.py?page=03-python/python.md
 [mod]: pcad.py?page=04-mod/gamemod.md
 [helloP5]: pcad.py?page=05-processing/processing.md
-[animation]: pcad.py?page=animation
-[encapsulation]: pcad.py?page=encapsulation
+[animation]: pcad.py?page=06-animation/animation.md
+[encapsulation]: pcad.py?page=07-oop/encapsulate.md
 [dataviz]: pcad.py?page=dataviz
 [translation]: pcad.py?page=translation
 [publishing]: pcad.py?page=publishing

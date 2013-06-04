@@ -35,7 +35,7 @@
 
 ## Assignment
 - Make a game! (see the [Scratch gallery][] for inspiration)
-- [Submit it on Carmen](https://carmen.osu.edu/d2l/lms/dropbox/user/folders_list.d2l?ou=11003684&isprv=0) (10 points)
+- Submit it on Carmen (10 points)
 
 [Scratch]: http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 [Getting Started Guide]: http://cdn.scratch.mit.edu/scratchr2/static/__v-2013-05-09-03-24-236-gc0c7597__//pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf

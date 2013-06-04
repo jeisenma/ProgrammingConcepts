@@ -3,12 +3,12 @@
 --------------------------------
 
 ## Discussion
-- [terminal experiments](http://accad.osu.edu/~jeisenma/teaching/PythonForArtists/introToProgramming.html)
+- [terminal experiments](PythonForArtists/introToProgramming.html)
 - turtle drawing: [square][], [hexagon][], [hexagon bubbles][]
 
-[square]: https://www.dropbox.com/s/3nhhpo3tvzprqxg/square.py?dl=1
-[hexagon]: https://www.dropbox.com/s/48u0rkm5ph6y1db/hexagon.py?dl=1
-[hexagon bubbles]: https://www.dropbox.com/s/i6syafg4htul2b4/hexagonBubbles.py?dl=1
+[square]: pcad.py?page=03-python/square.py
+[hexagon]: pcad.py?page=03-python/hexagon.py
+[hexagon bubbles]: pcad.py?page=03-python/hexagonBubbles.py
 
 ## Programming Concepts
 - Sequencing

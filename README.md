@@ -13,30 +13,30 @@
  - [Examples][examples]
 
 ## Topics
- - [Intro to Interactive Systems][intro]  <!-- 6/11 -->
+ - [Intro to Interactive Systems][intro]  < 6/11 >
  - [Programming Basics][basics]
- - [Intro to Python][python]  <!-- 6/13 -->
+ - [Intro to Python][python]  < 6/13 >
  - [Hacking and Mod-ing][mod]
- - [Intro to Processing][helloP5]  <!-- 6/18 -->
- - [Animation][animation]			<!-- 6/20 -->
+ - [Intro to Processing][helloP5]  < 6/18 >
+ - [Animation][animation]			< 6/20 >
  - [Encapsulation][encapsulation]  
- - [Libraries][libraries]	<!-- 6/25 -->
+ - [Libraries][libraries]	< 6/25 >
  - [GUIs][gui]
- - [Data Viz][dataviz]	<!-- 6/27 -->
+ - [Data Viz][dataviz]	< 6/27 >
  - [Publishing][publishing]
- - [APIs][api]		<!-- 7/2 -->
+ - [APIs][api]		< 7/2 >
  - [Translation][translation]
- - [Mobile Interaction][mobile]		<!-- 7/16 -->
- - [Gestural Interaction][gesture]		<!-- 7/18 -->
- - [Final Project Presentations][final] (2:00-3:45pm)		<!-- 7/30 -->
+ - [Mobile Interaction][mobile]		< 7/16 >
+ - [Gestural Interaction][gesture]		< 7/18 >
+ - [Final Project Presentations][final] (2:00-3:45pm)		< 7/30 >
 
 [examples]: pcad.py?page=examples
 [setup]: pcad.py?page=00-setup/setup.md
 [intro]: pcad.py?page=01-intro/intro.md
 [basics]: pcad.py?page=02-basics/basics.md
 [python]: pcad.py?page=03-python/python.md
-[mod]: pcad.py?page=gamemod
-[helloP5]: pcad.py?page=helloP5
+[mod]: pcad.py?page=04-mod/gamemod.md
+[helloP5]: pcad.py?page=05-processing/processing.md
 [animation]: pcad.py?page=animation
 [encapsulation]: pcad.py?page=encapsulation
 [dataviz]: pcad.py?page=dataviz

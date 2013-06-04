@@ -55,9 +55,7 @@ Here are the links and instructions you will need to work with the same developm
 
 [Scratch]: http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 [processing-py]: http://s.xr.io/processing.py/latest.zip
-<!--http://accad.osu.edu/~jeisenma/teaching/pcad_p5/Python_p5py.zip-->
-<!--https://github.com/jdf/processing.py#quick-start-->
-[this XML file]: https://www.dropbox.com/s/4olkzrub6537yjb/PYP5.xml?dl=1
-[this keyboard shortcuts file]: https://www.dropbox.com/s/1xy2okuixci9cey/p5py_keys.props?dl=1
+[this XML file]: pcad.py?page=00-setup/jeditFiles/PYP5.xml
+[this keyboard shortcuts file]: pcad.py?page=00-setup/jeditFiles/p5py_keys.props
 [jEdit]: http://sourceforge.net/projects/jedit/files/jedit/5.0.0/jedit5.0.0install.jar/download
 [Notepad++]: http://notepad-plus-plus.org/download/v6.3.3.html

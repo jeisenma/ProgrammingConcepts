@@ -3,9 +3,9 @@
 --------------------------------
 
 ## Discussion
- - [Syllabus](https://www.dropbox.com/s/9152b498axlrsqg/syllabus.pdf?dl=1)
+ - [Syllabus](pcad.py?page=syllabus.pdf)
  - Course website tour
- - [Intro to Human-Computer Interaction](pcad_p5/Intro to Interaction & Programming.pdf)
+ - [Intro to Human-Computer Interaction](pcad.py?page=00-intro/Intro to Interaction & Programming.pdf)
 
 ## Programming Concepts
  - Interaction
@@ -41,5 +41,5 @@
 [First Priniciples]: http://www.asktog.com/basics/firstPrinciples.html
 [Fitts Quiz]: http://www.asktog.com/columns/022DesignedToGiveFitts.html
 [Critique]: http://www.azarask.in/blog/post/how-to-critique-an-interface/
-[setup]: pcad.py?page=setup
+[setup]: pcad.py?page=00-setup/setup.md
 

@@ -13,22 +13,22 @@
  - [Examples][examples]
 
 ## Topics
- - [Intro to Interactive Systems][intro]  < 6/11 >
+ - [Intro to Interactive Systems][intro]  
  - [Programming Basics][basics]
- - [Intro to Python][python]  < 6/13 >
+ - [Intro to Python][python] 
  - [Hacking and Mod-ing][mod]
- - [Intro to Processing][helloP5]  < 6/18 >
- - [Animation][animation]			< 6/20 >
+ - [Intro to Processing][helloP5] 
+ - [Animation][animation]		
  - [Encapsulation][encapsulation]  
- - [Libraries][libraries]	< 6/25 >
+ - [Libraries][libraries]
  - [GUIs][gui]
- - [Data Viz][dataviz]	< 6/27 >
+ - [Data Viz][dataviz]
  - [Publishing][publishing]
- - [APIs][api]		< 7/2 >
+ - [APIs][api]	
  - [Translation][translation]
- - [Mobile Interaction][mobile]		< 7/16 >
- - [Gestural Interaction][gesture]		< 7/18 >
- - [Final Project Presentations][final] (2:00-3:45pm)		< 7/30 >
+ - [Mobile Interaction][mobile]		
+ - [Gestural Interaction][gesture]		
+ - [Final Project Presentations][final] (July 30th @ 2:00-3:45pm)		
 
 [examples]: pcad.py?page=examples
 [setup]: pcad.py?page=00-setup/setup.md

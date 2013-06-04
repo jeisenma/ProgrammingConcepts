@@ -5,7 +5,7 @@
 ## Discussion
  - [Syllabus](pcad.py?page=syllabus.pdf)
  - Course website tour
- - [Intro to Human-Computer Interaction](pcad.py?page=00-intro/Intro to Interaction & Programming.pdf)
+ - [Intro to Human-Computer Interaction](pcad.py?page=01-intro/intro.pdf)
 
 ## Programming Concepts
  - Interaction

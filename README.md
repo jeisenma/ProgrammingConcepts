@@ -8,7 +8,7 @@
  - 1224 Kinnear Rd, Rm 205
 
 ## Course Content
- - [Syllabus](https://www.dropbox.com/s/9152b498axlrsqg/syllabus.pdf?dl=1)
+ - [Syllabus](pcad.py?page=syllabus.pdf)
  - [Setting up your development environment][setup]
  - [Examples][examples]
 
@@ -31,10 +31,10 @@
  - [Final Project Presentations][final] (2:00-3:45pm)		<!-- 7/30 -->
 
 [examples]: pcad.py?page=examples
-[setup]: pcad.py?page=setup
-[intro]: pcad.py?page=intro
-[basics]: pcad.py?page=basics
-[python]: pcad.py?page=python
+[setup]: pcad.py?page=00-setup/setup.md
+[intro]: pcad.py?page=01-intro/intro.md
+[basics]: pcad.py?page=02-basics/basics.md
+[python]: pcad.py?page=03-python/python.md
 [mod]: pcad.py?page=gamemod
 [helloP5]: pcad.py?page=helloP5
 [animation]: pcad.py?page=animation

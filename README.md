@@ -1,6 +1,7 @@
-# Programming Concepts for Artists and Designers
+## Programming Concepts for Artists and Designers
 
-An introduction to programming, primarily for making pictures with code, using mostly python and processing-py (with a little bit of Scratch and standard Processing thrown in)
+An introduction to programming, primarily for making pictures with code, using mostly python and processing-py 
+(with a little bit of Scratch and standard Processing thrown in)
 
 ## Topics
 1. Intro to Interactive Systems

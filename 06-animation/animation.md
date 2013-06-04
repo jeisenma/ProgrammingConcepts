@@ -34,7 +34,7 @@
 	- you are encouraged to make this a building block for your data visualization project (we'll encapsulate this and make multiples of it next time)
 - Save it to a file called animation.py and submit it on Carmen. (10 points)
 
-[Animated Sprite]: pcad.py?page=06-animation/animatedSprite.py
+[Animated Sprite]: pcad.py?page=06-animation/animatedSprite/animatedSprite.py
 [Recorded Motion]: pcad.py?page=06-animation/recordedMotion.py
 [Making Waves]: pcad.py?page=06-animation/waves.py
 [Bouncing ball]: pcad.py?page=06-animation/bouncy.py

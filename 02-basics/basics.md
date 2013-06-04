@@ -42,10 +42,10 @@
 [Scratch Cards]: http://scratch.mit.edu/help/cards
 [Video Tutorials]: http://vimeo.com/album/2308198
 [Scratch gallery]: http://scratch.mit.edu/explore/projects/games/?order_by=love_count&date=this_month
-[Draw Square]: https://www.dropbox.com/s/30shrpem0lpknl7/DrawSquare.sb2?dl=1
-[Draw Square w/ a Loop]: https://www.dropbox.com/s/h91xlfco2t5uldh/DrawSquareWaLoop.sb2?dl=1
-[Cat bounce]: https://dl.dropboxusercontent.com/s/73fjx5e0o31mlfa/CatBounce.sb2?token_hash=AAHKk6mA3q31FYLh4ccNAMC_J3tbyoH_Zo9OQCc4cNwzEg&dl=1
-[Cat on mouse]: https://dl.dropboxusercontent.com/s/jdvrg71hyxgtqie/CatOnMouse.sb2?token_hash=AAHBK5FqqchC4-S2D8zVR870571Mj2YN8QK9HCyRafXHtg&dl=1
-[Cat follow mouse]: https://dl.dropboxusercontent.com/s/ukzaz5yepjm6rhs/CatFollowMouse.sb2?token_hash=AAF8ApHEX43fA33Ox5H8K7jpI0vnsatp-5Et4tmdo9muQw&dl=1
-[Personal Space]: https://dl.dropboxusercontent.com/s/dgnudser7nypsow/PersonalSpace.sb2?token_hash=AAGyQMwQ5Eep-p4I2RfXS6kBqNZ2loQzC5pz9j6umvyGcw&dl=1
-[Cat follow mouse when down]: https://dl.dropboxusercontent.com/s/yohzjpwvme9bckw/CatFollowMouseWhenDown.sb2?token_hash=AAFMblhTmdg1E6uGqMy4PMWeLCrRVn-hQWznczoEk7qnRg&dl=1
+[Draw Square]: pcad.py?page=02-basics/DrawSquare.sb2
+[Draw Square w/ a Loop]: pcad.py?page=02-basics/DrawSquareWaLoop.sb2
+[Cat bounce]: pcad.py?page=02-basics/CatBounce.sb2
+[Cat on mouse]: pcad.py?page=02-basics/CatOnMouse.sb2
+[Cat follow mouse]: pcad.py?page=02-basics/CatFollowMouse.sb2
+[Personal Space]: pcad.py?page=02-basics/PersonalSpace.sb2
+[Cat follow mouse when down]: pcad.py?page=02-basics/CatFollowMouseWhenDown.sb2

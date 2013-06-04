@@ -16,7 +16,7 @@
 - Mouse and keyboard events and callbacks
  
 ## Examples
-- [Sprite][] ([image file](sprite.png))
+- [Sprite][] ([image file](pcad.py?page=05-processing/sprite.png))
 - [Lines][]
 - [Blotchy pen][]
 - [Circles][]

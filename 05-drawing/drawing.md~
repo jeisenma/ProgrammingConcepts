@@ -1,5 +1,5 @@
 --------------------------------
-# Intro to Processing
+# Procedural Drawing
 --------------------------------
 
 ## Discussion
@@ -29,7 +29,7 @@
 
 ## Assignment
 - Monsters!
-
+	
 [Processing]: http://www.processing.org/
 [Sprite]: pcad.py?page=05-processing/sprite.py
 [Lines]: pcad.py?page=05-processing/lines.py

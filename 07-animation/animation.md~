@@ -16,7 +16,7 @@
 - Loops and lists (again!)
 
 ## Examples
- - [Animated Sprite][] ([data](pcad.py?page=07-animation/animatedSprite/data.zip))
+ - [Animated Sprite][] ([data](pcad.py?page=06-animation/animatedSprite/data.zip))
  - [Recorded Motion][]
  - [Making Waves][]
  - [Bouncing ball][]
@@ -33,14 +33,14 @@
 
 ## Assignments
 - Interactive Animation Sketch
-	- make your monster responds to mouse/keyboard input with appealing animation
+	- make a thing that responds to mouse/keyboard input with appealing animation
 	- you can make your animation from prerecorded keyframes or procedural rules (or both!)
-	- use at least one function with at least one parameter
+	- you are encouraged to make this a building block for your data visualization project (we'll encapsulate this and make multiples of it next time)
 - Save it to a file called animation.py and submit it on Carmen. (10 points)
 
-[Animated Sprite]: pcad.py?page=07-animation/animatedSprite/animatedSprite.py
-[Recorded Motion]: pcad.py?page=07-animation/recordedMotion.py
-[Making Waves]: pcad.py?page=07-animation/waves.py
-[Bouncing ball]: pcad.py?page=07-animation/bouncy.py
-[Springs]: pcad.py?page=07-animation/springy.py
-[Noisy Worm]: pcad.py?page=07-animation/worm.py
+[Animated Sprite]: pcad.py?page=06-animation/animatedSprite/animatedSprite.py
+[Recorded Motion]: pcad.py?page=06-animation/recordedMotion.py
+[Making Waves]: pcad.py?page=06-animation/waves.py
+[Bouncing ball]: pcad.py?page=06-animation/bouncy.py
+[Springs]: pcad.py?page=06-animation/springy.py
+[Noisy Worm]: pcad.py?page=06-animation/worm.py

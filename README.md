@@ -17,7 +17,7 @@
  - [Programming Basics][basics]
  - [Intro to Python][python] 
  - [Hacking and Mod-ing][mod]
- - [Intro to Processing][helloP5] 
+ - [Procedural Drawing][drawing] 
  - [Interaction][interaction]
  - [Animation][animation]		
  - [Encapsulation][encapsulation]  
@@ -37,7 +37,7 @@
 [basics]: pcad.py?page=02-basics/basics.md
 [python]: pcad.py?page=03-python/python.md
 [mod]: pcad.py?page=04-mod/gamemod.md
-[helloP5]: pcad.py?page=05-processing/processing.md
+[drawing]: pcad.py?page=05-drawing/drawing.md
 [interaction]: pcad.py?page=06-interaction/interaction.md
 [animation]: pcad.py?page=07-animation/animation.md
 [encapsulation]: pcad.py?page=08-oop/encapsulate.md

@@ -18,7 +18,6 @@
  - [Intro to Python][python] 
  - [Hacking and Mod-ing][mod]
  - [Intro to Processing][helloP5] 
- - [Interaction][interaction]
  - [Animation][animation]		
  - [Encapsulation][encapsulation]  
  - [Libraries][libraries]
@@ -38,9 +37,8 @@
 [python]: pcad.py?page=03-python/python.md
 [mod]: pcad.py?page=04-mod/gamemod.md
 [helloP5]: pcad.py?page=05-processing/processing.md
-[interaction]: pcad.py?page=06-interaction/interaction.md
-[animation]: pcad.py?page=07-animation/animation.md
-[encapsulation]: pcad.py?page=08-oop/encapsulate.md
+[animation]: pcad.py?page=06-animation/animation.md
+[encapsulation]: pcad.py?page=07-oop/encapsulate.md
 [dataviz]: pcad.py?page=dataviz
 [translation]: pcad.py?page=translation
 [publishing]: pcad.py?page=publishing

@@ -1,5 +1,5 @@
 --------------------------------
-# Procedural Drawing
+# Procedural Drawing: making pictures with code
 --------------------------------
 
 ## Discussion

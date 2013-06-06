@@ -1,5 +1,5 @@
 --------------------------------
-# Interaction
+# Interaction: making stuff you can poke at
 --------------------------------
 
 ## Discussion

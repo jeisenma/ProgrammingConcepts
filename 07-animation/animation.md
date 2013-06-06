@@ -1,5 +1,5 @@
 --------------------------------
-# Animation: Bringing things to life with motion
+# Animation: bringing things to life with motion
 --------------------------------
 
 ## Discussion

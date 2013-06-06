@@ -29,9 +29,9 @@ By the end of this course you should be able to:
 You should leave the course with a sketchbook of small interactive projects (called "sketches") and with one final project that has evolved into a polished interactive piece.
 
 **Course Materials** (all free!)  
-Texts: [Learning Python the Hard Way][lpthw], [Processing�s Learning Page][p5learning]
-Software: [Scratch][scratch], [Processing][p5]
-Other links posted on the course website
+- Texts: [Learning Python the Hard Way][lpthw], [Processing�s Learning Page][p5learning]
+- Software: [Scratch][scratch], [Processing][p5]
+- Other links posted on the course website
 
 [lpthw]: http://learnpythonthehardway.org/book/
 [p5learning]: http://processing.org/learning/
@@ -60,10 +60,10 @@ Adherence to deadlines is expected. It is the individual student's responsibilit
 Students choosing to use "at home" hardware and software must have their current working files on the system and available for review at the beginning of every class. Problems with home systems and/or incompatibility will not be an acceptable excuse for missed goals. Technical problems may happen frequently and students may have trouble accessing the computer lab during "prime time" hours. Students must make their own arrangements for overcoming these difficulties to submit their work on time. Unless there is a complete system failure at ACCAD, technical difficulties are never an acceptable excuse for not meeting a deadline. Students should plan their time so as to anticipate the technical hurdles that are a part of this profession.
 
 **Grade Breakdown**  
-Participation 		10%  (taking part in discussions/critique)
-Assignments 		40% 
-Data Viz Project	20%
-Final Project 		30%
+- 10% Participation (taking part in discussions/critique)
+- 40% Assignments
+- 20% Data Viz Project
+- 30% Final Project
 
 **Academic Dishonesty**  
 Any and all suspected cases of academic dishonesty will be dealt with according to university procedures. Students are referred to the student handbook for further information on academic dishonesty and the accompanying procedures and penalties. Students can read the code of student conduct at:  http://studentaffairs.osu.edu/csc/

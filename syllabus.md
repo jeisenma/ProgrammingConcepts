@@ -29,7 +29,7 @@ By the end of this course you should be able to:
 You should leave the course with a sketchbook of small interactive projects (called "sketches") and with one final project that has evolved into a polished interactive piece.
 
 **Course Materials** (all free!)  
-- Texts: [Learning Python the Hard Way][lpthw], [Processing�s Learning Page][p5learning]
+- Texts: [Learning Python the Hard Way][lpthw], [Processing's Learning Page][p5learning]
 - Software: [Scratch][scratch], [Processing][p5]
 - Other links posted on the course website
 

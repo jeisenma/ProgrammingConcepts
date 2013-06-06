@@ -8,7 +8,7 @@
  - 1224 Kinnear Rd, Rm 205
 
 ## Course Content
- - [Syllabus](pcad.py?page=syllabus.pdf)
+ - [Syllabus](pcad.py?page=syllabus.md)
  - [Setting up your development environment][setup]
  - [Examples][examples]
 
@@ -31,7 +31,7 @@
  - [Gestural Interaction][gesture]		
  - [Final Project Presentations][final] (July 30th @ 2:00-3:45pm)		
 
-[examples]: pcad.py?page=examples
+[examples]: pcad.py?page=examples.md
 [setup]: pcad.py?page=00-setup/setup.md
 [intro]: pcad.py?page=01-intro/intro.md
 [basics]: pcad.py?page=02-basics/basics.md

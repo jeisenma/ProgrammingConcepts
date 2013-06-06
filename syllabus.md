@@ -29,7 +29,7 @@ By the end of this course you should be able to:
 You should leave the course with a sketchbook of small interactive projects (called “sketches”) and with one final project that has evolved into a polished interactive piece.
 
 **Course Materials** (all free!)  
-Texts: [Learning Python the Hard Way][lpthw], [Processing’s Learning Page][p5learning]
+Texts: [Learning Python the Hard Way][lpthw], [Processing's Learning Page][p5learning]  
 Software: [Scratch][scratch], [Processing][p5]
 Other links posted on the course website
 
@@ -41,7 +41,7 @@ Other links posted on the course website
 **Methodology**  
 Processing will serve as our primary sandbox for experimentation, and python will be the primary programming language that we use, but the goal is to get you to think abstractly about ways to solve problems by programming in whatever context you find yourself.  Lectures may include comparisons to or idiosyncrasies of other languages and environments to which you may eventually be exposed near the end of the course.  By the end of the course, you should be able to work in almost any language by transferring the universal principles that you have learned in python.
 
-Class time will consist of lectures, examples/demos, workshop time for you to get input from both me and your peers, and presentations/critique of your work.  Assignments will be short and to the point, while the projects will provide opportunities for you to apply what you have learned to your own research problems.  The option will be given to pursue projects in other languages or environments (i.e [Processing][p5] (Java), [ProcessingJS][pjs] (JavaScript), [PaperJS][paper] (JavaScript), [Unity][], [PyGame][], [Maya][], etc.)
+Class time will consist of lectures, examples/demos, workshop time for you to get input from both me and your peers, and presentations/critique of your work.  Assignments will be short and to the point, while the projects will provide opportunities for you to apply what you have learned to your own research problems.  The option will be given to pursue projects in other languages or environments (i.e [Processing][p5], [ProcessingJS][pjs], [PaperJS][paper], [Unity][], [PyGame][], [Maya][], etc.)
 
 [pjs]: http://processingjs.org/
 [paper]: http://paperjs.org/

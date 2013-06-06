@@ -9,6 +9,7 @@
 ## Programming Concepts
 - Logic and decisions
 - Mouse and keyboard events and callbacks
+- Debugging
  
 ## Examples
 - [Blotchy pen][]
@@ -20,8 +21,8 @@
 - Clicky stripes
 
 ## Reading
-- [LPTHW](http://learnpythonthehardway.org/book/) 18-21
-
+ - AskTog readings: [First Priniciples][], [Fitts Quiz][]
+ 
 ## Assignment
 - Paint tool - Create a basic paint tool in processing-py.  It should enable the user to:
 	- (2 points) Draw in red, green, or blue. Use the 'r', 'g', and 'b' keys to switch colors.
@@ -36,3 +37,5 @@
 [Rectangle test]: pcad.py?page=06-interaction/rectTest.py
 [Constrain]: pcad.py?page=06-interaction/constrain.py
 [Clicky stripes]: pcad.py?page=06-interaction/clickyStripes.py
+[First Priniciples]: http://www.asktog.com/basics/firstPrinciples.html
+[Fitts Quiz]: http://www.asktog.com/columns/022DesignedToGiveFitts.html

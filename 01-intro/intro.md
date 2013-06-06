@@ -31,15 +31,14 @@
  - E-mail me your critique, and we'll also present our critiques to the class.
 
 ## Readings 
- - AskTog readings: [First Priniciples][], [Fitts Quiz][]
+ - Old Don Norman Videos: [affordances][], [the action cycle][] (yes, they're cheesy and grainy, but they're good)
  - Raskin reading: [Critique][]
  
 ## Assignment
  - [Setting up your development environment on your own computer][setup]
  
- 
-[First Priniciples]: http://www.asktog.com/basics/firstPrinciples.html
-[Fitts Quiz]: http://www.asktog.com/columns/022DesignedToGiveFitts.html
+[affordances]: http://www.youtube.com/watch?v=NK1Zb_5VxuM&feature=player_embedded
+[the action cycle]: http://www.youtube.com/watch?v=ahtOCfyRbRg&feature=player_embedded
 [Critique]: http://www.azarask.in/blog/post/how-to-critique-an-interface/
 [setup]: pcad.py?page=00-setup/setup.md
 

@@ -10,8 +10,9 @@
 ## Programming Concepts
 - Functions
 - Loops
-- Arrays
+- Lists
 - Documenting your code
+- Debugging
 - Random
 - Logic and decisions
  
@@ -28,7 +29,7 @@
 - Draw your favorite mode of transportation with at least 3, but no more than 8 shapes
 
 ## Reading
-- [LPTHW](http://learnpythonthehardway.org/book/) 18-21
+- [LPTHW](http://learnpythonthehardway.org/book/) 18-21, 27-33, 35-36
 
 ## Assignment
 - Monsters!

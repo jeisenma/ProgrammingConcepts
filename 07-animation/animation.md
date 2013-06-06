@@ -10,6 +10,7 @@
 - special considerations for interaction
 	- ease-in/ease-out
 	- overlapping 
+- Perlin noise vs. randomness
 
 ## Programming Concepts
 - Functions and parameters

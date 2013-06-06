@@ -23,7 +23,7 @@
 - regular polygons
 
 ## Reading
-- [LPTHW](http://learnpythonthehardway.org/book/): 1-11, 27-33, 35
+- [LPTHW](http://learnpythonthehardway.org/book/): 1-11
 
 ## Assignment
 - Write a python program that draws a radially symmetric turtle drawing.

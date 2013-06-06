@@ -14,9 +14,9 @@
 - Encapsulation (aka Object-Oriented Programming)
 
 ## Examples
-- [snowmen][]
 - [rotating squares][]
-- [animated sprite][]
+- [snowmen][]
+- [animated sprite][] ([data](pcad.py?page=08-oop/animatedSpriteClass/data.zip))
 - [bouncy balls][]
 - [springs][]
 - [parametric shapes][]
@@ -35,7 +35,7 @@
 
 [snowmen]: pcad.py?page=08-oop/snowmen.py
 [rotating squares]: pcad.py?page=08-oop/squares.py 
-[animated sprite]: pcad.py?page=08-oop/animatedSprite.py
+[animated sprite]: pcad.py?page=08-oop/animatedSpriteClass/animatedSpriteClass.py
 [bouncy balls]: pcad.py?page=08-oop/balls.py
 [springs]: pcad.py?page=08-oop/springs.py
 [parametric shapes]: pcad.py?page=08-oop/paramShapes.py

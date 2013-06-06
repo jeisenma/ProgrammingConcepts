@@ -36,7 +36,7 @@
 [snowmen]: pcad.py?page=08-oop/snowmen.py
 [rotating squares]: pcad.py?page=08-oop/squares.py 
 [animated sprite]: pcad.py?page=08-oop/animatedSpriteClass/animatedSpriteClass.py
-[bouncy balls]: pcad.py?page=08-oop/balls.py
-[springs]: pcad.py?page=08-oop/springs.py
-[parametric shapes]: pcad.py?page=08-oop/paramShapes.py
+[bouncy balls]: pcad.py?page=08-oop/balls.zip
+[springs]: pcad.py?page=08-oop/springs.zip
+[parametric shapes]: pcad.py?page=08-oop/paramShapes.zip
 [snow goons]: pcad.py?page=08-oop/snowGoons.py

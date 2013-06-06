@@ -45,7 +45,8 @@ a:active {
 
 table {
   padding: 0; }
-  table tr {
+table tr {
+	color: 222222;
     border-top: 1px solid #cccccc;
     background-color: white;
     margin: 0;

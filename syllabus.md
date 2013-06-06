@@ -26,10 +26,10 @@ By the end of this course you should be able to:
 - Understand and modify other people's code to make it work for you
 - Collaborate and share ideas more easily with programmers in your field
 
-You should leave the course with a sketchbook of small interactive projects (called “sketches”) and with one final project that has evolved into a polished interactive piece.
+You should leave the course with a sketchbook of small interactive projects (called "sketches") and with one final project that has evolved into a polished interactive piece.
 
 **Course Materials** (all free!)  
-Texts: [Learning Python the Hard Way][lpthw], [Processing’s Learning Page][p5learning]
+Texts: [Learning Python the Hard Way][lpthw], [Processingï¿½s Learning Page][p5learning]
 Software: [Scratch][scratch], [Processing][p5]
 Other links posted on the course website
 
@@ -74,41 +74,12 @@ Any student who feels s/he may need an accommodation based on the impact of a di
 **Schedule**  
 Subject to change based on class progress.  See the website for an up-to-date schedule.
 
-Week
-Topics (cumulative!)
-Applications
-Technologies
-1
-intro, interaction, sequencing, variables, conditions, loops, events
-simple games
-Scratch, Python
-2
-mod-ing, data types, data streams
-gameMod, 
-procedural drawing
-Python, Processing
-3
-sequences, loops, randomness
-animation
-Python, Processing
-4
-objects
-generating variants
-(i.e. “copy stamping”)
-Python, Processing
-5
-Guest lecture/workshop
-
-
-
-
-6
-file I/O, libraries
-GUI, data viz
-Python, Processing
-7
-APIs, publishing, translation
-mobile and gestural interaction, generating audio
-Java, JS, Python Processing, Houdini, Maya, Unity, etc...
-
-
+| Week  | Topics (cumulative!) 									| Applications 						| Technologies 		|
+| ----- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
+| 1	| intro, interaction, variables, decisions, loops, modules, events, types, mods		| simple games, GameMod, turtle drawing			| Scratch, Python	|
+| 2	| documentation, debugging, logic, functions, parameters, randomness, lists, objects	| procedural drawing, animation, generating variants	| Python, Processing-py	|
+| 3	| GUIs, libraries, data streams, file I/O, publishing					| sound toys, data visualization			| Python, Processing-py	|
+| 4	| APIs, translation									| 							| Unity, Maya, Processing |
+| 5	| Guest lecture/workshop								|							|			|
+| 6	| Mobile & gestural interaction: multitouch, accelerometers, cameras, etc		| 							| ProcessingJS		|
+| 7	| Final project workshop								| Your choice						| Any of the above	|

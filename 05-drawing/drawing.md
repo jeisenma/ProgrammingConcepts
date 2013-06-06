@@ -5,7 +5,7 @@
 ## Discussion
 - Yay [Processing][]!
 - Coordinates
-- Drawing shapes
+- Drawing shapes ([line][], [arc][], [ellipse][], [rect][], [point][], [quad][], [triangle][])
 
 ## Programming Concepts
 - Functions
@@ -33,7 +33,7 @@
 ## Assignment
 - Monsters!
 	- (4 points) draw a monster with code
-	- (2 points) use Processing's drawing functions (line, arc, ellipse, rect, point, quad, triangle)
+	- (2 points) use Processing's drawing functions ([line][], [arc][], [ellipse][], [rect][], [point][], [quad][], [triangle][])
 	- (2 points) use some loops
 	- (2 points) experiment with different stroke weights and fill/stroke colors
 - Submit a file called monster.py to Carmen (10 points)
@@ -46,3 +46,10 @@
 [Spiral]: pcad.py?page=05-drawing/spiral.py
 [More circles]: pcad.py?page=05-drawing/moreCircles.py
 [Logical operators]: pcad.py?page=05-drawing/logicalOps.py
+[line]: http://www.processing.org/reference/line_.html
+[arc]: http://www.processing.org/reference/arc_.html
+[ellipse]: http://www.processing.org/reference/ellipse_.html
+[rect]: http://www.processing.org/reference/rect_.html
+[point]: http://www.processing.org/reference/point_.html
+[quad]: http://www.processing.org/reference/quad_.html
+[triangle]: http://www.processing.org/reference/triangle_.html

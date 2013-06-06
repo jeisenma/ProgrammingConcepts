@@ -33,9 +33,9 @@
 
 ## Assignments
 - Interactive Animation Sketch
-	- make your monster responds to mouse/keyboard input with appealing animation
-	- you can make your animation from prerecorded keyframes or procedural rules (or both!)
-	- use at least one function with at least one parameter
+	- make your monster respond to mouse/keyboard input with appealing animation
+	- you can use prerecorded keyframes or procedural rules (or both!)
+	- use at least one custom function with at least one parameter to update the monster's pose
 - Save it to a file called animation.py and submit it on Carmen. (10 points)
 
 [Animated Sprite]: pcad.py?page=07-animation/animatedSprite/animatedSprite.py

@@ -49,32 +49,32 @@ Class time will consist of lectures, examples/demos, workshop time for you to ge
 [PyGame]: http://www.pygame.org/news.html
 [Maya]: http://www.autodesk.com/products/autodesk-maya/overview
 
-**Attendance Policy**  
+**Attendance Policy** 
 All students are required to be on time and in attendance for each and every class. Students arriving to class more than 15 minutes late will be counted as absent. Two absences will lower a final grade by 1/2 a letter. Three absences will lower a final grade by one letter. Four absences will result in failure of the course.
 
-**Grading Policy**  
+**Grading Policy** 
 OSU Graduate School policy does not allow Graduate Associates to evaluate and assign grades to students enrolled for graduate credit. Grade evaluations for this course will be given by approved ACCAD staff in consultation with the instructor. Questions about evaluations or other course matters should not be directed to staff or to the director of ACCAD unless the instructor has first been consulted and the matter was not resolved.
 
 Adherence to deadlines is expected. It is the individual student's responsibility to keep track of deadlines and to present the work to the class and instructor on the specified dates. Revision is part of the process in preparing work for the final due date, not after. Make use of production time in class to receive feedback on work in progress from the instructor and classmates. Work presented late will be marked down one grade letter for each class meeting missed.
 
 Students choosing to use "at home" hardware and software must have their current working files on the system and available for review at the beginning of every class. Problems with home systems and/or incompatibility will not be an acceptable excuse for missed goals. Technical problems may happen frequently and students may have trouble accessing the computer lab during "prime time" hours. Students must make their own arrangements for overcoming these difficulties to submit their work on time. Unless there is a complete system failure at ACCAD, technical difficulties are never an acceptable excuse for not meeting a deadline. Students should plan their time so as to anticipate the technical hurdles that are a part of this profession.
 
-**Grade Breakdown**  
+**Grade Breakdown** 
 Participation 		10%  (taking part in discussions/critique)
 Assignments 		40% 
 Data Viz Project	20%
 Final Project 		30%
 
-**Academic Dishonesty**  
+**Academic Dishonesty** 
 Any and all suspected cases of academic dishonesty will be dealt with according to university procedures. Students are referred to the student handbook for further information on academic dishonesty and the accompanying procedures and penalties. Students can read the code of student conduct at:  http://studentaffairs.osu.edu/csc/
 
-**Accommodations for Students with Special Rights**  
+**Accommodations for Students with Special Rights** 
 Any student who feels s/he may need an accommodation based on the impact of a disability should contact the instructor privately to discuss their specific needs. Please also contact the Office for Disability Services at 614-292-3307 in room 150 Pomerene Hall to coordinate reasonable accommodations for any documented disabilities.
 
 **Schedule**  
 Subject to change based on class progress.  See the website for an up-to-date schedule.
 
-| Week  | Topics (**cumulative!**) 									| Applications 						| Technologies 		|
+| Week  | Topics (cumulative!) 									| Applications 						| Technologies 		|
 | ----- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
 | 1	| intro, interaction, variables, decisions, loops, modules, events, types, mods		| simple games, GameMod, turtle drawing			| Scratch, Python	|
 | 2	| documentation, debugging, logic, functions, parameters, randomness, lists, objects	| procedural drawing, animation, generating variants	| Python, Processing-py	|
@@ -82,4 +82,4 @@ Subject to change based on class progress.  See the website for an up-to-date sc
 | 4	| APIs, translation									| 							| Unity, Maya, Processing |
 | 5	| Guest lecture/workshop								|							|			|
 | 6	| Mobile & gestural interaction: multitouch, accelerometers, cameras, etc		| 							| ProcessingJS		|
-| 7	| Final project workshop								| your choice						| Any of the above	|
+| 7	| Final project workshop								| Your choice						| Any of the above	|

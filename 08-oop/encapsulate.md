@@ -9,9 +9,10 @@
 - generating stuff
 
 ## Programming Concepts
-- Lists! (again)
-- Dictionaries
-- Encapsulation (aka Object-Oriented Programming)
+- lists! (again)
+- dictionaries
+- encapsulation (aka Object-Oriented Programming)
+- custom modules (again!)
 
 ## Examples
 - [rotating squares][]
@@ -29,8 +30,8 @@
 
 ## Assignment
 - Encapsulate your monster drawing and animation 
-- Create some intuitive properties for your monster class so that it can be controlled parameters passed into the constructor
-- Generate a family of monsters with as much interesting diversity as you can muster
+	- Create some intuitive properties for your monster class so that it can be controlled parameters passed into the constructor
+	- Generate a family of monsters with as much interesting diversity as you can muster
 - Save it to a file called generative.py and submit it on Carmen. (10 points)
 
 [snowmen]: pcad.py?page=08-oop/snowmen.py

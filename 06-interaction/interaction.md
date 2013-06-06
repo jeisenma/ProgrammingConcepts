@@ -1,5 +1,5 @@
 --------------------------------
-# Intro to Processing
+# Interaction
 --------------------------------
 
 ## Discussion
@@ -31,8 +31,8 @@
 - Submit your py file on Carmen (10 points)
 - You can receive up to 3 extra credit points for adding an extra creative feature based on loops, arrays or the constrain function.
 
-[Blotchy pen]: pcad.py?page=06-processing/blotchyPen.py
-[Circle test]: pcad.py?page=06-processing/circleTest.py
-[Rectangle test]: pcad.py?page=06-processing/rectTest.py
-[Constrain]: pcad.py?page=06-processing/constrain.py
-[Clicky stripes]: pcad.py?page=06-processing/clickyStripes.py
+[Blotchy pen]: pcad.py?page=06-interaction/blotchyPen.py
+[Circle test]: pcad.py?page=06-interaction/circleTest.py
+[Rectangle test]: pcad.py?page=06-interaction/rectTest.py
+[Constrain]: pcad.py?page=06-interaction/constrain.py
+[Clicky stripes]: pcad.py?page=06-interaction/clickyStripes.py

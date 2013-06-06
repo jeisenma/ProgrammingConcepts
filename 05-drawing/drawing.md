@@ -14,7 +14,7 @@
 - Logic and decisions
  
 ## Examples
-- [Sprite][] ([image file](pcad.py?page=05-processing/sprite.png))
+- [Sprite][] ([image file](pcad.py?page=05-drawing/sprite.png))
 - [Lines][]
 - [Spiral][]
 - [Circles][]
@@ -31,9 +31,9 @@
 - Monsters!
 	
 [Processing]: http://www.processing.org/
-[Sprite]: pcad.py?page=05-processing/sprite.py
-[Lines]: pcad.py?page=05-processing/lines.py
-[Circles]: pcad.py?page=05-processing/circles.py
-[Spiral]: pcad.py?page=05-processing/spiral.py
-[More circles]: pcad.py?page=05-processing/moreCircles.py
-[Logical operators]: pcad.py?page=05-processing/logicalOps.py
+[Sprite]: pcad.py?page=05-drawing/sprite.py
+[Lines]: pcad.py?page=05-drawing/lines.py
+[Circles]: pcad.py?page=05-drawing/circles.py
+[Spiral]: pcad.py?page=05-drawing/spiral.py
+[More circles]: pcad.py?page=05-drawing/moreCircles.py
+[Logical operators]: pcad.py?page=05-drawing/logicalOps.py

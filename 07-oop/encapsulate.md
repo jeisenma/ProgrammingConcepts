@@ -10,7 +10,7 @@
 
 ## Programming Concepts
 - Encapsulation (aka Object-Oriented Programming)
-- Lists!
+- Lists! (again)
 
 ## Lab
 - 
@@ -20,4 +20,4 @@
 
 ## Assignment
 - 
-- Save it to a file called animation.py and submit it on Carmen. (10 points)
+- Save it to a file called generative.py and submit it on Carmen. (10 points)

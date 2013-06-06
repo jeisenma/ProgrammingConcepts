@@ -13,7 +13,7 @@
 
 ## Programming Concepts
 - Functions and parameters
-- Loops and arrays (again!)
+- Loops and lists (again!)
 
 ## Examples
  - [Animated Sprite][] ([data](pcad.py?page=06-animation/animatedSprite/data.zip))

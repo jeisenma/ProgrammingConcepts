@@ -74,12 +74,12 @@ Any student who feels s/he may need an accommodation based on the impact of a di
 **Schedule**  
 Subject to change based on class progress.  See the website for an up-to-date schedule.
 
-| Week  | Topics (**cumulative!**) 									| Applications 						| Technologies 		|
+| Week  | Topics (cumulative!) 									| Applications 						| Technologies 		|
 | ----- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |
 | 1	| intro, interaction, variables, decisions, loops, modules, events, types, mods		| simple games, GameMod, turtle drawing			| Scratch, Python	|
 | 2	| documentation, debugging, logic, functions, parameters, randomness, lists, objects	| procedural drawing, animation, generating variants	| Python, Processing-py	|
 | 3	| GUIs, libraries, data streams, file I/O, publishing					| sound toys, data visualization			| Python, Processing-py	|
 | 4	| APIs, translation									| 							| Unity, Maya, Processing |
 | 5	| Guest lecture/workshop								|							|			|
-| 6	| Mobile & gestural interaction: multitouch, accelerometers, cameras, etc		| 							| ProcessingJS		|
+| 6	| Mobile & gestural interaction 		| multitouch, accelerometers, cameras, etc							| ProcessingJS/Processing		|
 | 7	| Final project workshop								| your choice						| Any of the above	|

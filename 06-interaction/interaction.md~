@@ -18,7 +18,7 @@
 - [Constrain][]
 
 ## Lab
-- drag stripes
+- Clicky stripes
 
 ## Reading
  - AskTog readings: [First Priniciples][], [Fitts Quiz][]
@@ -36,6 +36,6 @@
 [Circle test]: pcad.py?page=06-interaction/circleTest.py
 [Rectangle test]: pcad.py?page=06-interaction/rectTest.py
 [Constrain]: pcad.py?page=06-interaction/constrain.py
-[Clicky stripes]: pcad.py?page=06-interaction/dragStripes.py
+[Clicky stripes]: pcad.py?page=06-interaction/clickyStripes.py
 [First Priniciples]: http://www.asktog.com/basics/firstPrinciples.html
 [Fitts Quiz]: http://www.asktog.com/columns/022DesignedToGiveFitts.html

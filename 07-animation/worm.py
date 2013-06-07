@@ -1,8 +1,10 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
+worm = []		 # create a list called 'worm' that will store positions
+
 def setup():
 	size(400,400)
-	global worm
-	worm = []		 # create an array called 'worm' that will store positions
-	# visit each value of the array
 	for i in range(100):
 		# initialize each value of the array to be at screen center
 		 worm.append( vectorNoise() )

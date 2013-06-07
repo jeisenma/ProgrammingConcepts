@@ -1,3 +1,6 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 # the rectangle dimensions
 x=100
 y=100
@@ -8,7 +11,6 @@ def setup():
 	size(400,400)
 
 def draw():
-	global x,y,w,h
 	background(100)
 	
 	# change the color of the rectangle if mouse is over it

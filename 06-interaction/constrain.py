@@ -1,3 +1,6 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 # the rectangle dimensions
 x = 50
 y = 100
@@ -14,7 +17,7 @@ def setup():
 	size(400,400)
 
 def draw():
-	global x,y,w,h,cx,cy,r,easing	
+	global cx,cy	
 	background(100)
 	
 	# draw the rectangle

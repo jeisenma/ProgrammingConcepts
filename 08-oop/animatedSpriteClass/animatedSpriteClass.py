@@ -1,13 +1,16 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
+xpos = 0
+ypos = height * 0.25
+drag = 30.0
+mouseDown = False
+
 def setup(): 
 	size(640, 360)
 	background(255, 204, 0)
 	frameRate(24)
-	
-	global xpos, ypos, drag, mouseDown, animation1, animation2 
-	xpos = 0
-	ypos = height * 0.25
-	drag = 30.0
-	mouseDown = False
+	global animation1, animation2
 	animation1 = Animation("PT_Shifty_", 38)
 	animation2 = Animation("PT_Teddy_", 60)
 

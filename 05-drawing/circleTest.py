@@ -1,3 +1,6 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 radius = 150
 pos = PVector(200,200)
 
@@ -5,7 +8,6 @@ def setup():
 	size(400,400)
 
 def draw():
-	global radius, pos
 	background(100)
 	# find the distance from the mouse to the circle center
 	d = dist( mouseX, mouseY, pos.x, pos.y )

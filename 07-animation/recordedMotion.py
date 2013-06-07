@@ -1,22 +1,27 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
+# animation properties
+rad = 30
+recording = False
+f = 0
+numFrames = 800
+motion = []
+
 def setup():
 	size(400,400)
 	strokeWeight(2)
 	
-	global pos, rad, recording, f, numFrames, motion
-	rad = 30
-	recording = False
-	f = 0
-	numFrames = 800
+	global pos
 	pos = PVector(width/2,height-rad)
 	
 	# fill keyframes with starting position
-	motion = []
 	for i in range(numFrames):
 		motion.append( PVector(pos.x,pos.y) )
 
 
 def draw():
-	global pos, rad, recording, f, numFrames, motion
+	global f, recording
 	background(200)
 	
 	# when recording...

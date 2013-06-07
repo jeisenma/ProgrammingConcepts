@@ -1,3 +1,6 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 # import the turtle module (from the TK library) -- discuss alternatives
 from turtle import *
 

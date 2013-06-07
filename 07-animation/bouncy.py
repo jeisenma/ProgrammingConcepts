@@ -1,16 +1,18 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
+# ball properties
+rad = 25		  # radius of the ball
+pos = PVector( 150, 50 )		# initial position of the ball
+vel = PVector( random(-3,3), random(-3,3) )	 # velocity of the balll
+grav = PVector( 0, 0.9 )		# force on the ball (gravity)
+d = 0.97		  # how much bounce?
+
 def setup():
 	size(300,300)
-	# ball properties
-	global rad, d, pos, vel, grav
-	rad = 25		  # radius of the ball
-	pos = PVector( 150, 50 )		# initial position of the ball
-	vel = PVector( random(-3,3), random(-3,3) )	 # velocity of the balll
-	grav = PVector( 0, 0.9 )		# force on the ball (gravity)
-	d = 0.97		  # how much bounce?
 
 def draw():
 	""" update the ball's state and draw it every frame """
-	global rad, d, pos, vel, grav
 	# update the velocity with the force
 	vel.add(grav)
 	
@@ -44,7 +46,6 @@ def draw():
 
 def mousePressed():
 	""" If the ball is clicked, add a random velocity. """
-	global rad, pos
 	if( dist(mouseX,mouseY,pos.x,pos.y) < rad ):
 		vel.add( PVector(random(-3,3), random(10,20)) )
 

@@ -1,3 +1,6 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 maxSW = 12	# the thickest possible stroke weight
 sz = 0		# variable to keep track of the current stroke weight
 
@@ -14,8 +17,8 @@ def draw():
 def mouseDragged():
 	""" Draws lines on the screen.  
 		Slower strokes are fatter and faster ones are thinner. """
-	global maxSW, sz
-	
+	global sz	# we will be changing the value of sz in this function, so make it global
+
 	# how far did the mouse move? (minimum of one pixel)
 	d = max(1, dist(pmouseX, pmouseY, mouseX, mouseY))
 	

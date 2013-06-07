@@ -1,7 +1,10 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
+squares = []
+
 def setup():
     size(400,400)
-    global squares
-    squares = []
 
 def draw():
     background(255)

@@ -1,21 +1,24 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 # frequencyModulation
-# A simple example for doing FM (frequency modulation) using two Oscils.
+# Adapted from simple example for doing FM (frequency modulation) using two Oscils.
 # Use the mouse to control the speed and range of the frequency modulation.
 # Author: Damien Di Fede
 
 # import everything necessary to make sound.
 from ddf.minim import Minim
 from ddf.minim.ugens import Waves, Oscil
-import launcher
-launcher.create()
+# import launcher
+# launcher.create()
 	
 # setup is run once at the beginning
 def setup():
+	global minim, out, fm
 	# initialize the drawing window
 	size( 512, 200 )
 	
 	# initialize the minim and out objects
-	global minim, out
 	minim = Minim(this)
 	out   = minim.getLineOut()
 	
@@ -27,7 +30,6 @@ def setup():
 	# frequency of wave changes and the amplitude determines how much.
 	# since we are using the output of fm directly to set the frequency
 	# of wave, you can think of the amplitude as being expressed in Hz.
-	global fm
 	fm = Oscil( 10, 2, Waves.SINE )
 	# set the offset of fm so that it generates values centered around 200 Hz
 	fm.offset.setLastValue( 200 )
@@ -39,7 +41,6 @@ def setup():
 
 # draw is run many times
 def draw():
-	global out
 	# erase the window to black
 	background( 0 )
 	# draw using a white stroke
@@ -59,7 +60,6 @@ def draw():
 # we can change the parameters of the frequency modulation Oscil
 # in real-time using the mouse.
 def mouseMoved():
-	global fm
 	modulateAmount = map( mouseY, 0, height, 220, 1 )
 	modulateFrequency = map( mouseX, 0, width, 0.1, 100 )
 	fm.frequency.setLastValue( modulateFrequency )

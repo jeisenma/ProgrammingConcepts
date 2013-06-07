@@ -1,3 +1,6 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 ## 1 
 # def draw():
 	# line(pmouseX, pmouseY, mouseX, mouseY)
@@ -36,7 +39,6 @@
 # def draw():
 	# pass
 # def mouseDragged():
-	# global maxSW
 	# strokeWeight(maxSW)
 	# line(pmouseX, pmouseY, mouseX, mouseY)
 # def keyPressed():
@@ -50,7 +52,6 @@
 # def draw():
 	# pass
 # def mouseDragged():
-	# global maxSW
 	# d = max(1, dist(pmouseX, pmouseY, mouseX, mouseY))
 	# strokeWeight(d)
 	# line(pmouseX, pmouseY, mouseX, mouseY)
@@ -65,7 +66,6 @@
 # def draw():
 	# pass
 # def mouseDragged():
-	# global maxSW
 	# d = max(1, dist(pmouseX, pmouseY, mouseX, mouseY))
 	# strokeWeight(maxSW/d)
 	# line(pmouseX, pmouseY, mouseX, mouseY)
@@ -81,7 +81,7 @@ def setup():
 def draw():
 	pass
 def mouseDragged():
-	global maxSW, sw
+	global sw
 	d = max(1, dist(pmouseX, pmouseY, mouseX, mouseY))
 	sw += maxSW/d
 	sw /=2

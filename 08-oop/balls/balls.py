@@ -1,13 +1,16 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 from Ball import Ball
 from random import random
+	
+balls = []					# list to hold all the balls
+mouseDown = False			# keeps track of whether or not the mouse is down
+mouseDownPos = PVector()	# keeps track of where the mouse was initially pressed	
 
 # set up the world
 def setup():
 	size(400,400)
-	global balls, mouseDown, mouseDownPos
-	balls = []					# list to hold all the balls
-	mouseDown = False			# keeps track of whether or not the mouse is down
-	mouseDownPos = PVector()	# keeps track of where the mouse was initially pressed	
 
 # update each ball's state and draw it every frame
 def draw():

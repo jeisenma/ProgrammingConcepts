@@ -1,12 +1,15 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 # Adapted from Dan Shiffman's example: http://processing.org/examples/sinewave.html
+xspacing = 16		# How far apart should each horizontal location be spaced
+theta = 0.0			# Start angle at 0
+amplitude = 75.0	# Height of wave
+period = 500.0		# How many pixels before the wave repeats
 
 def setup():
+	global w, dx, yvalues 
 	size(640, 360)
-	global xspacing, w, theta, amplitude, period, dx, yvalues 
-	xspacing = 16		# How far apart should each horizontal location be spaced
-	theta = 0.0			# Start angle at 0
-	amplitude = 75.0	# Height of wave
-	period = 500.0		# How many pixels before the wave repeats
 	w = width+16
 	num = w/xspacing	# How many circles to draw
 	yvalues = [0]*num	# Using an array to store height values for the wave (Notice the shortcut for making an array filled with zeros) 
@@ -18,7 +21,7 @@ def draw():
 	renderWave()
 
 def calcWave():
-	global theta, yvalues, amplitude, dx
+	global theta
 	# Increment theta (try different values for 'angular velocity' here
 	theta += 0.02
 	
@@ -29,7 +32,6 @@ def calcWave():
 		x+=dx
 
 def renderWave():
-	global yvalues, xspacing
 	noStroke()
 	fill(255)
 	# A simple way to draw the wave with an ellipse at each location

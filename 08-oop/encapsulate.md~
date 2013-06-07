@@ -19,7 +19,8 @@
 - [snowmen][]
 - [animated sprite][] ([data](pcad.py?page=08-oop/animatedSpriteClass/data.zip))
 - [bouncy balls][]
-- [shape gallery][]
+- [springs][]
+- [parametric shapes][]
 
 ## Lab
 - parametric [snow goons](http://images3.wikia.nocookie.net/__cb20060317210361/candh/images/3/35/Attack_of_the_Deranged_Mutant_Killer_Monster_Snow_Goons.jpg)
@@ -37,5 +38,6 @@
 [rotating squares]: pcad.py?page=08-oop/squares.py 
 [animated sprite]: pcad.py?page=08-oop/animatedSpriteClass/animatedSpriteClass.py
 [bouncy balls]: pcad.py?page=08-oop/balls.zip
-[shape gallery]: pcad.py?page=08-oop/shapeGallery.zip
+[springs]: pcad.py?page=08-oop/springs.zip
+[parametric shapes]: pcad.py?page=08-oop/paramShapes.zip
 [snow goons]: pcad.py?page=08-oop/snowGoons.py

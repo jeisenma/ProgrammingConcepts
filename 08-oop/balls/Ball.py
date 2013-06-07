@@ -1,8 +1,6 @@
 # J Eisenmann 2013 
 # jeisenma@accad.osu.edu
 
-# currently a but in processing-py requires us to import PVector for separate modules
-import processing.core.PVector as PVector
 from random import random
 
 class Ball:

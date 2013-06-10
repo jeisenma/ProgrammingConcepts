@@ -4,6 +4,7 @@
 
 ## Discussion
  - [Syllabus](pcad.py?page=syllabus.pdf)
+ - [Should you take this course?](pcad.py?page=01-intro/ShouldYouTakeThisCourse.png)
  - Course website tour
  - [Intro to Human-Computer Interaction](pcad.py?page=01-intro/intro.pdf)
 

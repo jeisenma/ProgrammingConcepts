@@ -6,7 +6,7 @@
  - [Syllabus](pcad.py?page=syllabus.md)
  - [Should you take this course?](pcad.py?page=01-intro/ShouldYouTakeThisCourse.md)
  - Course website tour
- - [Intro to Human-Computer Interaction](pcad.py?page=01-intro/intro.pdf)
+ - [Intro to Human-Computer Interaction](https://docs.google.com/presentation/d/1lMlN6qSnVEWMMn2fzboWOykyI4v7fP9cy8X5Rq7cZ6w/pub?start=false&loop=false&delayms=3000)
 
 ## Programming Concepts
  - Interaction

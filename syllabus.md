@@ -25,9 +25,9 @@ By the end of this course you should be able to:
 	- arrays and data streams
 	- libraries and APIs
 	
-- Create interactive media (i.e. games, visualizations, interactive art, nonlinear narratives, etc)
-- Understand and modify other people's code to make it work for you
-- Collaborate and share ideas more easily with programmers in your field
+- Create interactive media (i.e. games, visualizations, interactive art, nonlinear narratives, etc)  
+- Understand and modify other people's code to make it work for you  
+- Collaborate and share ideas more easily with programmers in your field  
 
 You should leave the course with a sketchbook of small interactive projects (called "sketches") and with one final project that has evolved into a polished interactive piece.
 
@@ -77,7 +77,7 @@ Any and all suspected cases of academic dishonesty will be dealt with according 
 Any student who feels s/he may need an accommodation based on the impact of a disability should contact the instructor privately to discuss their specific needs. Please also contact the Office for Disability Services at 614-292-3307 in room 150 Pomerene Hall to coordinate reasonable accommodations for any documented disabilities.
 
 **Schedule**  
-Subject to change based on class progress.  See the website for an up-to-date schedule.
+Subject to change based on class progress.  
 
 | Week  | Topics (cumulative!) 									| Applications 						| Technologies 		|
 | ----- | ------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- |

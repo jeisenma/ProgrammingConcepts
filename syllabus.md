@@ -24,6 +24,7 @@ By the end of this course you should be able to:
 	- events
 	- arrays and data streams
 	- libraries and APIs
+	
 - Create interactive media (i.e. games, visualizations, interactive art, nonlinear narratives, etc)
 - Understand and modify other people's code to make it work for you
 - Collaborate and share ideas more easily with programmers in your field

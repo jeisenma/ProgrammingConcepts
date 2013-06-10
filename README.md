@@ -11,6 +11,7 @@
  - [Syllabus](pcad.py?page=syllabus.md)
  - [Setting up your development environment][setup]
  - [Examples][examples]
+ - [Resources][resources]
 
 ## Topics
  - [Interactive Systems][intro]  
@@ -32,6 +33,7 @@
  - [Final Project Presentations][final] (July 30th @ 2:00-3:45pm)		
 
 [examples]: pcad.py?page=examples.md
+[resources]: pcad.py?page=resources.md
 [setup]: pcad.py?page=00-setup/setup.md
 [intro]: pcad.py?page=01-intro/intro.md
 [basics]: pcad.py?page=02-basics/basics.md

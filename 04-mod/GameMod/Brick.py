@@ -10,7 +10,7 @@ class Brick:
 		self.rectangle =  Rectangle(W, H, HASSTROKE, STROKE, HASFILL, FILL)
 		self.rectangle.setPosition(X, Y)
 		self.imAlive = True
-		self.respawns = True
+		self.respawns = False
 		self.timeToRespawn = 60 # time is in frames
 		self.frame = 0
 	

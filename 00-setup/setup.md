@@ -21,7 +21,7 @@ Here are the links and instructions you will need to work with the same developm
 	- BufferTabs
 	- ErrorList
 - Save [this keyboard shortcuts file][] to your <USER>/AppData/Roaming/jEdit/keymaps folder by right-clicking and choosing save as.
-- Save [this XML file][] to your <USER>/AppData/Roaming/jEdit/console/commando folder by right-clicking and choosing save as. 
+- Save [this XML file][] ([Mac version here][]) to your <USER>/AppData/Roaming/jEdit/console/commando folder by right-clicking and choosing save as. 
 - (You may need to change the default values for "path to java" and "path to processing-py.jar" to reflect the locations of java and processing-py on your computer.)
 - Restart jEdit!
 - Go to Utilities > Global Options > Editing and set Tab Width and Indent Width equal to 4
@@ -60,6 +60,7 @@ Here are the links and instructions you will need to work with the same developm
 [Scratch]: http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 [processing-py]: https://github.com/jeisenma/ProgrammingConcepts/blob/master/00-setup/processing.py-0022.zip
 [this XML file]: pcad.py?page=00-setup/jeditFiles/PYP5.xml
+[Mac version here] pcad.py?page=00-setup/jeditFiles/PYP5_mac.xml
 [this keyboard shortcuts file]: pcad.py?page=00-setup/jeditFiles/p5py_keys.props
 [jEdit]: http://sourceforge.net/projects/jedit/files/jedit/5.0.0/jedit5.0.0install.jar/download
 [Notepad++]: http://notepad-plus-plus.org/download/v6.3.3.html

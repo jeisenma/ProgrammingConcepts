@@ -4,6 +4,7 @@
 
 ## Discussion
 - Yay [Processing][]!
+- [Translating from Scratch to Processing-py][]
 - Coordinates
 - Drawing shapes ([line][], [arc][], [ellipse][], [rect][], [point][], [quad][], [triangle][])
 
@@ -40,6 +41,7 @@
 - Submit a file called monster.py to Carmen
 	
 [Processing]: http://www.processing.org/
+[Translating from Scratch to Processing-py]: pcad.py?page=05-drawing/scratch2processing-py.pdf
 [Sprite]: pcad.py?page=05-drawing/sprite.py
 [Lines]: pcad.py?page=05-drawing/lines.py
 [Shapes]: pcad.py?page=05-drawing/shapes.py

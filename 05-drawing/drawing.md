@@ -33,11 +33,11 @@
 
 ## Assignment
 - Monsters!
-	- (4 points) draw a monster with code
-	- (2 points) use Processing's drawing functions ([line][], [arc][], [ellipse][], [rect][], [point][], [quad][], [triangle][])
-	- (2 points) use some loops
-	- (2 points) experiment with different stroke weights and fill/stroke colors
-- Submit a file called monster.py to Carmen (10 points)
+	- draw a monster with code (1 point)
+	- use Processing's drawing functions ([line][], [arc][], [ellipse][], [rect][], [point][], [quad][], [triangle][]) (1 point)
+	- use some loops (1 point)
+	- experiment with different stroke weights and fill/stroke colors (1 point)
+- Submit a file called monster.py to Carmen
 	
 [Processing]: http://www.processing.org/
 [Sprite]: pcad.py?page=05-drawing/sprite.py

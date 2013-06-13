@@ -29,9 +29,11 @@
 
 ## Assignment
 - Encapsulate your monster drawing and animation 
-	- Create some intuitive properties for your monster class so that it can be controlled parameters passed into the constructor
-	- Generate a family of monsters with as much interesting diversity as you can muster
-- Save it to a file called generative.py and submit it on Carmen. (10 points)
+	- Create some intuitive properties for your monster class so that it can be controlled parameters passed into the constructor (1 point)
+	- Generate a family of monsters with as much interesting diversity as you can muster by mapping random values to the above parameters (2 points)
+	- Allow the user to generate a new set of random monsters by pressing the space bar (1 point)
+- Save it to a file called generative.py and submit it on Carmen. (4 points total)
+- If you dig this generative thing, you might want to try to take it a step further by evolving monsters using a genetic algorithm. (see [Shiffman's tutorial on GAs][])
 
 [snowmen]: pcad.py?page=08-oop/snowmen.py
 [rotating squares]: pcad.py?page=08-oop/squares.py 
@@ -39,3 +41,4 @@
 [bouncy balls]: pcad.py?page=08-oop/balls.zip
 [shape gallery]: pcad.py?page=08-oop/shapeGallery.zip
 [snow goons]: pcad.py?page=08-oop/snowGoons.py
+[Shiffman's tutorial on GAs]: http://natureofcode.com/book/chapter-9-the-evolution-of-code/

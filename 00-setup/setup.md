@@ -20,8 +20,8 @@ Here are the links and instructions you will need to work with the same developm
 	- Console
 	- BufferTabs
 	- ErrorList
-- Save [this keyboard shortcuts file][] to your <USER>/AppData/Roaming/jEdit/keymaps folder by right-clicking and choosing save as.
-- Save [this XML file][] ([Mac version here][]) to your <USER>/AppData/Roaming/jEdit/console/commando folder by right-clicking and choosing save as. 
+- Save [this keyboard shortcuts file][] to your <USER>/AppData/Roaming/jEdit/keymaps folder (/User/<USER>/.jedit/keymaps on Mac) by right-clicking and choosing save as.
+- Save [this XML file][] ([Mac version here][]) to your <USER>/AppData/Roaming/jEdit/console/commando folder (/User/<USER>/.jedit/console/commando on Mac) by right-clicking and choosing save as. 
 - (You may need to change the default values for "path to java" and "path to processing-py.jar" to reflect the locations of java and processing-py on your computer.)
 - Restart jEdit!
 - Go to Utilities > Global Options > Editing and set Tab Width and Indent Width equal to 4

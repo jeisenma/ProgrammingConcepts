@@ -58,7 +58,7 @@ Here are the links and instructions you will need to work with the same developm
 
 
 [Scratch]: http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
-[processing-py]: http://s.xr.io/processing.py/latest.zip
+[processing-py]: https://github.com/jeisenma/ProgrammingConcepts/blob/master/00-setup/processing.py-0022.zip
 [this XML file]: pcad.py?page=00-setup/jeditFiles/PYP5.xml
 [this keyboard shortcuts file]: pcad.py?page=00-setup/jeditFiles/p5py_keys.props
 [jEdit]: http://sourceforge.net/projects/jedit/files/jedit/5.0.0/jedit5.0.0install.jar/download

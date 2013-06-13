@@ -27,4 +27,9 @@
 
 ## Assignment
 - Write a python program that draws a radially symmetric turtle drawing.
-- Save it to a file called radialSymmetry.py and submit it on Carmen. (10 points)
+- Save it to a file called radialSymmetry.py and submit it on Carmen. (4 points total)
+	- use at least one function (1 point)
+	- use at least one loop (1 point)
+	- use an 'if' to make a decision based on the current iteration of a loop (1 point)
+	- provide interesting variables at the top for controlling the look of your drawing (explain these with comments!) (1 point)
+	

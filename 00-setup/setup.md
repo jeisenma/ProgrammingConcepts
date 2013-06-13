@@ -20,18 +20,21 @@ Here are the links and instructions you will need to work with the same developm
 	- Console
 	- BufferTabs
 	- ErrorList
-- Save [this keyboard shortcuts file][] to your <USER>/AppData/Roaming/jEdit/keymaps folder.
-- Save [this XML file][] to your <USER>/AppData/Roaming/jEdit/console/commando folder. 
+- Save [this keyboard shortcuts file][] to your <USER>/AppData/Roaming/jEdit/keymaps folder by right-clicking and choosing save as.
+- Save [this XML file][] to your <USER>/AppData/Roaming/jEdit/console/commando folder by right-clicking and choosing save as. 
 - (You may need to change the default values for "path to java" and "path to processing-py.jar" to reflect the locations of java and processing-py on your computer.)
-- Restart jEdit.
-- Go to Utilities > Options > Editing and set Tab Width and Indent Width equal to 4
-- Go to Utilities > Options > Shortcuts and select "p5py" from the "Choose keymap" drop down menu.  Hit "Apply" at the bottom of the window.
-- Go to Plugins > Plugin Options, then select Console > Error Patterns.  Hit the "+" button and type "python", hit "OK" twice.
+- Restart jEdit!
+- Go to Utilities > Global Options > Editing and set Tab Width and Indent Width equal to 4
+- Go to Utilities > Global Options > Shortcuts and select "p5py" from the "Choose keymap" drop down menu.  Hit "Apply" at the bottom of the window.
+- Go to Plugins > Plugin Options, then select Console > Error Patterns.  Hit the "+" button and type "python", hit "Apply".
+- Hit the "+" button again and type "processing-py", then edit the "Error Regexp" and "Filename", "Line number", "Error Message" boxes to look [like this](https://raw.github.com/jeisenma/ProgrammingConcepts/master/00-setup/jeditFiles/jEditErrorPatterns.png)
 - To test that everything is working
 	1. copy this code: "ellipse(50,50,50,50)" without the quotes to a new file
 	2. save it as "test.py" 
 	3. hit Ctrl+r and hit "OK"
 	4. you should see a white circle on a grey background
+	5. try deleting the last parenthesis and running again (Ctrl+r and hit "OK") -- you should get an error message in your Error List window
+	6. put that parenthesis back and try adding this text on the next line: "print puppies" -- you should get an error message again that points you to the line with the error
 
 <!--
 

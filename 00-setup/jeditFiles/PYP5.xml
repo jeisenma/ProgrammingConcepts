@@ -7,7 +7,7 @@
         <CAPTION LABEL="Run Processing.py">
            <FILE_ENTRY LABEL="Path to java" VARNAME="java" DEFAULT="'C:\Program Files (x86)\Java\jre7\bin\java.exe'"/>
             <FILE_ENTRY LABEL="sketch" VARNAME="sketch" EVAL="buffer.getPath()"/>
-            <FILE_ENTRY LABEL="Path to processing-py.jar" VARNAME="processingpy" DEFAULT="'C:\Program Files (x86)\processing.py-0021\processing-py.jar'"/>
+            <FILE_ENTRY LABEL="Path to processing-py.jar" VARNAME="processingpy" DEFAULT="'C:\Program Files (x86)\processing.py-0022\processing-py.jar'"/>
 		</CAPTION>
 		<CAPTION LABEL="VM settings">
 		<ENTRY LABEL="Initial heap size (Mb)" VARNAME="ms" DEFAULT="32" />

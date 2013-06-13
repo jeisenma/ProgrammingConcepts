@@ -28,7 +28,7 @@ You can load these by downloading them, then in your Scratch tab, go to "File" >
 - Draw a polgyon 
 	- Use a variable "sides" to set the number of sides
 	- Can you draw a circle?
-	- Bonus: see if you can make each polygon have the same area
+	- Bonus: see if you can make each polygon have approximately the same area  (hint: use ratios -- no need to bust out any algebraic manipulation)
  
 ## Scratch Readings
 - [Getting Started Guide](http://cdn.scratch.mit.edu/scratchr2/static/__v-2013-05-09-03-24-236-gc0c7597__//pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf)
@@ -37,7 +37,7 @@ You can load these by downloading them, then in your Scratch tab, go to "File" >
 
 ## Assignment
 - Make a game! (see the [Scratch gallery][] for inspiration)
-- Submit it on Carmen (10 points)
+- Submit it on Carmen (4 points)
 
 [Scratch]: http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 [Getting Started Guide]: http://cdn.scratch.mit.edu/scratchr2/static/__v-2013-05-09-03-24-236-gc0c7597__//pdfs/help/ScratchGetStarted_beta_draft_Jan2013.pdf

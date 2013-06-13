@@ -23,8 +23,8 @@
 - [Colors](http://processing.org/learning/color/)
 
 ## Assignment
-- Submit your finished mod(s) on Carmen (8 points)
-- Record a video of you interacting with your favorite mod and submit it along with your mod (2 points)
+- Submit your finished mod(s) on Carmen (3 points)
+- Record a video of you interacting with your favorite mod and submit it along with your mod (1 point)
 	1. While your sketch is running click on the screen then hold down the 'g' key for the duration you want to record.
 	2. Open Quicktime, go to File > Open Image Sequence
 	3. Browse to your sketch directory, then to the "saved" sub-directory.  Your images should be there.  Open the first one.

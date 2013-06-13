@@ -26,7 +26,8 @@ Here are the links and instructions you will need to work with the same developm
 - Restart jEdit!
 - Go to Utilities > Global Options > Editing and set Tab Width and Indent Width equal to 4
 - Go to Utilities > Global Options > Shortcuts and select "p5py" from the "Choose keymap" drop down menu.  Hit "Apply" at the bottom of the window.
-- Go to Plugins > Plugin Options, then select Console > Error Patterns.  Hit the "+" button and type "python", hit "OK" twice.
+- Go to Plugins > Plugin Options, then select Console > Error Patterns.  Hit the "+" button and type "python", hit "Apply".
+- Hit the "+" button again and type "processing-py", then edit the "Error Regexp" and "Filename", "Line number", "Error Message" boxes to look [like this](https://raw.github.com/jeisenma/ProgrammingConcepts/master/00-setup/jeditFiles/jEditErrorPatterns.png)
 - To test that everything is working
 	1. copy this code: "ellipse(50,50,50,50)" without the quotes to a new file
 	2. save it as "test.py" 

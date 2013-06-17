@@ -12,9 +12,9 @@
 - data streams?
  
 ## Examples
-- [minim][]
+- [minim][]	
+- [movie][] ([data](pcad.py?page=09-libraries/data/transit.mov))
 - [osc][]
-- [movie][]
 
 ## Lab
 - handmade waveforms
@@ -28,3 +28,6 @@
 
 ## Assignment
 - 
+
+[minim]: pcad.py?page=09-libraries/minim.py
+[movie]: pcad.py?page=09-libraries/movie.py

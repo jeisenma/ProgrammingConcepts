@@ -1,9 +1,30 @@
 --------------------------------
-# Publishing your work
+# Libraries: letting other people do the hard work
 --------------------------------
 
-Building an application
-import launcher
-launcher.create()
+## Discussion
+- review of importing
+- the Java-processing equivalent
+- * doesn't work yet
 
-skulpt + pjs + python
+## Programming Concepts
+- libraries
+- data streams?
+ 
+## Examples
+- [minim][]
+- [osc][]
+- [movie][]
+
+## Lab
+- handmade waveforms
+
+<!--
+- [handmade waveforms][]
+-->
+
+## Reading
+-  
+
+## Assignment
+- 

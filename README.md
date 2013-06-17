@@ -45,8 +45,8 @@
 [encapsulation]: pcad.py?page=08-oop/encapsulate.md
 [dataviz]: pcad.py?page=dataviz
 [translation]: pcad.py?page=translation
-[publishing]: pcad.py?page=10-publishing/publishing
-[libraries]: pcad.py?page=09-libraries/libraries
+[publishing]: pcad.py?page=10-publishing/publishing.md
+[libraries]: pcad.py?page=09-libraries/libraries.md
 [api]: pcad.py?page=api
 [gui]: pcad.py?page=gui
 [translation]: pcad.py?page=translation

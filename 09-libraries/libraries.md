@@ -14,7 +14,8 @@
 ## Examples
 - [minim][]	
 - [movie][] ([data](pcad.py?page=09-libraries/data/transit.mov))
-- [osc][]
+- [blobs][]
+- [gestures][]
 
 ## Lab
 - handmade waveforms

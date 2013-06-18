@@ -14,7 +14,7 @@ Here are the links and instructions you will need to work with the same developm
 
 ## [Processing-py][processing-py]
 
-- Download [processing-py][]([mac version][]). Unzip it to location on your hard drive. (Remember where!)
+- Download [processing-py][] ([mac version][]). Unzip it to location on your hard drive. (Remember where!)
 - Download & Install [jEdit][].
 - Run jEdit and go to Plugins > Plugin Manager.  In the "Install" tab, select and install the following plugins:
 	- Console

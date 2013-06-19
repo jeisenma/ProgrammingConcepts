@@ -19,7 +19,7 @@
 		- [trim](http://www.processing.org/reference/trim_.html)
 - Visualizing your data:
 
-<table border="1">
+- <table border="1">
 
 <tr><td> Type </td><td> How </td><td> Interaction </td><td> Challenges </td><td> Example(s) </td></tr>
 

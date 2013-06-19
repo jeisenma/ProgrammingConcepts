@@ -19,8 +19,7 @@
 		- [trim](http://www.processing.org/reference/trim_.html)
 - Visualizing your data:
 
-- <table border="1">
-
+	- <table border="1">
 <tr><td> Type </td><td> How </td><td> Interaction </td><td> Challenges </td><td> Example(s) </td></tr>
 
 <tr><td> map </td><td> plot latitude/ longitude points </td><td> zooming, panning </td><td> multi-resolution </td><td> <a href="http://www.sf.biomapping.net/map.htm">biomapping</a> </td></tr>
@@ -30,9 +29,9 @@
 <tr><td> associative relationships </td><td> connector splines </td><td> selecting </td><td> layout (spaghetti) </td><td> <a href="http://www.propublica.org/special/a-tangled-web">campaign money</a> </td></tr>
 
 <tr><td> quantitative relationships </td><td> graphs (bar, pie, bubble, line, scatter) </td><td> selecting </td><td> clarity, accurate metaphor </td><td> <a href="http://www.climateinstitute.org.au/global-climate-leadership-review-2012.html/section/479">climate data</a> </td></tr>
-
 </table>
 
+- 
 
 ## Lab
 - [Using loadTable](id/examples/LoadTable/web-export/)

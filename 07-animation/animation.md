@@ -27,6 +27,7 @@
 - Noisy Worm - Create a worm out of a series of circles.  Move the head of the worm with a noise function.  Make the rest of the worm's body follow the head by remembering previous head positions.
 
 ## Reading
+- [LPTHW: 34](http://learnpythonthehardway.org/book/ex34.html)
 - [Animation Principles](https://www.cs.washington.edu/education/courses/459/12au/exercises/animation_principles.html)
 - Optional further reading:
 	- [John Lasseter's original paper applying 12 Disney principles to computer animation](http://dl.acm.org/citation.cfm?id=37407)

@@ -31,7 +31,6 @@
 <tr><td> quantitative relationships </td><td> graphs (bar, pie, bubble, line, scatter) </td><td> selecting </td><td> clarity, accurate metaphor </td><td> <a href="http://www.climateinstitute.org.au/global-climate-leadership-review-2012.html/section/479">climate data</a> </td></tr>
 </table>
 
-## More Examples
 - Data scraping and parsing
 	- [Load from CSV](id/examples.py?page=LoadCSV) - loads data from a CSV file ([original XLS file](id/examples/LoadCSV/originalFile.xls) and the [CSV file](id/examples/LoadCSV/TimeUse2011.csv) I used)
 	- [Connect to Twitter](http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter) - describes how to connect to twitter to run real time queries
@@ -44,9 +43,6 @@
 	- [Bar Graph](id/examples.py?page=SmoothBars)
 	- [Connection Graph (cluster)](http://www.openprocessing.org/sketch/22525)
 	- [Connection Graph (polar)](http://www.openprocessing.org/sketch/34748)
-
-## Lab
-- [Using loadTable](id/examples/LoadTable/web-export/)
 
 ## Reading
  - [Tell a great story](http://flowingdata.com/2008/10/10/great-data-visualization-tells-a-great-story/)

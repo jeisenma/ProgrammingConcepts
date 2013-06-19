@@ -5,18 +5,19 @@
 
 ## Discussion
 - Parsing your data: getting it into a usable format
-	- Common data file types (csv, tab delimited, xls, xml)
+	- Common data file types (csv, tab delimited, xls, xml, json)
 	- File I/O
-		- [loadStrings](http://www.processing.org/reference/loadStrings_.html)
-		- [loadTable](http://www.processing.org/reference/loadTable_.html)
-		- [loadXML](http://www.processing.org/reference/loadXML_.html)
+		- open
+		- read
+		- write
+		- close
 	- Strings
-		- [toUpperCase](http://www.processing.org/reference/String_toUpperCase_.html)/[toLowerCase](http://www.processing.org/reference/String_toLowerCase_.html)
-		- [replaceAll](http://docs.oracle.com/javase/1.5.0/docs/api/java/lang/String.html#replaceAll%28java.lang.String,%20java.lang.String%29)
-		- [substring](http://www.processing.org/reference/String_substring_.html)
-		- [startsWith](http://docs.oracle.com/javase/1.5.0/docs/api/java/lang/String.html#startsWith%28java.lang.String%29)/[endsWith](http://docs.oracle.com/javase/1.5.0/docs/api/java/lang/String.html#endsWith%28java.lang.String%29)
-		- [split](http://www.processing.org/reference/split_.html)/[join](http://www.processing.org/reference/join_.html)
-		- [trim](http://www.processing.org/reference/trim_.html)
+		- toUpperCase/toLowerCase 
+		- substitution 
+		- substring
+		- startsWith/endsWith
+		- split/join
+		- trim
 
 ## Examples
 <table border="1">

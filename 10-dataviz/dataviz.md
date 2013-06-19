@@ -31,14 +31,14 @@
 <tr><td> quantitative relationships </td><td> graphs (bar, pie, bubble, line, scatter) </td><td> selecting </td><td> clarity, accurate metaphor </td><td> <a href="http://www.climateinstitute.org.au/global-climate-leadership-review-2012.html/section/479">climate data</a> </td></tr>
 </table>
 
+[Load from CSV]: http://docs.python.org/2/library/csv.html
+[Scrape from HTML]: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+[Connect to Twitter]: http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter
+
 - Data scraping and parsing
 	- [Load from CSV]() - load data from a CSV file 
 	- [Scrape from HTML]() - scrapes data from HTML source
 	- [Connect to Twitter]() - describes how to connect to twitter to run real time queries
-
-[Load from CSV]: http://docs.python.org/2/library/csv.html
-[Scrape from HTML]: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
-[Connect to Twitter]: http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter
 
 - Making pictures with data
 	- [Pie Chart](http://processing.org/learning/basics/piechart.html)

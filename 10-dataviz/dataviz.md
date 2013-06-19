@@ -31,8 +31,7 @@
 <tr><td> quantitative relationships </td><td> graphs (bar, pie, bubble, line, scatter) </td><td> selecting </td><td> clarity, accurate metaphor </td><td> <a href="http://www.climateinstitute.org.au/global-climate-leadership-review-2012.html/section/479">climate data</a> </td></tr>
 </table>
 
-- 
-
+</li>
 ## Lab
 - [Using loadTable](id/examples/LoadTable/web-export/)
 

@@ -25,10 +25,10 @@
  
 ## Assignment
 - Paint tool - Create a basic paint tool in processing-py.  It should enable the user to:
-	- Draw in red, green, or blue. Use the 'r', 'g', and 'b' keys to switch colors. (1 point)
+	- Draw in red, green, or blue. Use the 'r', 'g', and 'b' keys to switch colors.  You can pick more interesting colors if you prefer, I just want to see that you can switch colors with a  key press. (1 point)
 	- Clear the screen with the delete key OR the backspace key. (1 point)
 	- Toggle between brush mode and polgyon mode with the spacebar. Polygon mode connects the dots with straight lines between mouse clicks. (1 point)
-	- Save the image to a file called "myPainting.png" the hard drive using [the save() function](http://processing.org/reference/save_.html). (1 point)
+	- Save the image to a file called "myPainting.png" in your sketch directory using [the save() function](http://processing.org/reference/save_.html). (1 point)
 - Submit your py file on Carmen (4 points total)
 - You can receive up to 2 extra credit points for adding an extra creative feature based on loops, arrays or the constrain function.
 

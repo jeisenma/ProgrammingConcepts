@@ -18,6 +18,7 @@
 		- [split](http://www.processing.org/reference/split_.html)/[join](http://www.processing.org/reference/join_.html)
 		- [trim](http://www.processing.org/reference/trim_.html)
 - Visualizing your data:
+
 <table border="1">
 
 <tr><td> Type </td><td> How </td><td> Interaction </td><td> Challenges </td><td> Example(s) </td></tr>
@@ -31,6 +32,7 @@
 <tr><td> quantitative relationships </td><td> graphs (bar, pie, bubble, line, scatter) </td><td> selecting </td><td> clarity, accurate metaphor </td><td> <a href="http://www.climateinstitute.org.au/global-climate-leadership-review-2012.html/section/479">climate data</a> </td></tr>
 
 </table>
+
 
 ## Lab
 - [Using loadTable](id/examples/LoadTable/web-export/)

@@ -32,8 +32,14 @@
 </table>
 
 - Data scraping and parsing
-	- [Load from CSV](id/examples.py?page=LoadCSV) - loads data from a CSV file ([original XLS file](id/examples/LoadCSV/originalFile.xls) and the [CSV file](id/examples/LoadCSV/TimeUse2011.csv) I used)
-	- [Connect to Twitter](http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter) - describes how to connect to twitter to run real time queries
+	- [Load from CSV]() - load data from a CSV file 
+	- [Scrape from HTML]() - scrapes data from HTML source
+	- [Connect to Twitter]() - describes how to connect to twitter to run real time queries
+
+[Load from CSV]: http://docs.python.org/2/library/csv.html
+[Scrape from HTML]: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+[Connect to Twitter]: http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter
+
 - Making pictures with data
 	- [Pie Chart](http://processing.org/learning/basics/piechart.html)
 	- [Radial Bar Graph](id/examples.py?page=RadialBarGraph)
@@ -64,7 +70,7 @@
  - [imdb](http://www.imdb.com/interfaces)
 
 ## Assignment DataViz Project
-- You will build an interactive data viz sketch embedded in a simple webpage.  The sketch should allow users to explore data and learn about a story that matters to you.  You wil need to submit a proposal on Carmen before our next class that includes:
+- You will build an interactive data viz sketch.  The sketch should allow users to explore data and learn about a story that matters to you.  You wil need to submit a proposal on Carmen before our next class that includes:
     - Project Description: who your audience is, what story you want to tell and why, and your chosen interaction style
     - References: data sources (must read data from a file or a server), images, videos, audio, articles, etc
     - Wireframe drawing that shows what a screenshot of your data viz might look like

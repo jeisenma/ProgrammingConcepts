@@ -1,21 +1,16 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 # animation properties
 rad = 30
 recording = False
 f = 0
-numFrames = 800
 motion = []
 
 def setup():
 	size(400,400)
 	strokeWeight(2)
-	
-	global pos
-	pos = PVector(width/2,height-rad)
-	
-	# fill keyframes with starting position
-	for i in range(numFrames):
-		motion.append( PVector(pos.x,pos.y) )
-
+	motion.append( PVector(width/2, height-rad))
 
 def draw():
 	global f, recording
@@ -26,24 +21,24 @@ def draw():
 		fill(255,0,0)
 		text("recording...", 10, 20)
 		# get the positions of the mouse and save them as keyframes
-		motion[f].x = constrain(mouseX, rad, width-rad)
-		motion[f].y = constrain(mouseY, rad, height-rad)
-	
-	
+		x = constrain(mouseX, rad, width-rad)
+		y = constrain(mouseY, rad, height-rad)
+		motion.append( PVector(x,y) )
+		f = len(motion)-1
+
 	# draw the ball
 	fill(20,160,240)
 	ellipse(motion[f].x, motion[f].y, 2*rad, 2*rad)
 	
-	# advance the frame number
-	f = (f+1)%numFrames
-	# if we've reached the end of recording frames, stop recording
-	if(f == 0 and recording):
-		recording = False
-
+	if not recording:
+		# advance the frame number
+		f = (f+1)%len(motion)
 
 def keyPressed():
-	global f, recording
+	global f, recording, motion
 	if(key == ' '):
+		if not recording:
+			motion = []
 		# stop and start recording
 		recording = not(recording)
 		f = 0

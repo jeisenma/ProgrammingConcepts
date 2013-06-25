@@ -18,13 +18,13 @@
 
 ## Examples
  - [Animated Sprite][] ([data](pcad.py?page=07-animation/animatedSprite/data.zip))
- - [Recorded Motion][]
+ - [Recorded Motion][] ([variable length animations][])
  - [Making Waves][]
  - [Bouncing ball][]
  - [Springs][]
 
 ## Lab
-- Noisy Worm - Create a worm out of a series of circles.  Move the head of the worm with a noise function.  Make the rest of the worm's body follow the head by remembering previous head positions.
+- [Noisy Worm][] - Create a worm out of a series of circles.  Move the head of the worm with a noise function.  Make the rest of the worm's body follow the head by remembering previous head positions.
 
 ## Reading
 - [LPTHW: 34](http://learnpythonthehardway.org/book/ex34.html)
@@ -43,6 +43,7 @@
 
 [Animated Sprite]: pcad.py?page=07-animation/animatedSprite/animatedSprite.py
 [Recorded Motion]: pcad.py?page=07-animation/recordedMotion.py
+[variable length animations]: pcad.py?page=07-animation/recordedMotionVariableLength.py
 [Making Waves]: pcad.py?page=07-animation/waves.py
 [Bouncing ball]: pcad.py?page=07-animation/bouncy.py
 [Springs]: pcad.py?page=07-animation/springy.py

@@ -20,6 +20,7 @@
  - [Animated Sprite][] ([data](pcad.py?page=07-animation/animatedSprite/data.zip))
  - [Recorded Motion][] ([variable length animations][])
  - [Making Waves][]
+ - [The Many Adventures of Sine][]
  - [Bouncing ball][]
  - [Springs][]
 
@@ -45,6 +46,7 @@
 [Recorded Motion]: pcad.py?page=07-animation/recordedMotion.py
 [variable length animations]: pcad.py?page=07-animation/recordedMotionVariableLength.py
 [Making Waves]: pcad.py?page=07-animation/waves.py
+[The Many Adventures of Sine]: pcad.py?page=07-animation/theManyAdventuresOfSine.py
 [Bouncing ball]: pcad.py?page=07-animation/bouncy.py
 [Springs]: pcad.py?page=07-animation/springy.py
 [Noisy Worm]: pcad.py?page=07-animation/worm.py

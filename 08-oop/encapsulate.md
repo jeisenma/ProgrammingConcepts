@@ -25,7 +25,7 @@
 - parametric [snow goons](http://images3.wikia.nocookie.net/__cb20060317210361/candh/images/3/35/Attack_of_the_Deranged_Mutant_Killer_Monster_Snow_Goons.jpg)
 
 ## Reading
-- [LPTHW](http://learnpythonthehardway.org/book/) 40-42 
+- [LPTHW](http://learnpythonthehardway.org/book/) 39-42 
 
 ## Assignment
 - Encapsulate your monster drawing and animation 

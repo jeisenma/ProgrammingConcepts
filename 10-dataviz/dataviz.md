@@ -52,6 +52,7 @@
 	- [Connection Graph (polar)](http://www.openprocessing.org/sketch/34748)
 
 ## Reading
+ - [LPTHW][]: 15-17, 38
  - [Tell a great story](http://flowingdata.com/2008/10/10/great-data-visualization-tells-a-great-story/)
  - [Inspiration](http://flowingdata.com/) (note: a lot of these are not interactive -- we're interested in the interactive ones)
  - Optional further reading/coding:
@@ -79,3 +80,4 @@
     - Tasklist: what you have to get done and a timeline for doing it
 - The materials for your project (i.e. code, images, etc) will be due before class on the 16th, and we will be doing gallery style presentations in class that day
 
+[LPTHW]: http://learnpythonthehardway.org/book/

@@ -27,7 +27,7 @@ def draw():
 	
 	# squashing
 	freq = 0.04										# the speed of the action
-	w = map( sin(frameCount*freq), -1, 1, 30, 100 )	# remap sine from [-1,1] to [30, 100]
+	w = map( sin(frameCount*freq), -1, 1, 30, 100 )	# remap sine from [-1,1] to [0.2, 1.5]
 	h = 130-w 										# pretty much the opposite of w
 	ellipse( 70, height-floor-h/2, w, h )			# draw ellipse with w and h for size (center Y depends on h)
 	text("squashing", 70, height-floor/2)			# label this adventure

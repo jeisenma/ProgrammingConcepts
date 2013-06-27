@@ -22,15 +22,15 @@
  - [Interaction][interaction]
  - [Animation][animation]		
  - [Encapsulation][encapsulation]  
- - [Libraries][libraries]
  - [GUIs][gui]
  - [Data Viz][dataviz]
  - [Publishing][publishing]
- - [APIs][api]	
  - [Translation][translation]
+ - [Libraries][libraries]
+ - [APIs][api]	
  - [Mobile Interaction][mobile]		
  - [Gestural Interaction][gesture]		
- - [Final Project Presentations][final] (July 30th @ 2:00-3:45pm)		
+ - [Final Project Presentations][final] (presentations on July 30th @ 2:00-3:45pm)		
 
 [examples]: pcad.py?page=examples.md
 [resources]: pcad.py?page=resources.md
@@ -43,13 +43,12 @@
 [interaction]: pcad.py?page=06-interaction/interaction.md
 [animation]: pcad.py?page=07-animation/animation.md
 [encapsulation]: pcad.py?page=08-oop/encapsulate.md
-[dataviz]: pcad.py?page=dataviz
-[translation]: pcad.py?page=translation
-[publishing]: pcad.py?page=10-publishing/publishing.md
-[libraries]: pcad.py?page=09-libraries/libraries.md
-[api]: pcad.py?page=api
-[gui]: pcad.py?page=gui
-[translation]: pcad.py?page=translation
-[mobile]: pcad.py?page=mobile
-[gesture]: pcad.py?page=gesture
-[final]: pcad.py?page=final
+[gui]: pcad.py?page=09-gui/gui.md
+[dataviz]: pcad.py?page=10-dataviz/dataviz.md
+[publishing]: pcad.py?page=11-publishing/publishing.md
+[translation]: pcad.py?page=12-translation/translation.md
+[libraries]: pcad.py?page=13-libraries/libraries.md
+[api]: pcad.py?page=14-api/api.md
+[mobile]: pcad.py?page=15-mobile/mobile.md
+[gesture]: pcad.py?page=16-gesture/gesture.md
+[final]: pcad.py?page=17-final/final.md

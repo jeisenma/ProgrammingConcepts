@@ -78,6 +78,7 @@
     - Wireframe drawing that shows what a screenshot of your data viz might look like
     - Data flow and control flow diagrams
     - Tasklist: what you have to get done and a timeline for doing it
-- The materials for your project (i.e. code, images, etc) will be due before class on the 16th, and we will be doing gallery style presentations in class that day
+- The proposal is worth 5 points.
+- The materials for your project (i.e. code, images, etc) will be due before class on the 16th, and we will be doing gallery style presentations in class that day.  The project is worth 20 points.
 
 [LPTHW]: http://learnpythonthehardway.org/book/

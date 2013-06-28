@@ -45,7 +45,8 @@ class Snowman:
 	
 	def draw(self):
 		""" draws the snowman """
-		pushMatrix();
+		fill(self.shade)
+		pushMatrix()
 		translate(self.pos.x,self.pos.y)
 		for i in range(self.segments):
 			diam = self.base*(1-float(i)/self.segments)

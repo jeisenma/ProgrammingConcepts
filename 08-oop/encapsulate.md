@@ -29,7 +29,7 @@
 
 ## Assignment
 - Encapsulate your monster drawing and animation 
-	- Create some intuitive properties for your monster class so that it can be controlled parameters passed into the constructor (2 point)
+	- Create some intuitive properties for your monster class so that it can be controlled parameters passed into the constructor (the __init__ function) (2 point)
 	- Generate a family of monsters with as much interesting diversity as you can muster by mapping random values to the above parameters (4 points)
 	- Allow the user to generate a new set of random monsters by pressing the space bar (1 point)
 - Save it to a file called generative.py and submit it on Carmen. (7 points total)

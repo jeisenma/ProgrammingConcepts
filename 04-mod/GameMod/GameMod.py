@@ -118,7 +118,7 @@ def createBricks():
 def saveScreenshots():
 	global frameNum
 	frameNum += 1
-	if (keyPressed):
-		if (key == ord('g') or key == ord('G')) :
-			if(frameNum%2==0):
+	if keyPressed:
+		if key == 'g' or key == 'G' :
+			if frameNum%2==0:
 				saveFrame("saved/frame-####.tga")

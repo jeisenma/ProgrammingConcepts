@@ -42,14 +42,12 @@
 [Connect to Twitter]: http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter
 
 - Making pictures with data
-	- [Pie Chart](http://processing.org/learning/basics/piechart.html)
-	- [Radial Bar Graph](id/examples.py?page=RadialBarGraph)
-	- [Time Series](id/examples.py?page=TimeSeries)
-	- [Scatter Plot](id/examples.py?page=ScatterPlot)
-	- [Bubble Chart](id/examples.py?page=BubbleChart)
-	- [Bar Graph](id/examples.py?page=SmoothBars)
-	- [Connection Graph (cluster)](http://www.openprocessing.org/sketch/22525)
-	- [Connection Graph (polar)](http://www.openprocessing.org/sketch/34748)
+	- [Pie Chart](pcad.py?page=10-dataviz/pie.py)
+	- [Radial Bar Graph](pcad.py?page=10-dataviz/radialBar.py)
+	- [Time Series](pcad.py?page=10-dataviz/timeSeries.py)
+	- [Scatter Plot](pcad.py?page=10-dataviz/scatter.py)
+	- [Bubble Chart](pcad.py?page=10-dataviz/bubble.py)
+	- [Bar Graph with smooth transitions and class](pcad.py?page=10-dataviz/smoothBars.py)
 
 ## Reading
  - [LPTHW][]: 15-17, 38

@@ -10,5 +10,5 @@
 
 ## Procedurally Drawn Monsters
 
-<img src="http://accad.osu.edu/~jeisenma/teaching/pcad_p5/gallery/monsters.png"/>
+<img src="http://accad.osu.edu/~jeisenma/teaching/pcad_p5/gallery/monsters.png" width="800px"/>
 

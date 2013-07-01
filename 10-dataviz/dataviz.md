@@ -6,12 +6,12 @@
 ## Discussion
 - Parsing your data: getting it into a usable format
 	- Common data file types (csv, tab delimited, xls, xml, json)
-	- File I/O
+	- [File I/O](http://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files)
 		- open
 		- read
 		- write
 		- close
-	- Strings
+	- [Strings](http://docs.python.org/2/library/stdtypes.html#string-methods)
 		- toUpperCase/toLowerCase 
 		- substitution 
 		- substring

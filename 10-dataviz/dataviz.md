@@ -43,7 +43,7 @@
 
 - Making pictures with data
 	- [Pie Chart](pcad.py?page=10-dataviz/pie.py)
-	- [Radial Bar Graph](pcad.py?page=10-dataviz/radialBar.py)
+	- [Radial Bar Graph](pcad.py?page=10-dataviz/radialBars.py)
 	- [Time Series](pcad.py?page=10-dataviz/timeSeries.py)
 	- [Scatter Plot](pcad.py?page=10-dataviz/scatter.py)
 	- [Bubble Chart](pcad.py?page=10-dataviz/bubble.py)

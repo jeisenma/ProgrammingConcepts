@@ -12,6 +12,7 @@
  - [Setting up your development environment][setup]
  - [Examples][examples]
  - [Resources][resources]
+ - [Student Work Gallery][gallery]
 
 ## Topics
  - [Interactive Systems][intro]  
@@ -35,6 +36,7 @@
 
 [examples]: pcad.py?page=examples.md
 [resources]: pcad.py?page=resources.md
+[gallery]: pcad.py?page=gallery.md
 [setup]: pcad.py?page=00-setup/setup.md
 [intro]: pcad.py?page=01-intro/intro.md
 [basics]: pcad.py?page=02-basics/basics.md

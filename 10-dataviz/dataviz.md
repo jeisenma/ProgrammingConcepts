@@ -4,7 +4,7 @@
 --------------------------------
 
 ## Discussion
-- Parsing your data: getting it into a usable format
+### Parsing your data: getting it into a usable format
 	- Common data file types (csv, tab delimited, xls, xml, json)
 	- [File I/O](http://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files)
 		- open
@@ -19,7 +19,7 @@
 		- split/join
 		- trim
 
-## Examples
+### Common Types of Visualization
 <table border="1">
 <tr><td> Type </td><td> How </td><td> Interaction </td><td> Challenges </td><td> Example(s) </td></tr>
 
@@ -32,15 +32,7 @@
 <tr><td> quantitative relationships </td><td> graphs (bar, pie, bubble, line, scatter) </td><td> selecting </td><td> clarity, accurate metaphor </td><td> <a href="http://www.climateinstitute.org.au/global-climate-leadership-review-2012.html/section/479">climate data</a> </td></tr>
 </table>
 
-- Data scraping and parsing
-	- [Load from CSV][] - load data from a CSV file 
-	- [Scrape from HTML][] - scrapes data from HTML source
-	- [Connect to Twitter][] - describes how to connect to twitter to run real time queries
-
-[Load from CSV]: http://docs.python.org/2/library/csv.html
-[Scrape from HTML]: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
-[Connect to Twitter]: http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter
-
+## Examples
 - Making pictures with data
 	- [Pie Chart](pcad.py?page=10-dataviz/pie.py)
 	- [Radial Bar Graph](pcad.py?page=10-dataviz/radialBars.py)
@@ -48,6 +40,18 @@
 	- [Scatter Plot](pcad.py?page=10-dataviz/scatter.py)
 	- [Bubble Chart](pcad.py?page=10-dataviz/bubble.py)
 	- [Bar Graph with smooth transitions and class](pcad.py?page=10-dataviz/smoothBars.py)
+
+## Lab
+- Wealth and Health of Nations 
+	- See the [original video by Hans Rosling]
+	- [Data file]: Life Expectancy, Population, and GDP per capita
+	- Steps:
+		- separate the tables into separate CSVs
+		- parse each data file to get it into list format
+		- visualize the data with code
+		
+[original video by Hans Rosling]: http://www.youtube.com/watch?feature=player_embedded&v=jbkSRLYSojo
+[Data]: pcad.py?page=10-dataviz/HealthAndWealthOfNationsData.xls
 
 ## Reading
  - [LPTHW][]: 15-17, 38
@@ -58,7 +62,18 @@
  	- [Visualize This by Nathan Yau](http://books.google.com/books?id=CB9XRIv9oigC&lpg=PP1&dq=978-0470944882&pg=PP1#v=onepage&q&f=false)
  	- [Beautiful Visualization](http://books.google.com/books?id=TKh6fdlKwfMC&lpg=PP1&dq=978-1449379865&pg=PP1#v=onepage&q&f=false)
  	- [Data Driven Documents (d3)](http://d3js.org/) 
- 	
+
+## Reference
+- Data scraping and parsing
+	- [Load from CSV][] - load data from a CSV file 
+	- [Scrape from HTML][] - scrapes data from HTML source
+	- [Connect to Twitter][] - describes how to connect to twitter to run real time queries
+
+[Load from CSV]: http://docs.python.org/2/library/csv.html
+[Scrape from HTML]: http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+[Connect to Twitter]: http://blog.blprnt.com/blog/blprnt/updated-quick-tutorial-processing-twitter
+
+
 ## Some Data Sources
  - [data.gov](http://data.gov)
  - [the united nations](http://unstats.un.org/unsd/)

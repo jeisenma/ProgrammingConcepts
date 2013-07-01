@@ -8,7 +8,7 @@ buttons = []	# the buttons
 howMany = 0		# how many favorites
 bw = 80.0			# button width
 pos = PVector(200, 160)	# shape display position
-sketchPath = "C:/Users/jeisenma/Documents/GitHub/ProgrammingConcepts/08-oop/paramShapes/"
+sketchPath = ""
 
 def setup():
 	global shape

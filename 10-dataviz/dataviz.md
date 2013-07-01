@@ -46,9 +46,9 @@
 	- See the [original video by Hans Rosling][]
 	- [Data file][]: Life Expectancy, Population, and GDP per capita
 	- Steps:
-		1) separate the tables into separate CSVs
-		2) parse each data file to get it into list format
-		3) visualize the data with code
+		1. separate the tables into separate CSVs
+		2. parse each data file to get it into list format
+		3. visualize the data with code
 		
 [original video by Hans Rosling]: http://www.youtube.com/watch?feature=player_embedded&v=jbkSRLYSojo
 [Data file]: pcad.py?page=10-dataviz/HealthAndWealthOfNationsData.xls

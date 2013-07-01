@@ -75,8 +75,7 @@
 - You will build an interactive data viz sketch.  The sketch should allow users to explore data and learn about a story that matters to you.  You wil need to submit a proposal on Carmen before our next class that includes:
     - Project Description: who your audience is, what story you want to tell and why, and your chosen interaction style
     - References: data sources (must read data from a file or a server), images, videos, audio, articles, etc
-    - Wireframe drawing that shows what a screenshot of your data viz might look like
-    - Data flow and control flow diagrams
+    - Wireframe drawing: shows roughly what a screenshot of your data viz might look like
     - Tasklist: what you have to get done and a timeline for doing it
 - The proposal is worth 5 points.
 - The materials for your project (i.e. code, images, etc) will be due before class on the 16th, and we will be doing gallery style presentations in class that day.  The project is worth 20 points.

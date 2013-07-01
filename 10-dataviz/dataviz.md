@@ -5,19 +5,19 @@
 
 ## Discussion
 ### Parsing your data: getting it into a usable format
-	- Common data file types (csv, tab delimited, xls, xml, json)
-	- [File I/O](http://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files)
-		- open
-		- read
-		- write
-		- close
-	- [Strings](http://docs.python.org/2/library/stdtypes.html#string-methods)
-		- toUpperCase/toLowerCase 
-		- substitution 
-		- substring
-		- startsWith/endsWith
-		- split/join
-		- trim
+- Common data file types (csv, tab delimited, xls, xml, json)
+- [File I/O](http://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files)
+	- open
+	- read
+	- write
+	- close
+- [Strings](http://docs.python.org/2/library/stdtypes.html#string-methods)
+	- toUpperCase/toLowerCase 
+	- substitution 
+	- substring
+	- startsWith/endsWith
+	- split/join
+	- trim
 
 ### Common Types of Visualization
 <table border="1">
@@ -43,8 +43,8 @@
 
 ## Lab
 - Wealth and Health of Nations 
-	- See the [original video by Hans Rosling]
-	- [Data file]: Life Expectancy, Population, and GDP per capita
+	- See the [original video by Hans Rosling][]
+	- [Data file][]: Life Expectancy, Population, and GDP per capita
 	- Steps:
 		- separate the tables into separate CSVs
 		- parse each data file to get it into list format

@@ -52,8 +52,8 @@
 	- [Unfinished Viz Sketch][]: I've started this for you
 		
 [original video by Hans Rosling]: http://www.youtube.com/watch?feature=player_embedded&v=jbkSRLYSojo
-[Life Expectancy]: pcad.py?page=10-dataviz/lab/life.csv
-[Population]: pcad.py?page=10-dataviz/lab/pop.csv
+[Life Expectancy]: pcad.py?page=10-dataviz/lab/lifeExpectancy.csv
+[Population]: pcad.py?page=10-dataviz/lab/population.csv
 [GDP per capita]: pcad.py?page=10-dataviz/lab/gdp.csv
 [Unfinished Viz Sketch]: pcad.py?page=10-dataviz/lab/WealthAndHealthUnfinished.py
 

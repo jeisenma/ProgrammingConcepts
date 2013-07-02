@@ -45,13 +45,13 @@
 - Wealth and Health of Nations 
 	- See the [original video by Hans Rosling][]
 	- Data files: [Life Expectancy][], [Population][], and [GDP per capita][]
-	- [Finished! Viz Sketch][]: I've started this for you
+	- [Viz Sketch][]
 		
 [original video by Hans Rosling]: http://www.youtube.com/watch?feature=player_embedded&v=jbkSRLYSojo
 [Life Expectancy]: pcad.py?page=10-dataviz/lab/lifeExpectancy.csv
 [Population]: pcad.py?page=10-dataviz/lab/population.csv
 [GDP per capita]: pcad.py?page=10-dataviz/lab/gdp.csv
-[Finished! Viz Sketch]: pcad.py?page=10-dataviz/lab/WealthAndHealth.py
+[Viz Sketch]: pcad.py?page=10-dataviz/lab/WealthAndHealth.py
 
 ## Reading
  - [LPTHW][]: 15-17, 38

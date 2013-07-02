@@ -51,7 +51,7 @@
 [Life Expectancy]: pcad.py?page=10-dataviz/lab/lifeExpectancy.csv
 [Population]: pcad.py?page=10-dataviz/lab/population.csv
 [GDP per capita]: pcad.py?page=10-dataviz/lab/gdp.csv
-[Unfinished Viz Sketch]: pcad.py?page=10-dataviz/lab/WealthAndHealthUnfinished.py
+[Unfinished Viz Sketch]: pcad.py?page=10-dataviz/lab/WealthAndHealth.py
 
 ## Reading
  - [LPTHW][]: 15-17, 38

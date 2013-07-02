@@ -65,7 +65,7 @@
 
 ## Reference
 - Data scraping and parsing
-	- [Load from CSV][] - load data from a CSV file 
+	- Load from CSV - see the lab -- it uses Processings loadTable feature 
 	- [Scrape from HTML][] - scrapes data from HTML source
 	- [Connect to Twitter][] - describes how to connect to twitter to run real time queries
 

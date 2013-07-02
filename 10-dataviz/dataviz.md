@@ -45,7 +45,7 @@
 - Wealth and Health of Nations 
 	- See the [original video by Hans Rosling][]
 	- Data files: [Life Expectancy][], [Population][], and [GDP per capita][]
-	- [Unfinished Viz Sketch][]: I've started this for you
+	- [Finished! Viz Sketch][]: I've started this for you
 		
 [original video by Hans Rosling]: http://www.youtube.com/watch?feature=player_embedded&v=jbkSRLYSojo
 [Life Expectancy]: pcad.py?page=10-dataviz/lab/lifeExpectancy.csv

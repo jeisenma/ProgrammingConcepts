@@ -44,14 +44,18 @@
 ## Lab
 - Wealth and Health of Nations 
 	- See the [original video by Hans Rosling][]
-	- [Data file][]: Life Expectancy, Population, and GDP per capita
+	- Data files: [Life Expectancy][], [Population][], and [GDP per capita][]
 	- Steps:
 		1. separate the tables into separate CSVs
 		2. parse each data file to get it into list format
 		3. visualize the data with code
+	- [Unfinished Viz Sketch][]: I've started this for you
 		
 [original video by Hans Rosling]: http://www.youtube.com/watch?feature=player_embedded&v=jbkSRLYSojo
-[Data file]: pcad.py?page=10-dataviz/HealthAndWealthOfNationsData.xls
+[Life Expectancy]: pcad.py?page=10-dataviz/lab/life.csv
+[Population]: pcad.py?page=10-dataviz/lab/pop.csv
+[GDP per capita]: pcad.py?page=10-dataviz/lab/gdp.csv
+[Unfinished Viz Sketch]: pcad.py?page=10-dataviz/lab/WealthAndHealthUnfinished.py
 
 ## Reading
  - [LPTHW][]: 15-17, 38

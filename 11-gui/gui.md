@@ -18,10 +18,11 @@
 - lists
 
 ## Examples
+- [circle class][], [rectangle class][]
 - [widget template][]
-- [button][]
-- [checkbox][]
-- [slider][]
+- [button][], [button class][]
+- [bunch of checkboxes][], [checkbox class][]
+- [slider][], [slider class][]
 - [bunch of sliders][]
 
 ## Lab
@@ -30,9 +31,14 @@
 ## Reading
 - [LPTHW](http://learnpythonthehardway.org/book/) 39-42 
 
-[]: pcad.py?page=11-gui/.py
-[]: pcad.py?page=11-gui/.py
-[]: pcad.py?page=11-gui/.py
-[]: pcad.py?page=11-gui/.py
-[]: pcad.py?page=11-gui/.py
-[]: pcad.py?page=11-gui/.py
+[circle class]: pcad.py?page=11-gui/circle.py
+[rectangle class]: pcad.py?page=11-gui/rect.py
+[widget template]: pcad.py?page=11-gui/widget.py
+[button]: pcad.py?page=11-gui/bigButton.py
+[button class]: pcad.py?page=11-gui/button.py
+[checkbox class]: pcad.py?page=11-gui/checkbox.py
+[bunch of checkboxes]: pcad.py?page=11-gui/bunchOfCheckboxes.py
+[slider]: pcad.py?page=11-gui/slidy.py
+[slider class]: pcad.py?page=11-gui/slider.py
+[bunch of sliders]: pcad.py?page=11-gui/bunchOfSliders.py
+

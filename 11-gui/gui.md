@@ -28,6 +28,10 @@
 ## Lab
 - work on the GUI for your data viz project
 
+## Course Feedback
+- Please tell me how you think the course is going so far...
+- <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dFU4X0pwWkRoUjZqYXVRLW9RRkpnY0E6MA" width="760" height="1579" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
 [circle class]: pcad.py?page=11-gui/circle.py
 [rectangle class]: pcad.py?page=11-gui/rect.py
 [widget template]: pcad.py?page=11-gui/widget.py

@@ -47,12 +47,12 @@
 [animation]: pcad.py?page=07-animation/animation.md
 [encapsulation]: pcad.py?page=08-oop/encapsulate.md
 [skillsCheck]: pcad.py?page=09-skillsCheck/SkillsCheck.pdf
-[gui]: 
 [dataviz]: pcad.py?page=10-dataviz/dataviz.md
-[publishing]: pcad.py?page=11-publishing/publishing.md
-[translation]: pcad.py?page=12-translation/translation.md
-[libraries]: pcad.py?page=13-libraries/libraries.md
-[api]: pcad.py?page=14-api/api.md
-[mobile]: pcad.py?page=15-mobile/mobile.md
-[gesture]: pcad.py?page=16-gesture/gesture.md
-[final]: pcad.py?page=17-final/final.md
+[gui]: pcad.py?page=11-gui/gui.md
+[publishing]:
+[translation]:
+[libraries]: 
+[api]: 
+[mobile]: 
+[gesture]:
+[final]:

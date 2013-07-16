@@ -49,8 +49,8 @@
 [skillsCheck]: pcad.py?page=09-skillsCheck/SkillsCheck.pdf
 [dataviz]: pcad.py?page=10-dataviz/dataviz.md
 [gui]: pcad.py?page=11-gui/gui.md
-[publishing]:
-[translation]:
+[publishing]: pcad.py?page=12-publishing/publishing.md
+[translation]: pcad.py?page=13-translation/translation.md
 [libraries]: 
 [api]: 
 [mobile]: 

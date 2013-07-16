@@ -28,9 +28,6 @@
 ## Lab
 - work on the GUI for your data viz project
 
-## Reading
-- [LPTHW](http://learnpythonthehardway.org/book/) 39-42 
-
 [circle class]: pcad.py?page=11-gui/circle.py
 [rectangle class]: pcad.py?page=11-gui/rect.py
 [widget template]: pcad.py?page=11-gui/widget.py

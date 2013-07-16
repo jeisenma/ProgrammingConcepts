@@ -26,6 +26,7 @@
 
 ## Lab
 - [Noisy Worm][] - Create a worm out of a series of circles.  Move the head of the worm with a noise function.  Make the rest of the worm's body follow the head by remembering previous head positions.
+- Just for fun: [a similar idea, but with a jiggly killer whale!](http://img0.liveinternet.ru/images/attach/c/5//3970/3970473_sprite198.swf)
 
 ## Reading
 - [LPTHW: 34](http://learnpythonthehardway.org/book/ex34.html)

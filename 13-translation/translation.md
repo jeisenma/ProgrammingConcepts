@@ -14,38 +14,111 @@
 
 Python             | Java                    | JavaScript
 ------------------ | ----------------------- | ----------------- 
-	w = "howdy"    | 	String w = "howdy";  |    var w = "howdy",
-	x = 3          |	int x = 3;           |		x = 3,
-	y = 4.25       |	float y = 4.25;      |		y = 4.25,
-	z = [1, 2, 3]  |	int[] z = {1, 2, 3}; |		z = {1, 2, 3};
+<textarea rows="4" cols="30">
+w = "howdy"
+x = 3
+y = 4.25
+z = [1, 2, 3]
+</textarea> | <textarea rows="4" cols="30">
+String w = "howdy";
+int x = 3;
+float y = 4.25;
+int[] z = {1, 2, 3}; 
+</textarea> | <textarea rows="4" cols="30">
+var	w = "howdy",
+	x = 3,
+	y = 4.25,
+	z = {1, 2, 3};
+</textarea>	
 
-java
+#### math operators
 
-	String w = "howdy";
-	int x = 3;
-	float y = 4.25;
-	int[] z = {1, 2, 3};
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+<textarea rows="4" cols="30">
+x = 3**2
+y = abs(2.3-4.25)
+z = (x+y)*2/3
+</textarea> | <textarea rows="4" cols="30">
+float x,y,z;
+x = pow(3,2);
+y = abs(4.25-2.3);
+z = (x+y)*2/3;
+</textarea> | <textarea rows="4" cols="30">
+var x,y,z;
+x = Math.pow(3,2);
+y = Math.abs(4.25-2.3);
+z = (x+y)*2/3;
+</textarea>	
 
-javascript
+#### for loops
 
-	var w = "howdy",
-		x = 3,
-		y = 4.25,
-		z = {1, 2, 3};
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+<textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea>	
+
+#### while loops
+
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+<textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea>	
+
+#### boolean operators
+
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+<textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea>	
+
+#### conditions 
+
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+<textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea>	
+
+#### working with arrays (lists)
+
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+<textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea>	
+
+#### encapsulation
+
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+<textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea>	
+
+#### importing
+
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+<textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea> | <textarea rows="4" cols="30">
+</textarea>	
 
 
-	- math operators
-	- for loops
-	- while loops
-	- boolean operators
-	- conditions 
-	- working with arrays (lists)
-	- encapsulation
-	- importing
-- Processing-isms (processing.js works by translating java processing code so I'll only show java and python here)
-	- setup/draw framework
-	- mouse functions
-	- keyboard functions
+### Processing-isms
+#### setup/draw framework
+#### mouse functions
+#### keyboard functions
 
 ## Fun places to work with other languages
 - [Processing!](http://processing.org)  (Java)

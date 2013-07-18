@@ -304,6 +304,6 @@ void mouseReleased() {
 - [JSFiddle](http://jsfiddle.net/) (JavaScript+CSS+HTML)
 
 ## Assignment
-- convert one of your previous sketches from python to Java (1 point)
-- convert one of the java Processsing examples to python (1 point)
+- convert one of your previous sketches from python to Java so it runs in java Processing (1 point)
+- convert one of the more interesting [java Processsing examples](http://www.processing.org/examples/) to python (at least 10 lines of code) (1 point)
 - submit both files on Carmen

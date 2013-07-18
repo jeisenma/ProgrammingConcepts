@@ -6,7 +6,7 @@
 - the concepts are almost entirely the same
 - the syntax will be different (e.g. "int x = 3;" instead of "x=3")
 - you may have to type more stuff
-	- ![java vs python](javaVsPython_moreTyping.png)
+	- ![java vs python](pcad.py?page=13-translation/javaVsPython_moreTyping.png)
 
 ## Examples 
 - Core Concepts:

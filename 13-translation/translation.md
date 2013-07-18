@@ -9,7 +9,7 @@
 	- ![java vs python](pcad.py?page=13-translation/javaVsPython_moreTyping.png)
 
 ## Examples 
-- Core Concepts:
+- Core Concepts
 	- variable declaration
 	- math operators
 	- for loops
@@ -19,7 +19,7 @@
 	- working with arrays (lists)
 	- encapsulation
 	- importing
-- Processing-isms (processing.js works by translating java processing so I'll only show java and python here)
+- Processing-isms (processing.js works by translating java processing code so I'll only show java and python here)
 	- setup/draw framework
 	- mouse functions
 	- keyboard functions
@@ -29,5 +29,6 @@
 - [Unity3D](http://unity3d.com) (JavaScript)
 
 ## Assignment
-- convert one of your previous sketches from python to Java
-- convert one of the java Processsing examples to python 
+- convert one of your previous sketches from python to Java (1 point)
+- convert one of the java Processsing examples to python (1 point)
+- submit both files on Carmen

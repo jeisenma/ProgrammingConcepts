@@ -11,6 +11,13 @@
 ## Examples 
 - Core Concepts
 	- variable declaration
+	- <table border="1px">
+		<tr>
+			<td>Foo</td>
+			<td>bar</td>
+		</tr>
+    </table>
+
 	- math operators
 	- for loops
 	- while loops

@@ -9,14 +9,30 @@
 	- ![java vs python](pcad.py?page=13-translation/javaVsPython_moreTyping.png)
 
 ## Examples 
-- Core Concepts
-	- variable declaration
-	- <table border="1px">
-		<tr>
-			<td>Foo</td>
-			<td>bar</td>
-		</tr>
-    </table>
+### Core Concepts (python / java / javascript)
+#### variable declaration
+
+Python             | Java                    | JavaScript
+------------------ | ----------------------- | ----------------- 
+	w = "howdy"    | 	String w = "howdy";  |    var w = "howdy",
+	x = 3          |	int x = 3;           |		x = 3,
+	y = 4.25       |	float y = 4.25;      |		y = 4.25,
+	z = [1, 2, 3]  |	int[] z = {1, 2, 3}; |		z = {1, 2, 3};
+
+java
+
+	String w = "howdy";
+	int x = 3;
+	float y = 4.25;
+	int[] z = {1, 2, 3};
+
+javascript
+
+	var w = "howdy",
+		x = 3,
+		y = 4.25,
+		z = {1, 2, 3};
+
 
 	- math operators
 	- for loops

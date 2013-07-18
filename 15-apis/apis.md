@@ -3,7 +3,7 @@
 --------------------------------
 
 ## Maya's Python API
-- ...
+- Have a look at topics 4-6 from [the previous course](http://accad.osu.edu/~jeisenma/teaching/pcad_maya/)
 
 ## Other fun places to use Python
 - Maya

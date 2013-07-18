@@ -12,7 +12,16 @@ def draw():
 	for check in checks:
 		check.draw()
 
-def mouseReleased():
+def mousePressed():
 	for check in checks:
 		check.release()
 
+def keyPressed():
+	print(findCheckedBoxes())
+	
+def findCheckedBoxes():
+	results = []
+	for i,check in enumerate(checks):
+		if check.toggle:
+			results.append(i)
+	return results

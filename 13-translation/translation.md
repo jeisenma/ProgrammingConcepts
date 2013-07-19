@@ -10,7 +10,6 @@
 
 ## Examples 
 ### Core Concepts (python / java / javascript)
-<br>
 #### variable declaration
 
 <textarea rows="5" cols="42" style="float:left;">
@@ -18,19 +17,19 @@ w = "howdy"
 x = 3
 y = 4.25
 z = [1, 2, 3]
-</textarea>
+</textarea>  
 <textarea rows="5" cols="42" style="float:left;">
 String w = "howdy";
 int x = 3;
 float y = 4.25;
 int[] z = {1, 2, 3}; 
-</textarea>
+</textarea>  
 <textarea rows="5" cols="42" style="float:left; clear:none;">
 var	w = "howdy",
 	x = 3,
 	y = 4.25,
 	z = {1, 2, 3};
-</textarea>	 
+</textarea>  	 
   
 <br>  
 #### math operators
@@ -39,19 +38,19 @@ var	w = "howdy",
 x = 3\*\*2
 y = abs(2.3-4.25)
 z = (x+y)\*2/3
-</textarea>
+</textarea>  
 <textarea rows="5" cols="42" style="float:left;">
 float x,y,z;
 x = pow(3,2);
 y = abs(4.25-2.3);
 z = (x+y)\*2/3;
-</textarea>
+</textarea>  
 <textarea rows="5" cols="42" style="float:left;">
 var x,y,z;
 x = Math.pow(3,2);
 y = Math.abs(4.25-2.3);
 z = (x+y)\*2/3;
-</textarea>	 
+</textarea>  	 
 
 <br>
 #### for loops
@@ -59,17 +58,17 @@ z = (x+y)\*2/3;
 <textarea rows="5" cols="42" style="float:left;">
 for i in range(10):
 	print "looping... ", i
-</textarea>
+</textarea>  
 <textarea rows="5" cols="42" style="float:left;">
 for(int i=0; i<10; i++){
 	println("looping... "+i);
 }
-</textarea>
+</textarea>  
 <textarea rows="5" cols="42" style="float:left;">
 for(var i=0; i<10; i++){
 	console.log("looping... "+i);
 }
-</textarea>	 
+</textarea>  	 
 
 <br>
 #### while loops
@@ -79,21 +78,21 @@ i=10
 while i > 0:
 	print "looping... ", i
 	i -= 1
-</textarea>
+</textarea>  
 <textarea rows="7" cols="42" style="float:left;">
 int i=10;
 while( i > 0) {
 	println("looping... "+i);
 	i--;
 }
-</textarea>
+</textarea>  
 <textarea rows="7" cols="42" style="float:left;">
 var i=10;
 while( i > 0 ) {
 	console.log("looping... "+i);
 	i--;
 }
-</textarea>	 
+</textarea>  	 
 
 <br>
 #### boolean operators and conditions
@@ -105,7 +104,7 @@ elif not( i%2 == 0 ):
 	print "maybe"
 else:
 	print "no way"
-</textarea>
+</textarea>  
 <textarea rows="10" cols="42" style="float:left;">
 if( x < 5 && (y == 3 || z >= 0.5) ) {
 	println("yes");
@@ -116,7 +115,7 @@ else if (i%2 != 0) {
 else {
 	println("no way");
 }
-</textarea>
+</textarea>  
 <textarea rows="10" cols="42" style="float:left;">
 if( x < 5 && (y == 3 || z >= 0.5) ) {
 	console.log("yes");
@@ -127,7 +126,7 @@ else if (i%2 != 0) {
 else {
 	console.log("no way");
 }
-</textarea>	 
+</textarea>  	 
 
 <br>
 #### working with arrays (lists)
@@ -141,7 +140,7 @@ for letter in letters:
 	print letter
 for i,letter in enumerate(letters):
 	print "letter #", i, " is ", letter
-</textarea>
+</textarea>  
 <textarea rows="9" cols="42" style="float:left;">
 for(int i=2; i<10; i++) {
 	println(i);
@@ -153,7 +152,7 @@ for( String letter : letters ) {
 for( int i=0; i<letters.length; i++ ) {
 	println("letter #"+i+" is "+letters[i]);
 }
-</textarea>
+</textarea>  
 <textarea rows="9" cols="42" style="float:left;">
 for(var i=2; i<10; i++) {
 	console.log(i);
@@ -165,7 +164,7 @@ for( var letter in letters ) {
 for( var i=0; i<letters.length; i++ ) {
 	console.log("letter #"+i+" is "+letters[i]);
 }
-</textarea>	 
+</textarea>  	 
 
 <br>
 #### functions
@@ -175,21 +174,21 @@ def doStuff(a,b):
 	x = a\*b
 	return x
 print doStuff(3,4)
-</textarea>
+</textarea>  
 <textarea rows="5" cols="42" style="float:left;">
 float doStuff(float a, float b) {
 	float x = a\*b;
 	return x;
 }
 println(doStuff(3,4));
-</textarea>
+</textarea>  
 <textarea rows="5" cols="42" style="float:left;">
 function doStuff( a, b ) {
 	var x = a\*b;
 	return x;
 }
 console.log(doStuff(3,4));
-</textarea>	 
+</textarea>  	 
 
 <br>
 #### encapsulation
@@ -206,7 +205,7 @@ class Thing:
 myThing = Thing(3.1,4)
 print myThing.stringify()
 print myThing.add(5.1)
-</textarea>
+</textarea>  
 <textarea rows="12" cols="42" style="float:left;">
 class Thing {
 	float x, y;
@@ -224,7 +223,7 @@ class Thing {
 Thing myThing = new Thing(3.1,4);
 println(myThing.stringify());
 println(myThing.add(5.1));
-</textarea>
+</textarea>  
 <textarea rows="12" cols="42" style="float:left;">
 function Thing(x,y) {
 	this.x = x;
@@ -239,21 +238,21 @@ function Thing(x,y) {
 var myThing = new Thing(3.1,4);
 console.log(myThing.stringify());
 console.log(myThing.add(5.1));
-</textarea>	 
+</textarea>  	 
 
 <br>
 #### importing
 
 <textarea rows="4" cols="42" style="float:left;">
 from random import \*
-</textarea>
+</textarea>  
 <textarea rows="4" cols="42" style="float:left;">
 import processing.pdf.\*;
-</textarea>
+</textarea>  
 <textarea rows="4" cols="42" style="float:left;">
 put this in the HTML head:
 <script type="text/javascript" src="somefile.js"></script>
-</textarea>	 
+</textarea>  	 
 
 
 ### Processing-isms
@@ -267,7 +266,7 @@ def setup():
 def draw():
 	background(200)
 	ellipse(width/2, height/2, 100, 100)
-</textarea>
+</textarea>  
 <textarea rows="8" cols="42" style="float:left;">
 void setup() {
 	size(400,400);
@@ -277,7 +276,7 @@ void draw() {
 	background(200);
 	ellipse(width/2, height/2, 100, 100);
 }
-</textarea>	 
+</textarea>  	 
 
 <br>
 #### mouse functions
@@ -291,7 +290,7 @@ def mouseDragged():
 	
 def mouseReleased():
 	print "mouse released at: ", mouseX, mouseY
-</textarea>
+</textarea>  
 <textarea rows="9" cols="42" style="float:left;">
 void mousePressed() {
 	println("mouse pressed at: "+mouseX+" "+mouseY);
@@ -302,7 +301,7 @@ void mouseDragged() {
 void mouseReleased() {
 	println("mouse released at: "+mouseX+" "+mouseY);
 }
-</textarea>	 
+</textarea>  	 
 
 
 ## Fun places to work with other languages

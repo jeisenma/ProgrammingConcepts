@@ -29,8 +29,9 @@ var	w = "howdy",
 	x = 3,
 	y = 4.25,
 	z = {1, 2, 3};
-</textarea>	 <br>  
-  
+</textarea>	 
+
+<br>
 #### math operators
 
 <textarea rows="5" cols="42" style="float:left;">

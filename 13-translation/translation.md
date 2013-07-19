@@ -49,9 +49,8 @@ x = Math.pow(3,2);
 y = Math.abs(4.25-2.3);
 z = (x+y)\*2/3;
 </textarea>  
-<div style="clear:none;"></div>
+<div style="clear:none;"><br></div>
 
-<br>
 #### for loops
 
 <textarea rows="5" cols="42" style="float:left;">

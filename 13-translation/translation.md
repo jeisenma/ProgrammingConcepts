@@ -257,7 +257,7 @@ put this in the HTML head:
 ### Processing-isms
 #### setup/draw framework
 
-<textarea rows="8" cols="73" style="float:left;">
+<textarea rows="8" cols="65" style="float:left;">
 def setup():
 	size(400,400)
 
@@ -265,7 +265,7 @@ def draw():
 	background(200)
 	ellipse(width/2, height/2, 100, 100)
 </textarea>
-<textarea rows="8" cols="73" style="float:left;">
+<textarea rows="8" cols="65" style="float:left;">
 void setup() {
 	size(400,400);
 }
@@ -279,7 +279,7 @@ void draw() {
 <br>  
 #### mouse functions
 
-<textarea rows="12" cols="73" style="float:left;">
+<textarea rows="12" cols="65" style="float:left;">
 def mousePressed():
 	print "mouse pressed at: ", mouseX, mouseY
 def mouseDragged():
@@ -287,7 +287,7 @@ def mouseDragged():
 def mouseReleased():
 	print "mouse released at: ", mouseX, mouseY
 </textarea>
-<textarea rows="12" cols="73" style="float:left;">
+<textarea rows="12" cols="65" style="float:left;">
 void mousePressed() {
 	println("mouse pressed at: "+mouseX+" "+mouseY);
 }

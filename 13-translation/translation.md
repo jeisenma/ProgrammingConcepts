@@ -283,10 +283,10 @@ void draw() {
 <textarea rows="12" cols="42" style="float:left;">
 def mousePressed():
 	print "mouse pressed at: ", mouseX, mouseY
-	
+
 def mouseDragged():
 	print "mouse dragged from: ", pmouseX, pmouseY, " to: ", mouseX, mouseY
-	
+
 def mouseReleased():
 	print "mouse released at: ", mouseX, mouseY
 </textarea>
@@ -296,7 +296,7 @@ void mousePressed() {
 }
 void mouseDragged() {
 	println("mouse dragged from: "+pmouseX+" "+pmouseY+" to: "+mouseX+" "+mouseY);
-}	
+}
 void mouseReleased() {
 	println("mouse released at: "+mouseX+" "+mouseY);
 }

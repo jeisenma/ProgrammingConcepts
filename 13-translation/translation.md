@@ -52,7 +52,7 @@ y = Math.abs(4.25-2.3);
 z = (x+y)\*2/3;
 </textarea>  
 
-<br>
+<br>  
 #### for loops
 
 <textarea rows="5" cols="42" style="float:left;">
@@ -70,7 +70,7 @@ for(var i=0; i<10; i++){
 }
 </textarea>  
 
-<br>
+<br>  
 #### while loops
 
 <textarea rows="7" cols="42" style="float:left;">
@@ -94,7 +94,7 @@ while( i > 0 ) {
 }
 </textarea>  
 
-<br>
+<br>  
 #### boolean operators and conditions
 
 <textarea rows="10" cols="42" style="float:left;">
@@ -128,7 +128,7 @@ else {
 }
 </textarea>  
 
-<br>
+<br>  
 #### working with arrays (lists)
 
 <textarea rows="11" cols="42" style="float:left;">
@@ -166,7 +166,7 @@ for( var i=0; i<letters.length; i++ ) {
 }
 </textarea>  
 
-<br>
+<br>  
 #### functions
 
 <textarea rows="6" cols="42" style="float:left;">
@@ -190,7 +190,7 @@ function doStuff( a, b ) {
 console.log(doStuff(3,4));
 </textarea>  
 
-<br>
+<br>  
 #### encapsulation
 
 <textarea rows="18" cols="42" >
@@ -240,7 +240,7 @@ console.log(myThing.stringify());
 console.log(myThing.add(5.1));
 </textarea>  
 
-<br>
+<br>  
 #### importing
 
 <textarea rows="4" cols="42" style="float:left;">
@@ -277,7 +277,7 @@ void draw() {
 }
 </textarea>  
 
-<br>
+<br>  
 #### mouse functions
 
 <textarea rows="12" cols="42" style="float:left;">

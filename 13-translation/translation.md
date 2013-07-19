@@ -142,23 +142,22 @@ for i,letter in enumerate(letters):
 	print "letter #", i, " is ", letter
 </textarea>
 <textarea rows="11" cols="42" style="float:left;">
-for(int i=2; i<10; i++) {
-	println(i);
-}
+for(int i=2; i<10; i++) 
+{ println(i); }
 String[] letters = {'a', 'b', 'c'};
 for( String letter : letters ) 
 { println(letter); }
 for( int i=0; i<letters.length; i++ ) 
-{ println("letter #"+i+" is "+letters[i]); }
+{ println("letter "+i+" is "+letters[i]); }
 </textarea>
 <textarea rows="11" cols="42" style="float:left;">
-for(var i=2; i<10; i++) 
+for(var i=2; i<10; i++)
 { console.log(i); }
 var letters = ['a', 'b', 'c'];
-for( var letter in letters ) 
+for( var letter in letters )
 { console.log(letter); }
-for( var i=0; i<letters.length; i++ ) 
-{ console.log("letter #"+i+" is "+letters[i]); }
+for( var i=0; i<letters.length; i++ )
+{ console.log("letter "+i+" is "+letters[i]); }
 </textarea>  
 
 <br>  

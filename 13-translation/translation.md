@@ -131,7 +131,7 @@ else {
 <br>
 #### working with arrays (lists)
 
-<textarea rows="9" cols="42" style="float:left;">
+<textarea rows="11" cols="42" style="float:left;">
 numbers = range(10)
 letters = ['a', 'b', 'c']
 for num in numbers[2:]:
@@ -141,7 +141,7 @@ for letter in letters:
 for i,letter in enumerate(letters):
 	print "letter #", i, " is ", letter
 </textarea>
-<textarea rows="9" cols="42" style="float:left;">
+<textarea rows="11" cols="42" style="float:left;">
 for(int i=2; i<10; i++) {
 	println(i);
 }
@@ -153,7 +153,7 @@ for( int i=0; i<letters.length; i++ ) {
 	println("letter #"+i+" is "+letters[i]);
 }
 </textarea>
-<textarea rows="9" cols="42" style="float:left;">
+<textarea rows="11" cols="42" style="float:left;">
 for(var i=2; i<10; i++) {
 	console.log(i);
 }
@@ -169,20 +169,20 @@ for( var i=0; i<letters.length; i++ ) {
 <br>
 #### functions
 
-<textarea rows="5" cols="42" style="float:left;">
+<textarea rows="6" cols="42" style="float:left;">
 def doStuff(a,b):
 	x = a\*b
 	return x
 print doStuff(3,4)
 </textarea>
-<textarea rows="5" cols="42" style="float:left;">
+<textarea rows="6" cols="42" style="float:left;">
 float doStuff(float a, float b) {
 	float x = a\*b;
 	return x;
 }
 println(doStuff(3,4));
 </textarea>
-<textarea rows="5" cols="42" style="float:left;">
+<textarea rows="6" cols="42" style="float:left;">
 function doStuff( a, b ) {
 	var x = a\*b;
 	return x;
@@ -256,7 +256,6 @@ put this in the HTML head:
 
 
 ### Processing-isms
-<br>
 #### setup/draw framework
 
 <textarea rows="8" cols="42" style="float:left;">
@@ -281,7 +280,7 @@ void draw() {
 <br>
 #### mouse functions
 
-<textarea rows="9" cols="42" style="float:left;">
+<textarea rows="12" cols="42" style="float:left;">
 def mousePressed():
 	print "mouse pressed at: ", mouseX, mouseY
 	
@@ -291,7 +290,7 @@ def mouseDragged():
 def mouseReleased():
 	print "mouse released at: ", mouseX, mouseY
 </textarea>
-<textarea rows="9" cols="42" style="float:left;">
+<textarea rows="12" cols="42" style="float:left;">
 void mousePressed() {
 	println("mouse pressed at: "+mouseX+" "+mouseY);
 }

@@ -50,8 +50,7 @@ var x,y,z;
 x = Math.pow(3,2);
 y = Math.abs(4.25-2.3);
 z = (x+y)\*2/3;
-</textarea>
-<div style="clear:none;"></div>
+</textarea>  
 
 <br>
 #### for loops
@@ -69,7 +68,7 @@ for(int i=0; i<10; i++){
 for(var i=0; i<10; i++){
 	console.log("looping... "+i);
 }
-</textarea>
+</textarea>  
 
 <br>
 #### while loops
@@ -93,7 +92,7 @@ while( i > 0 ) {
 	console.log("looping... "+i);
 	i--;
 }
-</textarea>
+</textarea>  
 
 <br>
 #### boolean operators and conditions
@@ -127,7 +126,7 @@ else if (i%2 != 0) {
 else {
 	console.log("no way");
 }
-</textarea>
+</textarea>  
 
 <br>
 #### working with arrays (lists)
@@ -165,7 +164,7 @@ for( var letter in letters ) {
 for( var i=0; i<letters.length; i++ ) {
 	console.log("letter #"+i+" is "+letters[i]);
 }
-</textarea>
+</textarea>  
 
 <br>
 #### functions
@@ -189,7 +188,7 @@ function doStuff( a, b ) {
 	return x;
 }
 console.log(doStuff(3,4));
-</textarea>
+</textarea>  
 
 <br>
 #### encapsulation
@@ -239,7 +238,7 @@ function Thing(x,y) {
 var myThing = new Thing(3.1,4);
 console.log(myThing.stringify());
 console.log(myThing.add(5.1));
-</textarea>
+</textarea>  
 
 <br>
 #### importing
@@ -277,7 +276,7 @@ void draw() {
 	background(200);
 	ellipse(width/2, height/2, 100, 100);
 }
-</textarea>
+</textarea>  
 
 <br>
 #### mouse functions

@@ -293,7 +293,7 @@ put this in the HTML head:
 </textarea>
 
 
-### Processing-isms
+### Processing-isms (python / java)
 #### setup/draw framework
 
 <textarea rows="8" cols="65" style="float:left;">

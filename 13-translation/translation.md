@@ -131,7 +131,7 @@ else {
 <br>  
 #### working with arrays (lists)
 
-<textarea rows="11" cols="42" style="float:left;">
+<textarea rows="9" cols="42" style="float:left;">
 numbers = range(10)
 for num in numbers[2:]:
 	print num
@@ -139,9 +139,9 @@ letters = ['a', 'b', 'c']
 for letter in letters:
 	print letter
 for i,letter in enumerate(letters):
-	print "letter #", i, " is ", letter
+	print "letter ", i, " is ", letter
 </textarea>
-<textarea rows="11" cols="42" style="float:left;">
+<textarea rows="9" cols="42" style="float:left;">
 for(int i=2; i<10; i++) 
 { println(i); }
 String[] letters = {'a', 'b', 'c'};
@@ -150,7 +150,7 @@ for( String letter : letters )
 for( int i=0; i<letters.length; i++ ) 
 { println("letter "+i+" is "+letters[i]); }
 </textarea>
-<textarea rows="11" cols="42" style="float:left;">
+<textarea rows="9" cols="42" style="float:left;">
 for(var i=2; i<10; i++)
 { console.log(i); }
 var letters = ['a', 'b', 'c'];

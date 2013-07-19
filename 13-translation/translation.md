@@ -29,7 +29,9 @@ var	w = "howdy",
 	x = 3,
 	y = 4.25,
 	z = {1, 2, 3};
-</textarea><br>  
+</textarea>  
+
+<br>  
 #### math operators
 
 <textarea rows="5" cols="42" style="float:left;">
@@ -48,9 +50,10 @@ var x,y,z;
 x = Math.pow(3,2);
 y = Math.abs(4.25-2.3);
 z = (x+y)\*2/3;
-</textarea>  
-<div style="clear:none;"><br></div>
+</textarea>
+<div style="clear:none;"></div>
 
+<br>
 #### for loops
 
 <textarea rows="5" cols="42" style="float:left;">
@@ -66,7 +69,9 @@ for(int i=0; i<10; i++){
 for(var i=0; i<10; i++){
 	console.log("looping... "+i);
 }
-</textarea><br>
+</textarea>
+
+<br>
 #### while loops
 
 <textarea rows="7" cols="42" style="float:left;">
@@ -88,7 +93,9 @@ while( i > 0 ) {
 	console.log("looping... "+i);
 	i--;
 }
-</textarea><br>
+</textarea>
+
+<br>
 #### boolean operators and conditions
 
 <textarea rows="10" cols="42" style="float:left;">
@@ -120,7 +127,9 @@ else if (i%2 != 0) {
 else {
 	console.log("no way");
 }
-</textarea><br>
+</textarea>
+
+<br>
 #### working with arrays (lists)
 
 <textarea rows="9" cols="42" style="float:left;">
@@ -156,7 +165,9 @@ for( var letter in letters ) {
 for( var i=0; i<letters.length; i++ ) {
 	console.log("letter #"+i+" is "+letters[i]);
 }
-</textarea><br>
+</textarea>
+
+<br>
 #### functions
 
 <textarea rows="5" cols="42" style="float:left;">
@@ -178,7 +189,9 @@ function doStuff( a, b ) {
 	return x;
 }
 console.log(doStuff(3,4));
-</textarea><br>
+</textarea>
+
+<br>
 #### encapsulation
 
 <textarea rows="12" cols="42" >
@@ -226,7 +239,9 @@ function Thing(x,y) {
 var myThing = new Thing(3.1,4);
 console.log(myThing.stringify());
 console.log(myThing.add(5.1));
-</textarea><br>
+</textarea>
+
+<br>
 #### importing
 
 <textarea rows="4" cols="42" style="float:left;">
@@ -239,6 +254,8 @@ import processing.pdf.\*;
 put this in the HTML head:
 <script type="text/javascript" src="somefile.js"></script>
 </textarea>
+
+
 ### Processing-isms
 <br>
 #### setup/draw framework
@@ -260,7 +277,9 @@ void draw() {
 	background(200);
 	ellipse(width/2, height/2, 100, 100);
 }
-</textarea><br>
+</textarea>
+
+<br>
 #### mouse functions
 
 <textarea rows="9" cols="42" style="float:left;">
@@ -284,6 +303,8 @@ void mouseReleased() {
 	println("mouse released at: "+mouseX+" "+mouseY);
 }
 </textarea>
+
+
 ## Fun places to work with other languages
 - [Processing!](http://processing.org)  (Java)
 - [Unity3D](http://unity3d.com) (JavaScript)

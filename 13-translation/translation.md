@@ -24,12 +24,13 @@ int x = 3;
 float y = 4.25;
 int[] z = {1, 2, 3}; 
 </textarea>  
-<textarea rows="5" cols="42" style="float:left; clear:none;">
+<textarea rows="5" cols="42" style="float:left;">
 var	w = "howdy",
 	x = 3,
 	y = 4.25,
 	z = {1, 2, 3};
-</textarea>  	 
+</textarea>  
+<div style="clear:none;"></div>
   
 <br>  
 #### math operators

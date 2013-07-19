@@ -275,6 +275,31 @@ void draw() {
 </textarea>  
 
 <br>  
+#### global variables
+
+<textarea rows="10" cols="65" style="float:left;">
+diameter = 10
+def setup():
+	size(400,400)
+def draw():
+	background(200)
+	ellipse(width/2,height/2,diameter,diameter)
+def mousePressed():
+	global diameter
+	diameter = constrain(diameter+10, 0, width)
+</textarea>
+<textarea rows="10" cols="65" style="float:left;">
+int diameter = 10;
+def setup():
+	size(400,400)
+def draw():
+	background(200)
+	ellipse(width/2,height/2,diameter,diameter)
+def mousePressed():
+	diameter = constrain(diameter+10, 0, width)
+</textarea>  
+
+<br>
 #### mouse functions
 
 <textarea rows="12" cols="65" style="float:left;">

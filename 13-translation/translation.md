@@ -12,7 +12,6 @@
 ### Core Concepts (python / java / javascript)
 #### variable declaration
 
-<div>
 <textarea rows="5" cols="42" style="float:left;">
 w = "howdy"
 x = 3
@@ -25,13 +24,12 @@ int x = 3;
 float y = 4.25;
 int[] z = {1, 2, 3}; 
 </textarea>
-<textarea rows="5" cols="42" style="float:left;">
+<textarea rows="5" cols="42" style="float:left; clear:none;">
 var	w = "howdy",
 	x = 3,
 	y = 4.25,
 	z = {1, 2, 3};
 </textarea>	<br><br><br>
-</div>
 
 #### math operators
 

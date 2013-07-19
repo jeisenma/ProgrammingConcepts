@@ -193,7 +193,7 @@ console.log(doStuff(3,4));
 <br>
 #### encapsulation
 
-<textarea rows="12" cols="42" >
+<textarea rows="18" cols="42" >
 class Thing:
 	def __init__(self,x,y):
 		self.x = x
@@ -206,7 +206,7 @@ myThing = Thing(3.1,4)
 print myThing.stringify()
 print myThing.add(5.1)
 </textarea>
-<textarea rows="12" cols="42" style="float:left;">
+<textarea rows="18" cols="42" style="float:left;">
 class Thing {
 	float x, y;
 	Thing(ix,iy) {
@@ -224,7 +224,7 @@ Thing myThing = new Thing(3.1,4);
 println(myThing.stringify());
 println(myThing.add(5.1));
 </textarea>
-<textarea rows="12" cols="42" style="float:left;">
+<textarea rows="18" cols="42" style="float:left;">
 function Thing(x,y) {
 	this.x = x;
 	this.y = y;

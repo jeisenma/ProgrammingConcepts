@@ -234,7 +234,7 @@ console.log(doStuff(3,4));
 
 <textarea rows="18" cols="42" style="float:left;" >
 class Thing:
-	def \__init\__(self,x,y):
+	def \_\_init\_\_(self,x,y):
 		self.x = x
 		self.y = y
 	def stringify(self):

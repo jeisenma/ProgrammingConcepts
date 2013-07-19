@@ -163,7 +163,7 @@ for( var i=0; i<letters.length; i++ )
 <br>  
 #### working with lists
 
-<textarea rows="16" cols="42" style="float:left;">
+<textarea rows="17" cols="42" style="float:left;">
 numbers = []
 for i in range(10):
 	numbers.append(i)
@@ -175,7 +175,7 @@ print letters.pop()
 for letter in letters:
 	print letter
 </textarea>
-<textarea rows="16" cols="42" style="float:left;">
+<textarea rows="17" cols="42" style="float:left;">
 FloatList numbers = new FloatList();
 for(int i=0; i<10; i++)
 { numbers.append(i); }
@@ -192,7 +192,7 @@ for(int i=0; i<letters.size(); i++) {
   println(letter);
 }
 </textarea>
-<textarea rows="16" cols="42" style="float:left;">
+<textarea rows="17" cols="42" style="float:left;">
 var numbers = new Array();
 for(var i=0; i<10; i++)
 { numbers.push(i); }

@@ -129,7 +129,7 @@ else {
 </textarea>  
 
 <br>  
-#### working with arrays (lists)
+#### working with arrays
 
 <textarea rows="9" cols="42" style="float:left;">
 numbers = range(10)
@@ -158,6 +158,51 @@ for( var letter in letters )
 { console.log(letter); }
 for( var i=0; i<letters.length; i++ )
 { console.log("letter "+i+" is "+letters[i]); }
+</textarea>  
+
+<br>  
+#### working with lists
+
+<textarea rows="9" cols="42" style="float:left;">
+numbers = []
+for i in range(10):
+	numbers.append(i)
+for num in numbers:
+	print num
+letters = ['a', 'c', 'd']
+letters.insert(1,'b')
+print letters.pop()
+for letter in letters:
+	print letter
+</textarea>
+<textarea rows="9" cols="42" style="float:left;">
+FloatList numbers = new FloatList();
+for(int i=0; i<10; i++)
+{ numbers.append(i); }
+for(int i=0; i<numbers.size(); i++)
+{ println(numbers.get(i)); }
+ArrayList letters = new ArrayList();
+letters.add("a");
+letters.add("c");
+letters.add("d");
+letters.add(1,"b");
+println((String)letters.remove(letters.size()-1));
+for(int i=0; i<letters.size(); i++) { 
+  String letter = (String)letters.get(i);
+  println(letter);
+}
+</textarea>
+<textarea rows="9" cols="42" style="float:left;">
+var numbers = new Array();
+for(var i=0; i<10; i++)
+{ numbers.push(i); }
+for(var i=0; i<numbers.length; i++)
+{ console.log(numbers[i]); }
+var letters = ['a', 'c', 'd'];
+letters.splice(1,0,'b');
+console.log(letters.pop());
+for(var i=0; i<letters.length; i++)
+{ console.log(letters[i]); }
 </textarea>  
 
 <br>  

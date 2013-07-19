@@ -290,13 +290,16 @@ def mousePressed():
 </textarea>
 <textarea rows="10" cols="65" style="float:left;">
 int diameter = 10;
-def setup():
-	size(400,400)
-def draw():
-	background(200)
-	ellipse(width/2,height/2,diameter,diameter)
-def mousePressed():
-	diameter = constrain(diameter+10, 0, width)
+void setup() {
+	size(400,400);
+}
+void draw() {
+	background(200);
+	ellipse(width/2,height/2,diameter,diameter);
+}
+void mousePressed() {
+	diameter = constrain(diameter+10, 0, width);
+}
 </textarea>  
 
 <br>

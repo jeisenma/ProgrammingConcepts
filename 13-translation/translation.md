@@ -284,7 +284,7 @@ void draw() {
 def mousePressed():
 	print "mouse pressed at: ", mouseX, mouseY
 def mouseDragged():
-	print "mouse dragged from: ", pmouseX, pmouseY, " to: ", mouseX, mouseY
+	print "dragged ", pmouseX, pmouseY, " to ", mouseX, mouseY
 def mouseReleased():
 	print "mouse released at: ", mouseX, mouseY
 </textarea>
@@ -293,7 +293,7 @@ void mousePressed() {
 	println("mouse pressed at: "+mouseX+" "+mouseY);
 }
 void mouseDragged() {
-	println("mouse dragged from: "+pmouseX+" "+pmouseY+" to: "+mouseX+" "+mouseY);
+	println("dragged "+pmouseX+" "+pmouseY+" to "+mouseX+" "+mouseY);
 }
 void mouseReleased() {
 	println("mouse released at: "+mouseX+" "+mouseY);

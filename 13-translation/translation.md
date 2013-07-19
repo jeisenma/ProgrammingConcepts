@@ -31,6 +31,7 @@ var	w = "howdy",
 	z = {1, 2, 3};
 </textarea>	 
   
+<br>  
 #### math operators
 
 <textarea rows="5" cols="42" style="float:left;">

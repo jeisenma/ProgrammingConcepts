@@ -242,13 +242,13 @@ console.log(myThing.add(5.1));
 
 #### importing
 
-<textarea rows="4" cols="22" style="float:left;">
+<textarea rows="4" cols="30" style="float:left;">
 from random import \*
 </textarea>
-<textarea rows="4" cols="22" style="float:left;">
+<textarea rows="4" cols="30" style="float:left;">
 import processing.pdf.\*;
 </textarea>
-<textarea rows="4" cols="82" style="float:left;">
+<textarea rows="4" cols="66" style="float:left;">
 put this in the HTML head:
 <script type="text/javascript" src="someFileToInclude.js"></script>
 </textarea>

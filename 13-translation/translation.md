@@ -48,7 +48,7 @@ var x,y,z;
 x = Math.pow(3,2);
 y = Math.abs(4.25-2.3);
 z = (x+y)\*2/3;
-</textarea>
+</textarea>  
 <div style="clear:none;"></div>
 
 <br>

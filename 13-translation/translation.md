@@ -277,7 +277,7 @@ void draw() {
 <br>  
 #### global variables
 
-<textarea rows="10" cols="65" style="float:left;">
+<textarea rows="12" cols="65" style="float:left;">
 diameter = 10
 def setup():
 	size(400,400)
@@ -288,7 +288,7 @@ def mousePressed():
 	global diameter
 	diameter = constrain(diameter+10, 0, width)
 </textarea>
-<textarea rows="10" cols="65" style="float:left;">
+<textarea rows="12" cols="65" style="float:left;">
 int diameter = 10;
 void setup() {
 	size(400,400);
@@ -305,7 +305,7 @@ void mousePressed() {
 <br>
 #### mouse functions
 
-<textarea rows="12" cols="65" style="float:left;">
+<textarea rows="10" cols="65" style="float:left;">
 def mousePressed():
 	print "mouse pressed at: ", mouseX, mouseY
 def mouseDragged():
@@ -313,7 +313,7 @@ def mouseDragged():
 def mouseReleased():
 	print "mouse released at: ", mouseX, mouseY
 </textarea>
-<textarea rows="12" cols="65" style="float:left;">
+<textarea rows="10" cols="65" style="float:left;">
 void mousePressed() {
   println("mouse pressed at: "+mouseX+" "+mouseY);
 }

@@ -260,7 +260,6 @@ put this in the HTML head:
 <textarea rows="8" cols="65" style="float:left;">
 def setup():
 	size(400,400)
-
 def draw():
 	background(200)
 	ellipse(width/2, height/2, 100, 100)
@@ -269,7 +268,6 @@ def draw():
 void setup() {
 	size(400,400);
 }
-
 void draw() {
 	background(200);
 	ellipse(width/2, height/2, 100, 100);
@@ -289,18 +287,18 @@ def mouseReleased():
 </textarea>
 <textarea rows="12" cols="65" style="float:left;">
 void mousePressed() {
-	println("mouse pressed at: "+mouseX+" "+mouseY);
+  println("mouse pressed at: "+mouseX+" "+mouseY);
 }
 void mouseDragged() {
-	println("dragged "+pmouseX+" "+pmouseY+" to "+mouseX+" "+mouseY);
+  println("dragged "+pmouseX+" "+pmouseY+" to "+mouseX+" "+mouseY);
 }
 void mouseReleased() {
-	println("mouse released at: "+mouseX+" "+mouseY);
+  println("mouse released at: "+mouseX+" "+mouseY);
 }
 </textarea>
 
 
-## Fun places to work with other languages
+## Fun places to work with these other languages
 - [Processing!](http://processing.org)  (Java)
 - [Unity3D](http://unity3d.com) (JavaScript)
 - [JSFiddle](http://jsfiddle.net/) (JavaScript+CSS+HTML)

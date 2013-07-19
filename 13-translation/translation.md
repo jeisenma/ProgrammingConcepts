@@ -28,7 +28,7 @@ int[] z = {1, 2, 3};
 var	w = "howdy",
 	x = 3,
 	y = 4.25,
-	z = {1, 2, 3};
+	z = [1, 2, 3];
 </textarea>  
 
 <br>  
@@ -144,7 +144,7 @@ for i,letter in enumerate(letters):
 <textarea rows="9" cols="42" style="float:left;">
 for(int i=2; i<10; i++) 
 { println(i); }
-String[] letters = {'a', 'b', 'c'};
+String[] letters = {"a", "b", "c"};
 for( String letter : letters ) 
 { println(letter); }
 for( int i=0; i<letters.length; i++ ) 
@@ -154,8 +154,8 @@ for( int i=0; i<letters.length; i++ )
 for(var i=2; i<10; i++)
 { console.log(i); }
 var letters = ['a', 'b', 'c'];
-for( var letter in letters )
-{ console.log(letter); }
+for( var i=0; i<letters.length; i++ )
+{ console.log(letters[i]); }
 for( var i=0; i<letters.length; i++ )
 { console.log("letter "+i+" is "+letters[i]); }
 </textarea>  
@@ -232,9 +232,9 @@ console.log(doStuff(3,4));
 <br>  
 #### encapsulation
 
-<textarea rows="18" cols="42" >
+<textarea rows="18" cols="42" style="float:left;" >
 class Thing:
-	def __init__(self,x,y):
+	def \__init\__(self,x,y):
 		self.x = x
 		self.y = y
 	def stringify(self):
@@ -247,28 +247,28 @@ print myThing.add(5.1)
 </textarea>
 <textarea rows="18" cols="42" style="float:left;">
 class Thing {
-	float x, y;
-	Thing(ix,iy) {
-		x = ix;
-		y = iy;
-	}
-	String stringify() {
-		return self.x+" "+self.y;
-	}
-	float add(self,z) {
-		return self.x+self.y+z;
-	}
+    float x, y;
+    Thing(float ix, float iy) {
+        x = ix;
+        y = iy;
+    }
+    String stringify() {
+        return x+" "+y;
+    }
+    float add(float z) {
+        return x+y+z;
+    }
 }
 Thing myThing = new Thing(3.1,4);
 println(myThing.stringify());
 println(myThing.add(5.1));
 </textarea>
 <textarea rows="18" cols="42" style="float:left;">
-function Thing(x,y) {
+function Thing(x, y) {
 	this.x = x;
 	this.y = y;
 	this.stringify = function() {
-		return self.x+" "+self.y;
+		return this.x+" "+this.y;
 	};
 	this.add = function(z) {
 		return this.x+this.y+z;

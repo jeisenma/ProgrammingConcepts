@@ -133,9 +133,9 @@ else {
 
 <textarea rows="11" cols="42" style="float:left;">
 numbers = range(10)
-letters = ['a', 'b', 'c']
 for num in numbers[2:]:
 	print num
+letters = ['a', 'b', 'c']
 for letter in letters:
 	print letter
 for i,letter in enumerate(letters):
@@ -146,24 +146,19 @@ for(int i=2; i<10; i++) {
 	println(i);
 }
 String[] letters = {'a', 'b', 'c'};
-for( String letter : letters ) {
-	println(letter);
-}
-for( int i=0; i<letters.length; i++ ) {
-	println("letter #"+i+" is "+letters[i]);
-}
+for( String letter : letters ) 
+{ println(letter); }
+for( int i=0; i<letters.length; i++ ) 
+{ println("letter #"+i+" is "+letters[i]); }
 </textarea>
 <textarea rows="11" cols="42" style="float:left;">
-for(var i=2; i<10; i++) {
-	console.log(i);
-}
+for(var i=2; i<10; i++) 
+{ console.log(i); }
 var letters = ['a', 'b', 'c'];
-for( var letter in letters ) {
-	console.log(letter);
-}
-for( var i=0; i<letters.length; i++ ) {
-	console.log("letter #"+i+" is "+letters[i]);
-}
+for( var letter in letters ) 
+{ console.log(letter); }
+for( var i=0; i<letters.length; i++ ) 
+{ console.log("letter #"+i+" is "+letters[i]); }
 </textarea>  
 
 <br>  

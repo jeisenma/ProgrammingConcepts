@@ -1,8 +1,6 @@
 # J Eisenmann 2013 
 # jeisenma@accad.osu.edu
 
-from random import random
-
 class Ball:
 	""" Ball objects are 2D circles that bounce off walls and each other """
 	def __init__(self, rad, pos, vel):	# the constructor -- responsible for creating balls
@@ -15,7 +13,7 @@ class Ball:
 		self.g = PVector( 0, 0.9 )	# make all the balls' gravities the same -- remember positive Y is down
 		self.d = 0.97				# the same damping for all the balls
 		self.springyness = 0.25		# elasticity for ball-ball collisions
-		self.shade = color(random()*255, random()*255, random()*255)	# ball color is random
+		self.shade = color(random(255), random(255), random(255))	# ball color is random
 
 	def collide(self, allBalls):
 		""" bounce off the other balls 

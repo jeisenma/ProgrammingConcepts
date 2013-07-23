@@ -11,8 +11,8 @@ def setup():
 	background(255, 204, 0)
 	frameRate(24)
 	global animation1, animation2
-	animation1 = Animation("PT_Shifty_", 38)
-	animation2 = Animation("PT_Teddy_", 60)
+	animation1 = Animation("./data/PT_Shifty_", 38)
+	animation2 = Animation("./data/PT_Teddy_", 60)
 
 def draw():	 
 	global xpos

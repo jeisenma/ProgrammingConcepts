@@ -38,7 +38,7 @@
 [snowmen]: pcad.py?page=08-oop/snowmen.py
 [rotating squares]: pcad.py?page=08-oop/squares.py 
 [animated sprite]: pcad.py?page=08-oop/animatedSpriteClass/animatedSpriteClass.py
-[bouncy balls]: pcad.py?page=08-oop/balls.zip
-[shape gallery]: pcad.py?page=08-oop/shapeGallery.zip
+[bouncy balls]: pcad.py?page=08-oop/balls.py
+[shape gallery]: pcad.py?page=08-oop/shapeGallery.py
 [snow goons]: pcad.py?page=08-oop/snowGoons.py
 [Shiffman's tutorial on GAs]: http://natureofcode.com/book/chapter-9-the-evolution-of-code/

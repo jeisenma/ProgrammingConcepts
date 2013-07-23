@@ -13,9 +13,7 @@
  
 ## Examples
 - [minim][]	
-- [movie][] ([data](pcad.py?page=09-libraries/data/transit.mov))
-- [blobs][]
-- [gestures][]
+- [movie][] ([data](pcad.py?page=14-libraries/data/transit.mov))
 
 ## Lab
 - handmade waveforms
@@ -30,5 +28,5 @@
 ## Assignment
 - 
 
-[minim]: pcad.py?page=09-libraries/minim.py
-[movie]: pcad.py?page=09-libraries/movie.py
+[minim]: pcad.py?page=14-libraries/minim.py
+[movie]: pcad.py?page=14-libraries/movie.py

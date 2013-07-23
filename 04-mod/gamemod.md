@@ -17,7 +17,7 @@
 - If you get into trouble after a change and don't know how to fix it, just Ctrl-Z until things are happy
 - At the end of class, we'll have a mod show
 
-[on the playground]: http://accad.osu.edu/~jeisenma/teaching/playground/?04-mod/GameMod&04-mod/Paddle&04-mod/Ball&04-mod/Brick&04-mod/Rectangle
+[on the playground]: http://accad.osu.edu/~jeisenma/teaching/playground/?04-mod/GameMod/GameMod&04-mod/GameMod/Paddle&04-mod/GameMod/Ball&04-mod/GameMod/Brick&04-mod/GameMod/Rectangle
 
 ## Reading
 - [Processing Overview](http://processing.org/learning/overview/)

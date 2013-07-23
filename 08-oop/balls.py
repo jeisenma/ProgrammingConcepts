@@ -82,7 +82,7 @@ def draw():
 	
 	# if dragging, show slingshot line
 	if mouseDown:
-	 line(mouseDownPos.x, mouseDownPos.y, mouseX, mouseY) 
+		line(mouseDownPos.x, mouseDownPos.y, mouseX, mouseY) 
 	
 	# update and draw all the balls
 	for b in balls:

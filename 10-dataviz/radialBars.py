@@ -20,7 +20,7 @@ def draw():
 		# length of the arc for this data point
 		arcSz = map(d,0,1,innerRadius,outerRadius)
 		# pick a hue
-		shade = map(i,0,len(data),0,255)
+		shade = map(float(i),0,len(data),0,255)
 		rotate(angle)
 		# switch to the HSB color mode
 		colorMode(HSB)

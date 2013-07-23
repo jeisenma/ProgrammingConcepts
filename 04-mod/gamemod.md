@@ -13,9 +13,11 @@
 ## Lab: GameMod
 - You will be modifying this game to make something entirely different. (the [original GameMod workshop](http://www.trsp.net/teaching/gamemod/))
 - Download and unzip the [GameMod][] files
-- Open them up in jEdit, make small changes, run, repeat!
+- Open them up in jEdit (or [on the playground][], make small changes, run, repeat!
 - If you get into trouble after a change and don't know how to fix it, just Ctrl-Z until things are happy
 - At the end of class, we'll have a mod show
+
+[on the playground]: http://accad.osu.edu/~jeisenma/teaching/playground/?04-mod/GameMod&04-mod/Paddle&04-mod/Ball&04-mod/Brick&04-mod/Rectangle
 
 ## Reading
 - [Processing Overview](http://processing.org/learning/overview/)

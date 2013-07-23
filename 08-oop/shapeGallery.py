@@ -1,9 +1,6 @@
 # J Eisenmann 2013 
 # jeisenma@accad.osu.edu
 
-# J Eisenmann 2013 
-# jeisenma@accad.osu.edu
-
 class Shape:
 	def __init__(self, p=PVector(), n=8, r=40, oscilAmp=0.0, oscilFrq=4, nzFrq=0, part=0):
 		self.p = p

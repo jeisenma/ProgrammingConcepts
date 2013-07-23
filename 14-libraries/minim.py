@@ -9,8 +9,6 @@
 # import everything necessary to make sound.
 from ddf.minim import Minim
 from ddf.minim.ugens import Waves, Oscil
-# import launcher
-# launcher.create()
 	
 # setup is run once at the beginning
 def setup():

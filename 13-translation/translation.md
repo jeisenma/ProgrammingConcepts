@@ -368,7 +368,7 @@ void mouseReleased() {
 <br>  
 #### lists of objects
 
-<textarea rows="18" cols="42" style="float:left;" >
+<textarea rows="36" cols="65" style="float:left;" >
 class Thing:
 	def \_\_init\_\_(self,x,y):
 		self.x = x
@@ -377,7 +377,6 @@ class Thing:
 		return "%s, %s"%(self.x,self.y)
 	def add(self,z):
 		return self.x+self.y+z
-
 numThings = 20
 myThings = []
 def setup():
@@ -385,14 +384,13 @@ def setup():
 	textAlign(CENTER,CENTER)
 	for i in range(numThings):
 		myThings.append( Thing( random(width), random(height) ) )
-	
 def draw():
 	background(200)
 	for i, thing in enumerate(myThings):
 		text("thing %d"%i, thing.x, thing.y)
 		print thing.stringify()
 </textarea>
-<textarea rows="18" cols="42" style="float:left;">
+<textarea rows="36" cols="65" style="float:left;">
 class Thing {
     float x, y;
     Thing(float ix, float iy) {

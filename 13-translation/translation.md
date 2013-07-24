@@ -365,6 +365,67 @@ void mouseReleased() {
 </textarea>
 
 
+<br>  
+#### lists of objects
+
+<textarea rows="18" cols="42" style="float:left;" >
+class Thing:
+	def \_\_init\_\_(self,x,y):
+		self.x = x
+		self.y = y
+	def stringify(self):
+		return "%s, %s"%(self.x,self.y)
+	def add(self,z):
+		return self.x+self.y+z
+
+numThings = 20
+myThings = []
+def setup():
+	size(400,400)
+	textAlign(CENTER,CENTER)
+	for i in range(numThings):
+		myThings.append( Thing( random(width), random(height) ) )
+	
+def draw():
+	background(200)
+	for i, thing in enumerate(myThings):
+		text("thing %d"%i, thing.x, thing.y)
+		print thing.stringify()
+</textarea>
+<textarea rows="18" cols="42" style="float:left;">
+class Thing {
+    float x, y;
+    Thing(float ix, float iy) {
+        x = ix;
+        y = iy;
+    }
+    String stringify() {
+        return x+" "+y;
+    }
+    float add(float z) {
+        return x+y+z;
+    }
+}
+int numThings = 20;
+ArrayList myThings;
+void setup() {
+	size(400,400);
+	textAlign(CENTER,CENTER);
+	myThings = new ArrayList();
+	for(int i=0; i<numThings; i++) {
+		myThings.add( new Thing( random(width), random(height) ) );
+	}
+}
+void draw() {
+	background(200);
+	for(int i=0; i<myThings.size(); i++) {
+		Thing thisThing = (Thing)myThings.get(i);
+		text("thing "+i, thisThing.x, thisThing.y);
+		println(thisThing.stringify());
+	}
+}
+</textarea>
+
 ## Fun places to work with these other languages
 - [Processing!](http://processing.org)  (Java)
 - [Unity3D](http://unity3d.com) (JavaScript)

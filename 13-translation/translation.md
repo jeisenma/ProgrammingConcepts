@@ -368,7 +368,7 @@ void mouseReleased() {
 <br>  
 #### lists of objects
 
-<textarea rows="36" cols="65" style="float:left;" >
+<textarea readonly="True" rows="32" cols="65" style="float:left;" >
 class Thing:
 	def \_\_init\_\_(self,x,y):
 		self.x = x
@@ -390,7 +390,7 @@ def draw():
 		text("thing %d"%i, thing.x, thing.y)
 		print thing.stringify()
 </textarea>
-<textarea rows="36" cols="65" style="float:left;">
+<textarea rows="32" cols="65" style="float:left;">
 class Thing {
     float x, y;
     Thing(float ix, float iy) {

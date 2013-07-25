@@ -20,6 +20,7 @@
 	- Code
 	- Data/images/movies/other assets
 	- Reference your sources in the comments of your code
+	- If your code doesn't run in the Playground, please submit a video of you interacting with your sketch.
 - Rubric: (4 points each)
 	- ease of interaction - can someone sit down and just figure it out?
 	- completion - did you finish what you laid out in your proposal?

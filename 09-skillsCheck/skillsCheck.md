@@ -32,8 +32,8 @@ Compress the skillsCheck directory and submit it on Carmen.
 	
 - The class should have three functions:
 
-	1. __\_\_init\_\___ the constructor which takes a parameter for position and generates a random color and a random pulseFreq between 0.01 and 0.06.
-	2. __update__ this function updates the diameter using the sin() and map() function.  Multiply the frameCount by pulseFreq instead of 0.01 this time.
+	1. __\_\_init\_\___ (the constructor) takes a parameter for position and generates a random color and a random pulseFreq between 0.01 and 0.06.
+	2. __update__ updates the diameter using the sin() and map() function.  Multiply the frameCount by pulseFreq instead of 0.01 this time.
 	3. __display__ draws the circle on the screen using the properties
 	
 - You will need to create a separate main file for this sketch that will import the file that

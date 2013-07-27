@@ -1,21 +1,24 @@
 # J Eisenmann 2013 
 # jeisenma@accad.osu.edu
 
-# A bubble chart example that loads data from a CSV file using python file I/O
+# A bubble chart example that loads data from a CSV file using Processing's loadTable() function
 
 def setup():
 	global data, headings
 	size(480,400)
 	data = {}	# new empty dictionary
-	f = open('housingData.csv', 'r')
-	lines = f.readlines()
-	f.close()
-	headings = lines[0].split(',')	# get the column headings from the first line
-	for heading in headings:	# create an empty list in the dictionary for each heading
-		data[ heading ] = []
-	for line in lines[1:]:	# slice the list to skip the first line (header)
-		for i, item in enumerate(line.split(',')):
-			data[ headings[i] ].append( float(item) )	# add data from this row under this heading, to the list 
+	table = loadTable('housingData.csv', 'csv')
+	headings = []
+	for i in range(table.getColumnCount()):	# get the column headings from the first line
+		heading = table.getRow(0).getString(i)
+		if len(heading) > 0:
+			headings.append( heading )	# add this header to the list of headings
+			data[ heading ] = []		# make an empty list for each heading
+	
+	table = loadTable('housingData.csv', 'header')
+	for row in table.rows():
+		for heading in headings:
+			data[ heading ].append( row.getFloat(heading) )	# get the data in this row indexed by the heading
 
 def draw():
 	background(255)

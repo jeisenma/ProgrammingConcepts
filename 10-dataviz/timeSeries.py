@@ -1,3 +1,6 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 data = [	PVector(0.1175,0.2725),
 			PVector(0.245,0.5075),
 			PVector(0.3725,0.32),

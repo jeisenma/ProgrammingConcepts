@@ -1,3 +1,6 @@
+# J Eisenmann 2013 
+# jeisenma@accad.osu.edu
+
 angles = [ 30, 10, 45, 35, 60, 38, 75, 67 ] 
 
 def setup(): 

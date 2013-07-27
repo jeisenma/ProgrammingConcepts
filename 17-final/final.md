@@ -40,4 +40,4 @@
 - Create a sub-directory named after you in this directory
     Y:\Courses\2012-2013\AC5102_Eisenmann_SU13\
 - Load your files into that sub-directory BEFORE class starts.  We will use it to minimize time between presentations.
-- [Presentation rubric](pcad.py?page=18-final/PresentationRubric.pdf)
+- [Presentation rubric](pcad.py?page=17-final/PresentationRubric.pdf)

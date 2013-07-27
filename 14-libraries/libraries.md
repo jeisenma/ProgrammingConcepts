@@ -20,10 +20,12 @@
 [Processing Library Manager]: http://wiki.processing.org/w/How_to_Install_a_Contributed_Library
 
 ## Examples
-- [Synthesizing sound with Minim][]	
-- [Scrubbing through a movie][] ([data](pcad.py?page=14-libraries/data/transit.mov))
+- [synthesizing sound with Minim][]	
+- [scrubbing through a movie][] ([data](pcad.py?page=14-libraries/data/transit.mov))
+- [getting a camera feed][]
+- [blob tracking][] ([faster Java version][])
 
-
-
-[Synthesizing sound with Minim]: pcad.py?page=14-libraries/minim.py
-[Scrubbing through a movie]: pcad.py?page=14-libraries/movie.py
+[synthesizing sound with Minim]: pcad.py?page=14-libraries/minim.py
+[scrubbing through a movie]: pcad.py?page=14-libraries/movie.py
+[getting a camera feed]: pcad.py?page=14-libraries/camera.py
+[faster Java version]: pcad.py?page=14-libraries/blobs.pde

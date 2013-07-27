@@ -5,7 +5,7 @@
 
 Make a directory called skillsCheck in your sketchbook directory. Inside this directory make a new sketch for each problem below. 
 
-Compress the skillsCheck directory and email it to me.
+Compress the skillsCheck directory and submit it on Carmen.
 
 ## ForLoop1
 - Write a for loop that prints numbers from 0 up to (and including) 10.
@@ -36,7 +36,8 @@ Compress the skillsCheck directory and email it to me.
 	2. update this function updates the diameter using the sin() function like this:
 	
 		- sin(frameCount*pulseFreq)
-	- You will need to use the map() function like before to map the values.
+- You will need to use the map() function like before to map the values.
+
 	3. display draw the circle on the screen using the properties
 	
 - You will need to create a separate main file for this sketch that will import the file that

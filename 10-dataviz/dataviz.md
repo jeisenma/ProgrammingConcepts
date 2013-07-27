@@ -38,7 +38,7 @@
 	- [Radial Bar Graph](pcad.py?page=10-dataviz/radialBars.py)
 	- [Time Series](pcad.py?page=10-dataviz/timeSeries.py)
 	- [Scatter Plot](pcad.py?page=10-dataviz/scatter.py)
-	- Bubble Chart with data from [this CSV file](housingData.csv) 
+	- Bubble Chart with data from [this CSV file](pcad.py?page=10-dataviz/housingData.csv) 
 		- [Version 1: using plain old python file I/O](pcad.py?page=10-dataviz/bubble.py)
 		- [Version 2: using Processing's loadTable function](pcad.py?page=10-dataviz/bubble2.py)
 	- [Bar Graph with smooth transitions and class](pcad.py?page=10-dataviz/smoothBars.py)

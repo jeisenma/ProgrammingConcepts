@@ -28,4 +28,5 @@
 [synthesizing sound with Minim]: pcad.py?page=14-libraries/minim.py
 [scrubbing through a movie]: pcad.py?page=14-libraries/movie.py
 [getting a camera feed]: pcad.py?page=14-libraries/camera.py
+[blob tracking]: pcad.py?page=14-libraries/blobs.py
 [faster Java version]: pcad.py?page=14-libraries/blobs.pde

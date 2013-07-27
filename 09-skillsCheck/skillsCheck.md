@@ -25,20 +25,16 @@ Compress the skillsCheck directory and submit it on Carmen.
 ## Encapsulation
 - Create a class for your pulsing circles. It should have the following properties:
 
-	1. position where its located on the screen
-	2. diameter the current size of the circle
-	3. color the color of the circles fill
-	4. pulseFreq the frequency of the pulsing motion
+	1. __position__ where its located on the screen
+	2. __diameter__ the current size of the circle
+	3. __color__ the color of the circles fill
+	4. __pulseFreq__ the frequency of the pulsing motion
 	
 - The class should have three functions:
 
-	1. \_\_init\_\_ the constructor which takes a parameter for position and generates a random color and a random pulseFreq between 0.01 and 0.06.
-	2. update this function updates the diameter using the sin() function like this:
-	
-		- sin(frameCount*pulseFreq)
-- You will need to use the map() function like before to map the values.
-
-	3. display draw the circle on the screen using the properties
+	1. __\_\_init\_\___ the constructor which takes a parameter for position and generates a random color and a random pulseFreq between 0.01 and 0.06.
+	2. __update__ this function updates the diameter using the sin() and map() function.  Multiply the frameCount by pulseFreq instead of 0.01 this time.
+	3. __display__ draws the circle on the screen using the properties
 	
 - You will need to create a separate main file for this sketch that will import the file that
 contains the Circle class. In the main file, call the Circle() constructor when the mouse is

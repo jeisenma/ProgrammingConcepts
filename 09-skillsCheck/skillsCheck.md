@@ -8,8 +8,7 @@ Make a directory called skillsCheck in your sketchbook directory. Inside this di
 Compress the skillsCheck directory and email it to me.
 
 ## ForLoop1
-
-Write a for loop that prints numbers from 0 up to (and including) 10.
+- Write a for loop that prints numbers from 0 up to (and including) 10.
 
 ## ForLoop2
 - Copy the previous sketch and change it so that the counting starts at 10 and goes down to 0.
@@ -30,13 +29,15 @@ Write a for loop that prints numbers from 0 up to (and including) 10.
 	2. diameter the current size of the circle
 	3. color the color of the circles fill
 	4. pulseFreq the frequency of the pulsing motion
+	
 - The class should have three functions:
 
-	1) \_\_init\_\_ the constructor which takes a parameter for position and generates a random color and a random pulseFreq between 0.01 and 0.06.
-	2) update this function updates the diameter using the sin() function like this:
+	1. \_\_init\_\_ the constructor which takes a parameter for position and generates a random color and a random pulseFreq between 0.01 and 0.06.
+	2. update this function updates the diameter using the sin() function like this:
+	
 		- sin(frameCount*pulseFreq)
-		You will need to use the map() function like before to map the values.
-	3) display draw the circle on the screen using the properties
+	- You will need to use the map() function like before to map the values.
+	3. display draw the circle on the screen using the properties
 	
 - You will need to create a separate main file for this sketch that will import the file that
 contains the Circle class. In the main file, call the Circle() constructor when the mouse is

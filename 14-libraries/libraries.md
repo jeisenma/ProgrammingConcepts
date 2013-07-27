@@ -12,10 +12,12 @@
 - data streams
  
 ## Installing libraries to processing.py
-- Download and unzip the processing library you want (or use the Processing Library Manager to get it into your sketchbook)
+- Download and unzip the processing library you want (or use the [Processing Library Manager][] to get it into your sketchbook)
 - Then copy the library folder into this folder:
 	- PROCESSING.PY_INSTALLATION_FOLDER/libraries/processing/
 - You can be certain you've copied the right folder from the library by making sure it's got a 'library' folder inside of it (one level down).  This 'library' folder should have one or more .jar files in it.
+
+[Processing Library Manager]: http://wiki.processing.org/w/How_to_Install_a_Contributed_Library
 
 ## Examples
 - [Synthesizing sound with Minim][]	

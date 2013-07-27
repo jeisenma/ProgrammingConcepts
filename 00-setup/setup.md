@@ -14,7 +14,7 @@ Here are the links and instructions you will need to work with the same developm
 
 ## [Processing-py][processing-py]
 
-- Download [processing-py][] ([mac version][]). Unzip it to location on your hard drive. (Remember where!)
+- Download [processing-py][]. Unzip it to a location on your hard drive.  Preferrably the "Program Files (x86)" folder on Windows and the Applications folder on Mac. (Remember where!)
 - Download & Install [jEdit][].
 - Run jEdit and go to Plugins > Plugin Manager.  In the "Install" tab, select and install the following plugins:
 	- Console
@@ -58,8 +58,9 @@ Here are the links and instructions you will need to work with the same developm
 
 
 [Scratch]: http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
-[processing-py]: http://accad.osu.edu/~jeisenma/teaching/pcad_p5/processing.py-0022.zip
-[mac version]: http://accad.osu.edu/~jeisenma/teaching/pcad_p5/processing.py-0021.zip
+[processing-py]: http://s.xr.io/processing.py/latest.zip 
+[old]: http://accad.osu.edu/~jeisenma/teaching/pcad_p5/processing.py-0022.zip
+[old mac version]: http://accad.osu.edu/~jeisenma/teaching/pcad_p5/processing.py-0021.zip
 [this XML file]: pcad.py?page=00-setup/jeditFiles/PYP5.xml
 [Mac version here]: pcad.py?page=00-setup/jeditFiles/PYP5_mac.xml
 [this keyboard shortcuts file]: pcad.py?page=00-setup/jeditFiles/p5py_keys.props

@@ -31,8 +31,9 @@
 			}
 			buf.append(" -jar ");
 			buf.append(processingpy);
-			buf.append(" ");
+			buf.append(" '");
 			buf.append(sketch.replace(" ", "\\ "));
+			buf.append("'");
 			buf.toString();
 		</COMMAND>
 	</COMMANDS>

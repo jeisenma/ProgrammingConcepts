@@ -7,7 +7,7 @@
         <CAPTION LABEL="Run Processing.py">
            <FILE_ENTRY LABEL="Path to java" VARNAME="java" DEFAULT="/usr/bin/java"/>
             <FILE_ENTRY LABEL="sketch" VARNAME="sketch" EVAL="buffer.getPath()"/>
-            <FILE_ENTRY LABEL="Path to processing-py.jar" VARNAME="processingpy" DEFAULT="/Users/USERNAME/Desktop/processing.py-0022/processing-py.jar'"/>
+            <FILE_ENTRY LABEL="Path to processing-py.jar" VARNAME="processingpy" DEFAULT="/Applications/processing.py-0022/processing-py.jar'"/>
 		</CAPTION>
 		<CAPTION LABEL="VM settings">
 		<ENTRY LABEL="Initial heap size (Mb)" VARNAME="ms" DEFAULT="32" />
@@ -31,8 +31,9 @@
 			}
 			buf.append(" -jar ");
 			buf.append(processingpy);
-			buf.append(" ");
+			buf.append(" '");
 			buf.append(sketch.replace(" ", "\\ "));
+			buf.append("'");
 			buf.toString();
 		</COMMAND>
 	</COMMANDS>

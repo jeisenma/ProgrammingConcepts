@@ -15,9 +15,9 @@
 <!-- - Detecting when a mobile device is looking at your site -->
 
 ## Examples
- - [Multitouch Ghost Fingers](id/examples/multitouch/web-export/) ([ref](http://kirkdev.blogspot.com/2013_02_01_archive.html))
- - [Geo Location](id/examples/geoLocation/web-export/) (from Processing HTML5 examples)
- - [Accelerometer](id/examples/accel/web-export/) ([ref](http://www.interhacktive.org/1/post/2011/12/accelerometer-gps-data-through-processingjs.html))
+ - [Multitouch Ghost Fingers](id/id/examples/multitouch/web-export/) ([ref](http://kirkdev.blogspot.com/2013_02_01_archive.html))
+ - [Geo Location](id/id/examples/geoLocation/web-export/) (from Processing HTML5 examples)
+ - [Accelerometer](id/id/examples/accel/web-export/) ([ref](http://www.interhacktive.org/1/post/2011/12/accelerometer-gps-data-through-processingjs.html))
 
 <!---
 ## Lab

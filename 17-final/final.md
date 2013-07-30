@@ -38,6 +38,6 @@
 		- your visuals should not include ANY code... unless you want to show super clever snippets
 	- a final demonstration of your sketch
 - Create a sub-directory named after you in this directory
-    Y:\Courses\2012-2013\AC5102_Eisenmann_SU13\
+    Y:\\Courses\\2012-2013\\AC5102_Eisenmann_SU13\\
 - Load your files into that sub-directory BEFORE class starts.  We will use it to minimize time between presentations.
 - [Presentation rubric](pcad.py?page=17-final/PresentationRubric.pdf)

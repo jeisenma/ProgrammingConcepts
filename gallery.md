@@ -5,8 +5,9 @@
 ## GameMods (week 2)
 
 <video controls=true autoplay=true loop=true style="box-shadow: 0 0 10px white;">
-	<source src="http://accad.osu.edu/~jeisenma/teaching/pcad_p5/gallery/GameMods.ogg" style='playbackRate=4.0;' type='video/ogg; codecs="theora, vorbis"'>
+	<source src="http://accad.osu.edu/~jeisenma/teaching/pcad_p5/gallery/GameMods.ogg" type='video/ogg; codecs="theora, vorbis"'>
 </video>
+<script type="text/javascript">document.getElementById("mods").playbackRate = 2.0;</script>
 
 ## Procedurally Drawn Monsters (week 3)
 

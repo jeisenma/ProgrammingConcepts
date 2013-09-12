@@ -37,7 +37,7 @@
 
 [examples]: pcad.py?page=examples.md
 [resources]: pcad.py?page=resources.md
-[gallery]: pcad.py?page=gallery.md
+[gallery]: ./pcad_p5/gallery/
 [feedback]: pcad.py?page=feedback.md
 [setup]: pcad.py?page=00-setup/setup.md
 [intro]: pcad.py?page=01-intro/intro.md

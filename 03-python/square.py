@@ -22,10 +22,10 @@ def square(x,y,s):
 setup()
 
 # so we don't have to wait forever"""
-speed("fastest")
+# speed("fastest")
 
 # draw the square
-square(100)
+square(0,0,100)
 
 # when to stop window: on mouse click
 exitonclick()

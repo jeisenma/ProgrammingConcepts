@@ -11,7 +11,7 @@ def draw():
 	if mouseX > center.x and mouseY > center.y:		
 		stroke(255)			# white
 	# if mouse is either in the right half or in the bottom half
-	elif mouseX > center.y or mouseY > center.y:
+	elif mouseX > center.x or mouseY > center.y:
 		stroke(200,100,50)	# red
 	else:
 		stroke(0)			# black

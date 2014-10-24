@@ -33,7 +33,7 @@ def mousePressed():
 		
 def keyPressed():
 	global mode
-	if keyCode == 127:
+	if keyCode == 127 or keyCode == 8:
 		setup()
 	if key == ' ':
 		mode = not(mode)

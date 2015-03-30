@@ -8,12 +8,12 @@ def loadDataFromCSV( csvFile ):
         colHeading = table.getRow(0).getString(i).strip() 
         if len(colHeading) > 0:
             countries.append( colHeading )
-	
+    
     for rowHeading in table.getStringColumn(0):	# gather the years into a list
         rowHeading = rowHeading.strip()
         if len(rowHeading) > 0 and not rowHeading == "Year":
             years.append( int(float(rowHeading)) )
-	
+    
     # load the table again with the 'header' option so we can use the country names as an index for the columns 
     table = loadTable(csvFile, 'header')
     data = {}
@@ -35,7 +35,7 @@ def loadDataFromCSV( csvFile ):
 def findCommon(list1, list2, list3):
     from sets import Set
     return sorted(list( Set(list1).intersection(list2).intersection(list3) ) )
-	
+    
 def getData():
     # collect dictionaries with the data from each file
     gdpData, gdpYears = loadDataFromCSV('gdp.csv')
@@ -58,7 +58,7 @@ def setup():
     size(800,600)
     margin = 20
     year = years[0]
-	
+    
 
 def interpData( dataDict, searchVal ):		
     """ Find the data point corresponding with the 
@@ -88,7 +88,7 @@ def findBounds( dataDict ):
             if val > bounds[1]:					# if higher than max
                 bounds[1] = val	# new max
     return bounds
-	
+    
 def mouseDragged():		# only change the year when dragging
     global year
     year = map(mouseX, margin, width-2*margin, years[0], years[-1])	# find the year based on horizontal mouse position
@@ -128,4 +128,4 @@ def draw():
         diameter = sqrt(a/PI)*2		# calculate diameter based on the area of the circle
         fill( map( a, circleArea[0], circleArea[1], 100, 255) )				# shade and area show the same data: population
         ellipse( x, y, diameter, diameter )
-	
+    

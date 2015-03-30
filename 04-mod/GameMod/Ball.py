@@ -47,13 +47,13 @@ class Ball:
 		# collision with paddle
 		result = self.checkCollisionWithRectangle(paddle.rectangle)
 		# if collides on top, control direction of ball
-		if (result == 1):
-			if(self.xcenter < paddle.rectangle.x1+paddle.rectangle.width/2):
-				if(self.velX>0):
-					self.velX = -self.velX
-			else:
-				if(self.velX<0):
-					self.velX = -self.velX
+# 		if (result == 1):
+# 			if(self.xcenter < paddle.rectangle.x1+paddle.rectangle.width/2):
+# 				if(self.velX>0):
+# 					self.velX = -self.velX
+# 			else:
+# 				if(self.velX<0):
+# 					self.velX = -self.velX
 
 		# collision with bricks
 		if (result == 0) :

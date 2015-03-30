@@ -2,12 +2,12 @@
 # jeisenma@accad.osu.edu
 
 def setup():
-	global cat
-	cat = loadImage("sprite.png")
-	size(400,400)
+    global cat
+    cat = loadImage("sprite.png")
+    size(400,400)
 	
 def draw():
-	background(255)
-	imageMode(CENTER)
-	image(cat, mouseX, mouseY)
+    background(255)
+    imageMode(CENTER)
+    image(cat, mouseX, mouseY)
 	

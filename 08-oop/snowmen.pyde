@@ -1,7 +1,7 @@
 # J Eisenmann 2013
 # jeisenma@accad.osu.edu
 
-          
+        
 # create a list for storing snowmen
 snowmen = []
 
@@ -20,7 +20,7 @@ def mousePressed():
     print size
     # make a new snowman and add it to the list
     snowmen.append( Snowman(    PVector(mouseX, mouseY), size,
-                                segments=round(random(2,3))
+                                segments=int(round(random(2,3)))
                             ) )
 
 
@@ -31,7 +31,7 @@ class Snowman:
                     base,
                     segments=3,
                     shade=255
-                 ):
+                ):
         """ segments: number of body parts (typically 3)
             shade: fill color of snowman (typically white)
             base: diameter of the base segment

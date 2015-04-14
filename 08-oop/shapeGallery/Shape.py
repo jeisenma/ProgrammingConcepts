@@ -14,7 +14,7 @@ class Shape:
 
     def update(self):
         self.pts = []
-        for i in range(self.n):
+        for i in range(int(self.n)):
             center = PVector(self.p.x, self.p.y);
             angle = map( i, 0, self.n, 0, TWO_PI-self.part)
             pt = PVector( self.r*sin(angle), self.r*cos(angle) )

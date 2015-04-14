@@ -1,7 +1,6 @@
 # J Eisenmann 2013
 # jeisenma@accad.osu.edu
 
-        
 # create a list for storing snowmen
 snowmen = []
 
@@ -16,13 +15,11 @@ def draw():
         
 def mousePressed():
     # fake depth with size (small in the back, large in the front)
-    size = map(float(mouseY), 0, height, 1, 100)
-    print size
+    howBig = map(mouseY, 0, height, 1, 100)
     # make a new snowman and add it to the list
-    snowmen.append( Snowman(    PVector(mouseX, mouseY), size,
-                                segments=int(round(random(2,3)))
+    snowmen.append( Snowman(    PVector(mouseX, mouseY), howBig,
+                                segments=round(random(2,3))
                             ) )
-
 
 class Snowman:
     """ Snowman class: draws a snowman """
@@ -46,8 +43,9 @@ class Snowman:
         fill(self.shade)
         pushMatrix()
         translate(self.pos.x,self.pos.y)
-        for i in range(self.segments):
-            diam = self.base*(1-float(i)/self.segments)
+        for i in range(int(self.segments)):
+            # make the diameter decrease when i increases
+            diam = map(i, 0, self.segments-1, self.base, self.base*0.35)
             translate(0,-diam/2)
             ellipse(0,0,diam,diam)
             translate(0,-diam*0.4)

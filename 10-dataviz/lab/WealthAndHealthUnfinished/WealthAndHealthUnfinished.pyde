@@ -12,7 +12,7 @@ def loadDataFromCSV( csvFile ):
     for rowHeading in table.getStringColumn(0):	# gather the countries names into a list
         rowHeading = rowHeading.strip()
         if len(rowHeading) > 0 and not rowHeading == "Year":
-            years.append( int(rowHeading) )
+            years.append( int(float(rowHeading)) )
     
     # load the table again with country names so we can use them as indices for the column data
     table = loadTable(csvFile, 'header')
@@ -86,6 +86,7 @@ def findBounds( dataDict ):
     # new min
     # if higher than max
     # new max
+    bounds = [minval, maxval]
     return bounds
     
 def mouseDragged():		# only change the year when dragging

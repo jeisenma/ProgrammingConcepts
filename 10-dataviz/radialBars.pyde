@@ -10,7 +10,7 @@ def setup():
 
 def draw():
     background(255)
-    noStroke()
+    strokeWeight(3)
     # move to the center of the screen
     translate(width*0.5, height*0.5) 
     
@@ -26,7 +26,7 @@ def draw():
         # switch to the HSB color mode
         colorMode(HSB)
         fill(shade,255,255)
-        arc( 0, 0, arcSz, arcSz, 0, angle ) 
+        arc( 0, 0, arcSz, arcSz, 0, angle, PIE ) 
 	
     # cut out the middle by drawing a white circle
     fill(255)

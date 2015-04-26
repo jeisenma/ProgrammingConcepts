@@ -64,17 +64,17 @@ def interpData( dataDict, searchVal ):
     """ Find the data point corresponding with the 
         year, or the surrounding two data points and 
         map between them (linear search is used) """
-    allYears = sorted(dataDict.keys()) 			# make sure the years are sorted! 
-    prevYear = allYears[0]						# the first year we have data for
+    allYears = sorted(dataDict.keys()) 			        # make sure the years are sorted! 
+    prevYear = allYears[0]					# the first year we have data for
     prevVal = dataDict[prevYear]				# the data in that first year
-    for item in allYears:
-        if searchVal > item:					# we have'nt found it yet...
-            prevYear = item						# remember the last value visited (for mapping later)
-            prevVal = dataDict[item]	
-        elif searchVal < item: 					# if we passed it, map between the last value and this one
-            return map( searchVal, prevYear, item, prevVal, dataDict[item] )
-        else:									# an exact match, just return it
-            return dataDict[item]
+    for yr in allYears:
+        if searchVal > yr:					# we haven't found it yet...
+            prevYear = yr					# remember the last value visited (for mapping later)
+            prevVal = dataDict[yr]	
+        elif searchVal < yr: 					# if we passed it, map between the last value and this one
+            return map( searchVal, prevYear, yr, prevVal, dataDict[yr] )
+        else:							# an exact match, just return it
+            return dataDict[yr]
     return 0
 
 def findBounds( dataDict ):

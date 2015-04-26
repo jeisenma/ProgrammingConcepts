@@ -3,6 +3,7 @@ data1 = [ PVector(0.1825,0.6675),
           PVector(0.1825,0.6675),
           PVector(0.4075,0.7575),
           PVector(0.3,0.62),
+          PVector(0.5,0.5),
           PVector(0.445,0.4825),
           PVector(0.8225,0.1825) ]
 
@@ -57,15 +58,19 @@ def draw():
     text( "rain (inches per day)", -width/2, 0 )
     popMatrix()
     
-    # draw the data points
-    stroke( 0, map(blendTimer, 0, startTimer, 255, 0) )
-    fill( dataColors[ mode ], map(blendTimer, 0, startTimer, 255, 0) )
-    for d in data[ mode ]:	  # display the data set indicated by 'mode'
+    # draw the data points, using transparency to fade in current data set
+    transparency = map(blendTimer, 0, startTimer, 255, 0)
+    stroke( 0, transparency )
+    fill( dataColors[ mode ], transparency )
+    # display the data set indicated by 'mode'
+    for d in data[ mode ]:	  
         ellipse( d.x*width, d.y*height, 5, 5 ) 
 	
+    # if fading, draw the old data points, using transparency to fade out other data set
     if blendTimer > 0 :
-        stroke( 0, map(blendTimer, 0, startTimer, 0, 255) )
-        fill( dataColors[ pmode ], map(blendTimer, 0, startTimer, 0, 255) )
+        transparency = map(blendTimer, 0, startTimer, 0, 255)
+        stroke( 0, transparency )
+        fill( dataColors[ mode ], transparency )
         for d in data[ pmode ]:	   # display the data set indicated by 'mode'
             ellipse( d.x*width, d.y*height, 5, 5 ) 
 	blendTimer = max( 0, blendTimer-1 )

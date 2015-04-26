@@ -13,30 +13,34 @@ data = [ PVector(0.1175,0.2725),
 
 def setup():
     size(400,400)
+    textAlign(CENTER,TOP)
+    stroke(0)
+    
 
 def draw():
     background(255)
     # draw the axes
     bd = 15		# border space
-    stroke(0)
     fill(0)
-    line( bd, height-bd, width-bd, height-bd )	  # x-axis
-    textAlign(CENTER,TOP)
-    text( "time", width/2, height-bd )					  # ALWAYS label your axes!
-    line( bd, bd, bd, height-bd )	 # y-axis
-    pushMatrix()
+    # x-axis
+    line( bd, height-bd, width-bd, height-bd )	  
+    text( "time", width/2, height-bd )	 # ALWAYS label your axes!
+    
+    # y-axis
+    line( bd, bd, bd, height-bd )	 
+    pushMatrix()            # rotate before drawing y-axis label
     rotate( radians(-90) )
     text( "temperature (F)", -width/2, 0 )
     popMatrix()
     
-    # draw the data points
+    # draw the data points as a series of vertices
     strokeWeight(2)
-    stroke( 0 )
-    pd = data[0]		# previous data point
-    for d in data:	  	# display the data set indicated by 'mode'
-        # draw a line from previous point (pd) to current point (d)
-        line(pd.x*width,pd.y*height, d.x*width,d.y*height) 
-	pd = d.get()	# make a copy of this point so we can reference it next time as the previous point
+    noFill()
+    beginShape()
+    for d in data:
+        vertex(d.x * width, d.y * height)
+    endShape()
+
 	
 
 

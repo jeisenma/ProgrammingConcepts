@@ -34,9 +34,6 @@ class BarGraph:
         self.timer = 0.0	# time used for interpolation
         self.duration = 1.0	# how long the interpolation should take
         self.labels = []	# make space for our arrays
-        self.data = []
-        self.oldData = []
-        self.newData = []
         # copy the parameter values to our arrays
         for i in range(len(L)):
             self.labels.append( L[i] )
@@ -70,6 +67,7 @@ class BarGraph:
         for i,d in enumerate(self.data):
             x = self.margin + (w + self.spacing)*i
             y = height-self.margin
+            # negative height draws rectangles up from the bottom left corner (instead of down from top right corner)
             h = -map( d, 0, 1000, 0, height-2*self.margin )
             rect( x, y, w, h )
             text( self.labels[i], x+w/2, y+20 )
